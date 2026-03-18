@@ -1,0 +1,607 @@
+{
+  "id": "tiroides",
+  "nombre": "Tiroides",
+  "descripcion": "Preguntas de nivel superior sobre la glándula tiroides, estructura histológica, funciones y patología",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la ubicación anatómica exacta de la glándula tiroides?",
+      "opciones": [
+        "En la región anterior del cuello, delante de la laringe y la tráquea",
+        "En la región posterior del cuello, detrás de los músculos esternocleidomastoideos",
+        "En la región lateral del cuello, junto a las glándulas parótidas",
+        "En la región superior del tórax, dentro de la cavidad mediastínica"
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "La glándula tiroides se localiza en la región anterior del cuello, específicamente delante de la laringe y la tráquea, entre los anillos traqueales segundo y sexto aproximadamente. Esta ubicación es fundamental para su función en la regulación del metabolismo, ya que permite una estrecha relación con las estructuras del cuello. La glándula está cubierta por la fascia cervical y se divide en dos lóbulos laterales unidos por un istmo central. Su posición anterior la hace palpable durante el examen físico, permitiendo detectar cambios de tamaño o textura que puedan indicar patología tiroidea."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es el peso aproximado de la glándula tiroides en un adulto sano?",
+      "opciones": [
+        "10-15 gramos",
+        "25-30 gramos",
+        "50-60 gramos",
+        "100-120 gramos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula tiroides de un adulto sano pesa aproximadamente 25-30 gramos, aunque puede variar entre 15-35 gramos dependiendo del sexo, edad y estado nutricional del individuo. Este peso es importante desde el punto de vista clínico, ya que un aumento significativo (bocio) puede indicar patología tiroidea. Las dimensiones típicas son de 5 x 2.5 cm en cada lóbulo. El peso de la glándula está directamente relacionado con su capacidad funcional y su contenido de hormonas tiroideas. Cambios en el peso pueden reflejar alteraciones en la función tiroidea o procesos inflamatorios."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es la estructura histológica fundamental de la glándula tiroides?",
+      "opciones": [
+        "Acinos secretores rodeados de células mioepiteliales",
+        "Folículos tiroideos compuestos por epitelio folicular y coloide",
+        "Túbulos secretores ramificados con células basales",
+        "Cordones celulares sin estructura folicular definida"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La estructura histológica fundamental de la glándula tiroides es el folículo tiroideo, que consiste en una capa de epitelio folicular que rodea una cavidad central llena de coloide. El coloide es una sustancia gelatinosa que contiene tiroglobulina, la proteína precursora de las hormonas tiroideas T3 y T4. Cada folículo tiene un diámetro de 0.2 a 1 mm y representa la unidad estructural y funcional de la glándula. El epitelio folicular está compuesto por células cúbicas o cilíndricas bajas que secretan continuamente hormonas hacia el coloide. Estos folículos pueden almacenar varias semanas de producción hormonal dentro del coloide, lo que permite una regulación hormonal estable."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuáles son las principales características de las células foliculares tiroideas?",
+      "opciones": [
+        "Células grandes, multinucleadas, con citoplasma basófilo intenso",
+        "Células cúbicas o cilíndricas bajas con núcleo esférico central y citoplasma basófilo",
+        "Células aplanadas con núcleo periférico y citoplasma claro",
+        "Células columnares altas con múltiples vacuolas lipídicas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células foliculares tiroideas son células cúbicas o cilíndricas bajas que presentan características histológicas distintivas. Poseen un núcleo esférico de tamaño mediano ubicado centralmente, con un citoplasma basófilo que refleja su alto contenido en ribosomas y retículo endoplásmico rugoso, necesarios para la síntesis proteica. La superficie basal de estas células está en contacto con la lámina basal, mientras que la superficie apical presenta microvellosidades que aumentan el área de contacto con el coloide. Estas características estructurales están directamente relacionadas con su función secretora de hormonas tiroideas. El citoplasma basófilo es particularmente evidente cuando la glándula está en estado activo de síntesis hormonal."
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Qué es el coloide tiroideo y cuál es su función principal?",
+      "opciones": [
+        "Un líquido seroso que rodea los folículos tiroideos",
+        "Una sustancia gelatinosa que contiene tiroglobulina y productos de secreción hormonal",
+        "Un material de soporte conectivo entre los folículos",
+        "Una sustancia mucosa producida por células parafoliculares"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El coloide es una sustancia gelatinosa que llena la luz central de los folículos tiroideos y contiene principalmente tiroglobulina, la proteína precursora de las hormonas tiroideas. El coloide actúa como un depósito de almacenamiento de hormonas, permitiendo que la glándula mantenga reservas suficientes para varias semanas de producción hormonal. Esta función de almacenamiento es única entre las glándulas endocrinas y proporciona una regulación hormonal más estable. El coloide también contiene productos de degradación de tiroglobulina, enzimas proteolíticas y peroxidasa tiroidea. La composición del coloide varía según el estado funcional de la glándula: en glándulas activas es más fluido y en glándulas inactivas es más denso y eosinófilo."
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuáles son las células parafoliculares y qué hormona secretan?",
+      "opciones": [
+        "Células grandes que rodean los folículos y secretan calcitonina",
+        "Células pequeñas ubicadas dentro de la lámina basal que secretan calcitonina",
+        "Células del tejido conectivo que secretan hormona paratiroidea",
+        "Células neuroendocrinas que secretan somatostatina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células parafoliculares, también conocidas como células C, son células neuroendocrinas especializadas ubicadas dentro de la lámina basal de los folículos tiroideos pero no expuestas directamente a la luz folicular. Estas células secretan calcitonina, una hormona peptídica que regula los niveles de calcio sérico mediante la inhibición de la resorción ósea y la promoción de la excreción renal de calcio. Las células parafoliculares tienen un citoplasma pálido o claro, un núcleo esférico pequeño y son difíciles de visualizar con microscopía óptica convencional. Histoquímicamente, pueden demostrarse mediante técnicas de inmunohistoquímica específicas para calcitonina. Estas células tienen origen en la cresta neural, a diferencia de las células foliculares que derivan del endodermo faríngeo."
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es el diámetro aproximado de los folículos tiroideos?",
+      "opciones": [
+        "0.05 a 0.1 mm",
+        "0.2 a 1 mm",
+        "2 a 5 mm",
+        "10 a 20 mm"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los folículos tiroideos tienen un diámetro que varía entre 0.2 a 1 mm, aunque pueden alcanzar tamaños mayores en ciertas condiciones patológicas. Este tamaño es importante desde el punto de vista histológico, ya que permite que toda la estructura folicular sea visible en una sección histológica convencional. El diámetro del folículo está relacionado con su estado funcional: los folículos activos tienden a ser más pequeños con epitelio más alto y coloide menos denso, mientras que los folículos inactivos son más grandes con epitelio bajo y coloide más denso y eosinófilo. La variación en el tamaño de los folículos es una característica normal de la glándula tiroides y refleja diferentes estados funcionales en diferentes regiones de la glándula."
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Cuántas semanas de producción hormonal puede almacenar un folículo tiroideo?",
+      "opciones": [
+        "1-2 semanas",
+        "2-3 semanas",
+        "Varias semanas",
+        "Varios meses"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cada folículo tiroideo puede almacenar varias semanas de producción hormonal dentro del coloide, lo que representa una característica única entre las glándulas endocrinas. Esta capacidad de almacenamiento proporciona una regulación hormonal muy estable y permite que la glándula mantenga niveles hormonales relativamente constantes incluso si la síntesis se reduce temporalmente. Esta función de almacenamiento es clínicamente importante, ya que explica por qué los síntomas de hipotiroidismo no aparecen inmediatamente después de una tiroidectomía, sino que se desarrollan gradualmente. Asimismo, en casos de hipertiroidismo, puede tomar varias semanas para que los niveles hormonales se normalicen después del inicio del tratamiento con drogas antitiroides."
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuál es la composición histológica del epitelio folicular tiroideo?",
+      "opciones": [
+        "Epitelio cilíndrico simple estratificado",
+        "Epitelio cúbico o cilíndrico bajo simple",
+        "Epitelio escamoso simple",
+        "Epitelio pseudoestratificado cilíndrico"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El epitelio folicular tiroideo está compuesto por una capa simple de células cúbicas o cilíndricas bajas, lo que lo clasifica como epitelio cúbico o cilíndrico bajo simple. Este tipo de epitelio es característico de órganos secretores. Las células del epitelio folicular presentan una polaridad clara, con una superficie basal en contacto con la lámina basal y una superficie apical con microvellosidades que se proyectan hacia el coloide. El espesor del epitelio varía según el estado funcional de la glándula: en glándulas activas, el epitelio es más alto (cilíndrico bajo a cilíndrico), mientras que en glándulas inactivas, el epitelio es más bajo (cúbico bajo). Esta variación en la altura del epitelio es un indicador importante del estado funcional de la glándula."
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cuáles son las características ultraestructurales de las células foliculares activas?",
+      "opciones": [
+        "Escaso retículo endoplásmico rugoso y pocas mitocondrias",
+        "Abundante retículo endoplásmico rugoso, numerosas mitocondrias y aparato de Golgi bien desarrollado",
+        "Numerosas vacuolas lipídicas y escasas vesículas de secreción",
+        "Núcleo periférico y citoplasma con inclusiones cristalinas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células foliculares tiroideas activas presentan características ultraestructurales que reflejan su alto nivel de actividad secretora. Poseen un abundante retículo endoplásmico rugoso (RER) para la síntesis de proteínas, numerosas mitocondrias que proporcionan la energía (ATP) necesaria para la síntesis y secreción, y un aparato de Golgi bien desarrollado para el procesamiento y empaquetamiento de las proteínas secretadas. También presentan numerosas vesículas de secreción que transportan las proteínas hacia la membrana apical para su liberación hacia el coloide. El núcleo es grande y eucromático, indicando una alta actividad transcripcional. Estas características ultraestructurales son más evidentes en glándulas activas o estimuladas por TSH, mientras que en glándulas inactivas estas organelas están menos desarrolladas."
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Cuál es la estructura de la lámina basal que rodea los folículos tiroideos?",
+      "opciones": [
+        "Una membrana simple sin componentes específicos",
+        "Una estructura compleja compuesta por colágeno tipo IV, laminina y proteoglicanos",
+        "Una capa de células mioepiteliales",
+        "Una membrana de fosfolípidos sin proteínas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La lámina basal que rodea los folículos tiroideos es una estructura compleja compuesta principalmente por colágeno tipo IV, laminina, nidógeno y proteoglicanos. Esta lámina basal separa el epitelio folicular del tejido conectivo intersticial y proporciona soporte estructural al epitelio. Además de su función estructural, la lámina basal también participa en la regulación de la interacción célula-matriz y en la migración celular durante procesos de reparación y regeneración. La integridad de la lámina basal es importante para mantener la arquitectura normal del folículo y puede verse comprometida en procesos patológicos como la tiroiditis autoinmune. Las células parafoliculares se ubican dentro de la lámina basal pero no están expuestas a la luz folicular, lo que refleja su diferente origen embrionario."
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Cuáles son las microvellosidades apicales de las células foliculares y cuál es su función?",
+      "opciones": [
+        "Estructuras para la absorción de nutrientes del coloide",
+        "Proyecciones que aumentan el área de contacto con el coloide para la reabsorción de hormonas",
+        "Estructuras para la motilidad celular",
+        "Proyecciones para la adhesión intercelular"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las microvellosidades apicales de las células foliculares son proyecciones de la membrana plasmática que aumentan significativamente el área de contacto entre la célula y el coloide. Estas microvellosidades son particularmente importantes para la reabsorción de hormonas tiroideas del coloide durante el proceso de liberación hormonal. Cuando la glándula necesita liberar hormonas, las células foliculares reabsorben el coloide mediante endocitosis, y las microvellosidades facilitan este proceso al aumentar el área disponible para la captura de gotitas de coloide. Además, las microvellosidades también participan en la secreción de productos hacia el coloide. El número y tamaño de las microvellosidades aumenta cuando la glándula está activa y disminuye cuando está inactiva, reflejando el estado funcional de la célula."
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Cuál es el papel del núcleo esférico en las células foliculares tiroideas?",
+      "opciones": [
+        "Almacenar depósitos de calcio",
+        "Contener el material genético y dirigir la síntesis de proteínas tiroideas",
+        "Almacenar hormonas tiroideas",
+        "Producir enzimas digestivas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El núcleo esférico de las células foliculares tiroideas contiene el material genético (ADN) y dirige la síntesis de todas las proteínas necesarias para la función tiroidea, incluyendo la tiroglobulina, peroxidasa tiroidea y otras enzimas involucradas en la síntesis hormonal. El núcleo es típicamente eucromático, indicando una alta actividad transcripcional, especialmente cuando la glándula está estimulada por TSH (hormona estimulante de la tiroides). El nucléolo es prominente, reflejando la síntesis activa de ARN ribosómico necesario para la producción de ribosomas. La posición central del núcleo es característica de las células secretoras activas. En glándulas inactivas, el núcleo puede aparecer más heterocromático y el nucléolo menos prominente, reflejando una menor actividad transcripcional."
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cuáles son las principales hormonas producidas por la glándula tiroides?",
+      "opciones": [
+        "Insulina y glucagón",
+        "T3 (triyodotironina) y T4 (tiroxina)",
+        "Cortisol y aldosterona",
+        "Hormona de crecimiento y prolactina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las principales hormonas producidas por la glándula tiroides son T3 (triyodotironina) y T4 (tiroxina), ambas sintetizadas por las células foliculares a partir de la tiroglobulina. T4 es la forma de almacenamiento y transporte de la hormona tiroidea, mientras que T3 es la forma más activa biológicamente. Ambas hormonas contienen átomos de yodo, que es un elemento esencial para su síntesis y función. Estas hormonas regulan el metabolismo basal, la termogénesis, el crecimiento y el desarrollo. Además, la glándula también produce calcitonina a partir de las células parafoliculares, que regula los niveles de calcio sérico. La síntesis y liberación de T3 y T4 están reguladas por TSH (hormona estimulante de la tiroides) de la hipófisis anterior, en un sistema de retroalimentación negativa."
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Cómo se distribuyen los folículos tiroideos dentro de la glándula?",
+      "opciones": [
+        "En una sola capa bajo la cápsula",
+        "Distribuidos uniformemente en todo el parénquima glandular",
+        "Principalmente en el istmo",
+        "Solo en los lóbulos laterales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los folículos tiroideos se distribuyen uniformemente en todo el parénquima glandular, tanto en los lóbulos laterales como en el istmo. Esta distribución uniforme permite que toda la glándula participe en la síntesis y almacenamiento de hormonas tiroideas. Sin embargo, la distribución no es completamente homogénea, y pueden observarse variaciones en el tamaño y densidad de los folículos en diferentes regiones de la glándula, reflejando diferentes estados funcionales. El tejido conectivo intersticial que rodea los folículos contiene vasos sanguíneos y linfáticos, así como células del sistema inmunológico, que son importantes para la nutrición de la glándula y para la regulación de su función. La arquitectura folicular es importante para mantener la función normal de la glándula, y las alteraciones en esta arquitectura pueden indicar patología tiroidea."
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Cuál es la composición del tejido conectivo intersticial de la glándula tiroides?",
+      "opciones": [
+        "Solo fibras colágenas sin células",
+        "Fibras colágenas, vasos sanguíneos, vasos linfáticos y células del sistema inmunológico",
+        "Principalmente adipocitos",
+        "Solo células de soporte sin matriz extracelular"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tejido conectivo intersticial de la glándula tiroides está compuesto por fibras colágenas (principalmente colágeno tipo I y III), vasos sanguíneos de calibre variable (arteriolas, capilares y vénulas), vasos linfáticos y diversas células del sistema inmunológico incluyendo linfocitos, macrófagos y células dendríticas. Este tejido conectivo proporciona soporte estructural a los folículos y facilita el intercambio de nutrientes y oxígeno entre la sangre y las células foliculares. Los vasos sanguíneos son particularmente abundantes alrededor de los folículos, formando una red capilar que permite una estrecha relación entre la circulación y las células secretoras. Los vasos linfáticos drenan el exceso de líquido intersticial y participan en la respuesta inmunológica local. Las células del sistema inmunológico son importantes para la defensa contra infecciones y para la regulación de la respuesta autoinmune."
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuál es la función de la cápsula fibrosa que rodea la glándula tiroides?",
+      "opciones": [
+        "Producir hormonas tiroideas",
+        "Proporcionar soporte estructural y protección a la glándula",
+        "Almacenar hormonas tiroideas",
+        "Filtrar la sangre"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La cápsula fibrosa que rodea la glándula tiroides proporciona soporte estructural y protección a la glándula, mantiene su forma y facilita su movilidad durante la deglución. La cápsula está compuesta principalmente por fibras colágenas y fibras elásticas, lo que le proporciona resistencia y elasticidad. Además de su función mecánica, la cápsula también actúa como una barrera que limita la propagación de infecciones o procesos inflamatorios. La cápsula está íntimamente relacionada con la fascia cervical, que proporciona soporte adicional y facilita la movilidad de la glándula. La delgadez de la cápsula tiroidea permite que la glándula se expanda cuando aumenta de tamaño (bocio), pero también la hace vulnerable a la infiltración de procesos patológicos. La cápsula contiene vasos sanguíneos y nervios que penetran en la glándula para nutrirla e inervarla."
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Cuál es la diferencia entre los lóbulos laterales y el istmo de la glándula tiroides?",
+      "opciones": [
+        "Los lóbulos laterales producen T3 y el istmo produce T4",
+        "Los lóbulos laterales son más grandes y el istmo es una estructura de conexión entre ellos",
+        "El istmo produce calcitonina y los lóbulos laterales producen hormonas tiroideas",
+        "No hay diferencias funcionales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula tiroides está compuesta por dos lóbulos laterales unidos por una estructura de conexión llamada istmo. Los lóbulos laterales son las estructuras principales de la glándula y contienen la mayoría de los folículos tiroideos. El istmo es una banda delgada de tejido tiroideo que conecta los dos lóbulos laterales en la línea media, generalmente ubicada a nivel del segundo y tercer anillo traqueal. Aunque el istmo es más pequeño que los lóbulos laterales, contiene folículos tiroideos funcionales. Ocasionalmente, puede haber un lóbulo piramidal que se extiende desde el istmo hacia arriba. Funcionalmente, no hay diferencias significativas entre los lóbulos laterales y el istmo en términos de síntesis y secreción de hormonas, aunque el istmo puede ser más accesible para la palpación durante el examen físico."
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es la relación entre la glándula tiroides y el metabolismo basal?",
+      "opciones": [
+        "La tiroides no tiene relación con el metabolismo basal",
+        "Las hormonas tiroideas aumentan el metabolismo basal y la termogénesis",
+        "Las hormonas tiroideas disminuyen el metabolismo basal",
+        "La tiroides solo regula el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las hormonas tiroideas T3 y T4 son reguladores principales del metabolismo basal del cuerpo. Estas hormonas aumentan el metabolismo basal al aumentar la tasa de consumo de oxígeno y la producción de calor (termogénesis) en prácticamente todos los tejidos del cuerpo. Las hormonas tiroideas actúan a nivel celular, aumentando la actividad de la bomba Na+/K+-ATPasa y estimulando la síntesis de proteínas y el catabolismo de carbohidratos y lípidos. Un aumento en los niveles de hormonas tiroideas (hipertiroidismo) resulta en un aumento del metabolismo basal, pérdida de peso y aumento de la producción de calor. Por el contrario, una disminución en los niveles de hormonas tiroideas (hipotiroidismo) resulta en una disminución del metabolismo basal, ganancia de peso y disminución de la producción de calor. Esta relación es fundamental para mantener la homeostasis energética del cuerpo."
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Cuál es el papel del yodo en la síntesis de hormonas tiroideas?",
+      "opciones": [
+        "El yodo no es necesario para la síntesis de hormonas tiroideas",
+        "El yodo es un componente esencial de las moléculas de T3 y T4",
+        "El yodo solo se necesita para la síntesis de calcitonina",
+        "El yodo es un cofactor para la peroxidasa tiroidea"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El yodo es un componente esencial de las moléculas de T3 (triyodotironina) y T4 (tiroxina), siendo incorporado directamente en los anillos aromáticos de la tirosina durante la síntesis de estas hormonas. T4 contiene cuatro átomos de yodo, mientras que T3 contiene tres átomos de yodo. La deficiencia de yodo resulta en una síntesis insuficiente de hormonas tiroideas, lo que lleva a hipotiroidismo y bocio (aumento de tamaño de la glándula). El yodo es absorbido del tracto gastrointestinal como yoduro y es captado activamente por las células foliculares tiroideas a través de un transportador específico. Una vez dentro de la célula, el yoduro es oxidado a yodo por la peroxidasa tiroidea, que luego es incorporado en los residuos de tirosina de la tiroglobulina. La deficiencia de yodo es una causa importante de hipotiroidismo y retraso del crecimiento en muchas partes del mundo."
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Cuáles son los cambios histológicos que ocurren en la glándula tiroides durante la activación por TSH?",
+      "opciones": [
+        "Aumento del tamaño de los folículos y disminución de la altura del epitelio",
+        "Aumento de la altura del epitelio folicular, disminución del coloide y aumento de la actividad celular",
+        "Disminución del número de mitocondrias",
+        "Aumento de la cantidad de coloide denso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando la glándula tiroides es estimulada por TSH (hormona estimulante de la tiroides), ocurren varios cambios histológicos característicos que reflejan el aumento de la actividad funcional. El epitelio folicular aumenta su altura, pasando de cúbico bajo a cilíndrico bajo o cilíndrico. El coloide disminuye en cantidad y se vuelve menos denso, reflejando la reabsorción activa de hormonas. Las células foliculares muestran un aumento en el número de microvellosidades apicales y en el tamaño del aparato de Golgi y del retículo endoplásmico rugoso. Las mitocondrias aumentan en número y tamaño, proporcionando más energía para la síntesis y secreción hormonal. El núcleo se vuelve más eucromático y el nucléolo más prominente, indicando una mayor actividad transcripcional. Estos cambios son reversibles y desaparecen cuando cesa la estimulación por TSH."
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cuál es la diferencia histológica entre una glándula tiroides activa e inactiva?",
+      "opciones": [
+        "No hay diferencias histológicas significativas",
+        "La glándula activa tiene epitelio más alto, coloide menos denso y mayor actividad celular; la inactiva tiene epitelio bajo, coloide denso y menor actividad celular",
+        "La glándula inactiva tiene más folículos",
+        "La glándula activa tiene más células parafoliculares"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Existen diferencias histológicas significativas entre una glándula tiroides activa e inactiva. Una glándula activa (estimulada por TSH) presenta folículos más pequeños con epitelio cilíndrico bajo o cilíndrico alto, coloide menos denso y más claro, y células foliculares con citoplasma basófilo intenso indicando síntesis activa de proteínas. Una glándula inactiva presenta folículos más grandes con epitelio cúbico bajo, coloide más denso y eosinófilo, y células foliculares con citoplasma menos basófilo. En la glándula activa, hay más microvellosidades apicales, más mitocondrias y un aparato de Golgi más desarrollado. El núcleo en la glándula activa es más eucromático con un nucléolo prominente, mientras que en la glándula inactiva es más heterocromático con un nucléolo menos evidente. Estos cambios reflejan el estado funcional de la glándula y pueden ser utilizados para evaluar la actividad tiroidea histológicamente."
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Cuál es el proceso de síntesis y liberación de hormonas tiroideas?",
+      "opciones": [
+        "Las hormonas se sintetizan directamente en el coloide",
+        "Las hormonas se sintetizan en las células foliculares como tiroglobulina, se secretan al coloide, se reabsorben y se liberan a la sangre",
+        "Las hormonas se almacenan directamente en las mitocondrias",
+        "Las hormonas se sintetizan en el núcleo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El proceso de síntesis y liberación de hormonas tiroideas es complejo e involucra varios pasos. Las células foliculares sintetizan tiroglobulina en el retículo endoplásmico rugoso, que es procesada en el aparato de Golgi y secretada hacia el coloide mediante exocitosis. En el coloide, los residuos de tirosina en la tiroglobulina son yodados por la peroxidasa tiroidea, formando monoiodotirosina (MIT) y diiodotirosina (DIT). Luego, MIT y DIT se acoplan para formar T3 y T4, que permanecen unidos a la tiroglobulina en el coloide. Cuando la glándula necesita liberar hormonas, las células foliculares reabsorben gotitas de coloide mediante endocitosis. Dentro de las células, la tiroglobulina es degradada por proteasas lisosomales, liberando T3 y T4 libres que son secretadas a la sangre. Este proceso es regulado por TSH de la hipófisis anterior."
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Cuál es el papel de la peroxidasa tiroidea en la síntesis de hormonas tiroideas?",
+      "opciones": [
+        "Sintetiza tiroglobulina",
+        "Cataliza la yodación de residuos de tirosina en la tiroglobulina",
+        "Regula la reabsorción de coloide",
+        "Produce calcitonina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La peroxidasa tiroidea (TPO) es una enzima crucial en la síntesis de hormonas tiroideas que cataliza la yodación de residuos de tirosina en la tiroglobulina. Esta enzima está localizada en la membrana apical de las células foliculares y en el retículo endoplásmico rugoso. La peroxidasa tiroidea oxida el yoduro a yodo, que luego se incorpora en los residuos de tirosina, formando monoiodotirosina (MIT) y diiodotirosina (DIT). La misma enzima también cataliza el acoplamiento de MIT y DIT para formar T3 y T4. La deficiencia de peroxidasa tiroidea resulta en una síntesis insuficiente de hormonas tiroideas. Además, la peroxidasa tiroidea es el antígeno principal en la tiroiditis autoinmune de Hashimoto, donde los anticuerpos contra esta enzima contribuyen a la destrucción de la glándula. La actividad de la peroxidasa tiroidea es regulada por TSH."
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Cuál es la relación entre la glándula tiroides y el eje hipotálamo-hipófisis?",
+      "opciones": [
+        "No hay relación entre estas estructuras",
+        "El hipotálamo produce TRH, que estimula la hipófisis anterior a producir TSH, que estimula la tiroides",
+        "La tiroides produce TSH",
+        "El hipotálamo produce directamente hormonas tiroideas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Existe una relación compleja entre la glándula tiroides y el eje hipotálamo-hipófisis que forma un sistema de retroalimentación negativa. El hipotálamo produce hormona liberadora de tirotropina (TRH), que estimula la hipófisis anterior a producir hormona estimulante de la tiroides (TSH). TSH estimula la glándula tiroides a sintetizar y liberar T3 y T4. Los niveles elevados de T3 y T4 inhiben la liberación de TRH del hipotálamo y la liberación de TSH de la hipófisis anterior, completando el circuito de retroalimentación negativa. Este sistema mantiene los niveles de hormonas tiroideas dentro de un rango estrecho necesario para la homeostasis. Las alteraciones en cualquier parte de este eje pueden resultar en disfunción tiroidea. Por ejemplo, la deficiencia de TSH resulta en hipotiroidismo secundario, mientras que un exceso de TSH resulta en hipertiroidismo secundario."
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Cuáles son los cambios histológicos en la tiroiditis autoinmune de Hashimoto?",
+      "opciones": [
+        "Aumento del tamaño de los folículos sin infiltración celular",
+        "Infiltración de linfocitos y células plasmáticas, destrucción de folículos y fibrosis",
+        "Aumento del coloide sin cambios en el epitelio",
+        "Hiperplasia del epitelio folicular sin inflamación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tiroiditis autoinmune de Hashimoto es caracterizada histológicamente por una infiltración masiva de linfocitos T y células B, así como células plasmáticas productoras de anticuerpos en el tejido tiroideo. Esta infiltración inflamatoria resulta en la destrucción gradual de los folículos tiroideos, reemplazados por tejido fibroso (fibrosis). Los anticuerpos contra la peroxidasa tiroidea (anti-TPO) y contra la tiroglobulina (anti-Tg) son característicos de esta enfermedad. La glándula generalmente está aumentada de tamaño (bocio) en las etapas iniciales, pero puede volverse fibrosa y atrófica en las etapas avanzadas. Histológicamente, se observa una disminución progresiva en el número de folículos tiroideos normales, reemplazados por tejido conectivo fibroso y células inflamatorias. Los folículos residuales pueden estar atróficos o mostrar cambios en el epitelio. Esta enfermedad es la causa más común de hipotiroidismo en áreas con suficiente ingesta de yodo."
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Cuáles son los cambios histológicos en el bocio difuso tóxico (enfermedad de Graves)?",
+      "opciones": [
+        "Fibrosis masiva sin infiltración inflamatoria",
+        "Hiperplasia folicular con epitelio cilíndrico alto, coloide escaso y sin fibrosis significativa",
+        "Atrofia folicular con disminución del epitelio",
+        "Formación de nódulos solitarios"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el bocio difuso tóxico (enfermedad de Graves), los cambios histológicos reflejan una estimulación excesiva de la glándula tiroides. Se observa hiperplasia folicular generalizada con un aumento significativo en el número y tamaño de los folículos. El epitelio folicular es cilíndrico alto, indicando una actividad secretora máxima. El coloide es escaso, claro y menos denso, reflejando la reabsorción activa de hormonas. Las células foliculares muestran un citoplasma basófilo intenso y núcleos grandes con nucléolos prominentes. Las microvellosidades apicales son abundantes. No hay fibrosis significativa, a diferencia de la tiroiditis de Hashimoto. El tejido conectivo intersticial puede mostrar una infiltración leve de células inflamatorias, principalmente linfocitos. La glándula está significativamente aumentada de tamaño. Estos cambios son el resultado de la estimulación por inmunoglobulinas estimulantes de la tiroides (TSI) que mimetizan la acción de TSH."
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Cuál es la diferencia histológica entre un adenoma tiroideo y un carcinoma tiroideo?",
+      "opciones": [
+        "No hay diferencias histológicas",
+        "El adenoma tiene una cápsula bien definida sin invasión; el carcinoma invade la cápsula y los tejidos adyacentes",
+        "El carcinoma tiene más folículos",
+        "El adenoma es siempre maligno"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La diferencia fundamental entre un adenoma tiroideo y un carcinoma tiroideo es la presencia de invasión. Un adenoma tiroideo es un tumor benigno que tiene una cápsula bien definida que lo separa del tejido tiroideo normal adyacente. Histológicamente, el adenoma muestra una arquitectura folicular que puede ser similar a la del tejido tiroideo normal, aunque puede haber variaciones en el tamaño y la forma de los folículos. Un carcinoma tiroideo, por el contrario, invade la cápsula del tumor y penetra en el tejido tiroideo normal adyacente, vasos sanguíneos y linfáticos. El carcinoma muestra características de malignidad como mitosis aumentadas, necrosis, pleomorfismo nuclear y pérdida de la arquitectura folicular normal. El tipo histológico más común de carcinoma tiroideo es el carcinoma papilar, seguido por el carcinoma folicular. La presencia de invasión capsular y extratiroidea es el criterio clave para diferenciar un carcinoma de un adenoma."
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Cuáles son las características histológicas del carcinoma papilar de tiroides?",
+      "opciones": [
+        "Folículos bien diferenciados sin papilas",
+        "Estructuras papilares con núcleos grandes, claros y con surcos característicos",
+        "Células fusiformes sin formación de papilas",
+        "Folículos llenos de coloide sin invasión"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El carcinoma papilar de tiroides es el tipo más común de cáncer tiroideo y se caracteriza histológicamente por la formación de estructuras papilares. Las papilas están compuestas por un eje de tejido conectivo cubierto por epitelio maligno. Las células tumorales tienen núcleos grandes, claros (vidrio molido) con surcos longitudinales característicos y membranas nucleares irregulares. Se pueden observar cuerpos de Psamoma (depósitos de calcio laminados) dentro de las papilas. El carcinoma papilar invade la cápsula tiroidea y frecuentemente se disemina a los ganglios linfáticos cervicales, aunque la diseminación a distancia es menos común que en otros tipos de cáncer tiroideo. A pesar de su potencial maligno, el carcinoma papilar de tiroides tiene un pronóstico relativamente favorable en comparación con otros carcinomas tiroideos, especialmente cuando se detecta en etapas tempranas."
+    },
+    {
+      "id": 30,
+      "pregunta": "¿Cuáles son las características histológicas del carcinoma folicular de tiroides?",
+      "opciones": [
+        "Estructuras papilares bien definidas",
+        "Invasión vascular y capsular con arquitectura folicular preservada",
+        "Células fusiformes sin formación de folículos",
+        "Folículos normales sin invasión"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El carcinoma folicular de tiroides es el segundo tipo más común de cáncer tiroideo y se caracteriza histológicamente por la invasión vascular y capsular. A diferencia del carcinoma papilar, el carcinoma folicular mantiene una arquitectura folicular relativamente bien preservada, lo que lo hace difícil de diferenciar de un adenoma folicular en biopsias pequeñas. El criterio clave para el diagnóstico es la presencia de invasión vascular (penetración de la pared vascular por células tumorales) o invasión capsular. Las células tumorales pueden formar folículos con coloide o pueden ser más sólidas. El carcinoma folicular tiene una mayor propensión a la diseminación hematógena, especialmente a pulmones y huesos, en comparación con el carcinoma papilar. El pronóstico del carcinoma folicular es generalmente menos favorable que el del carcinoma papilar, especialmente en tumores de alto grado."
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Cuál es el papel del coloide en la protección de la glándula tiroides?",
+      "opciones": [
+        "El coloide no tiene función protectora",
+        "El coloide actúa como un depósito que permite una liberación gradual de hormonas, proporcionando estabilidad hormonal",
+        "El coloide solo sirve para almacenar calcio",
+        "El coloide es tóxico para las células foliculares"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El coloide actúa como un depósito estratégico que permite una liberación gradual y controlada de hormonas tiroideas, proporcionando estabilidad hormonal y protección contra fluctuaciones rápidas en los niveles de hormonas tiroideas. Esta función de almacenamiento es única entre las glándulas endocrinas y es particularmente importante para mantener la homeostasis metabólica. El coloide puede almacenar varias semanas de producción hormonal, lo que significa que la glándula puede mantener niveles hormonales relativamente constantes incluso si la síntesis se reduce temporalmente. Esta función protectora es clínicamente importante en situaciones de estrés o enfermedad, cuando la demanda de hormonas tiroideas puede aumentar. Además, el coloide también protege las hormonas tiroideas de la degradación enzimática prematura, permitiendo que se mantengan en forma activa hasta que sean necesarias."
+    },
+    {
+      "id": 32,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula tiroides durante el embarazo?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Aumento del tamaño de la glándula (bocio fisiológico), hiperplasia folicular e hipervascularización",
+        "Disminución del tamaño de la glándula",
+        "Aumento de la fibrosis"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Durante el embarazo, la glándula tiroides experimenta cambios histológicos significativos que reflejan el aumento de la demanda de hormonas tiroideas. Se observa un aumento en el tamaño de la glándula (bocio fisiológico del embarazo), que puede aumentar hasta un 50% en volumen. Histológicamente, hay hiperplasia folicular con un aumento en el número de folículos y en la altura del epitelio folicular. El coloide disminuye en cantidad, reflejando la mayor reabsorción de hormonas. La vascularización de la glándula aumenta significativamente, con más vasos sanguíneos dilatados en el tejido conectivo intersticial. Estos cambios son el resultado del aumento de TSH durante el embarazo y de la estimulación por gonadotropina coriónica humana (hCG). Los cambios histológicos son reversibles y la glándula vuelve a su tamaño normal después del parto. Estos cambios fisiológicos son importantes para asegurar un suministro adecuado de hormonas tiroideas para el desarrollo fetal."
+    },
+    {
+      "id": 33,
+      "pregunta": "¿Cuál es la relación entre la deficiencia de yodo y los cambios histológicos en la glándula tiroides?",
+      "opciones": [
+        "No hay relación entre deficiencia de yodo y cambios histológicos",
+        "La deficiencia de yodo resulta en hiperplasia folicular, aumento del tamaño de la glándula y cambios en la arquitectura folicular",
+        "La deficiencia de yodo resulta en atrofia de la glándula",
+        "La deficiencia de yodo resulta en fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La deficiencia de yodo resulta en cambios histológicos significativos en la glándula tiroides como mecanismo compensatorio para mantener la síntesis de hormonas tiroideas. Inicialmente, hay hiperplasia folicular con un aumento en el número de folículos y en la altura del epitelio folicular. El coloide disminuye en cantidad y se vuelve menos denso. Con la deficiencia crónica de yodo, la glándula aumenta de tamaño significativamente (bocio endémico), y la arquitectura folicular puede alterarse con la formación de folículos grandes llenos de coloide denso. La hiperplasia continua resulta en un aumento de la vascularización. A largo plazo, si la deficiencia de yodo persiste, puede haber cambios degenerativos con pérdida de la arquitectura folicular normal. Estos cambios histológicos son el resultado de la estimulación continua de la glándula por TSH en un intento de compensar la síntesis insuficiente de hormonas tiroideas debido a la falta de yodo."
+    },
+    {
+      "id": 34,
+      "pregunta": "¿Cuáles son las características histológicas de la tiroiditis subaguda?",
+      "opciones": [
+        "Infiltración masiva de linfocitos sin destrucción folicular",
+        "Destrucción folicular, infiltración de células inflamatorias, granulomas y fibrosis",
+        "Aumento del coloide sin inflamación",
+        "Hiperplasia folicular sin inflamación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tiroiditis subaguda, también conocida como tiroiditis de De Quervain, se caracteriza histológicamente por destrucción folicular con infiltración de células inflamatorias incluyendo linfocitos, macrófagos y células plasmáticas. Se pueden observar granulomas no caseosos alrededor de los folículos destruidos. El coloide se libera de los folículos destruidos y es fagocitado por macrófagos, resultando en la formación de células gigantes multinucleadas. Hay fibrosis variable dependiendo de la etapa de la enfermedad. En las etapas iniciales, hay más inflamación aguda; en las etapas posteriores, hay más fibrosis. La glándula puede estar aumentada de tamaño y dolorosa. Estos cambios histológicos reflejan una respuesta inflamatoria autolimitada, generalmente desencadenada por una infección viral. La tiroiditis subaguda es generalmente autolimitada y se resuelve en semanas a meses, aunque puede haber hipotiroidismo transitorio seguido de recuperación de la función tiroidea."
+    },
+    {
+      "id": 35,
+      "pregunta": "¿Cuál es el papel de las células dendríticas en la regulación de la respuesta inmunológica tiroidea?",
+      "opciones": [
+        "Las células dendríticas no están presentes en la tiroides",
+        "Las células dendríticas presentan antígenos tiroideos a las células T, regulando la respuesta inmunológica",
+        "Las células dendríticas solo producen coloide",
+        "Las células dendríticas destruyen todas las células B"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células dendríticas están presentes en el tejido conectivo intersticial de la glándula tiroides y juegan un papel importante en la regulación de la respuesta inmunológica tiroidea. Estas células son presentadoras de antígenos profesionales que capturan antígenos tiroideos (como la peroxidasa tiroidea y la tiroglobulina) y los presentan a las células T en los ganglios linfáticos regionales. Las células dendríticas pueden presentar antígenos de una manera que promueve la tolerancia inmunológica (células dendríticas tolerogénicas) o que promueve la respuesta autoinmune (células dendríticas inflamatorias). El balance entre estas dos funciones es crucial para mantener la tolerancia a los antígenos tiroideos propios y prevenir la autoinmunidad. En enfermedades autoinmunes tiroideas como la tiroiditis de Hashimoto, hay un desequilibrio en la función de las células dendríticas, con predominio de células dendríticas inflamatorias que promueven la respuesta autoinmune."
+    },
+    {
+      "id": 36,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la vejez?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Aumento de la fibrosis, atrofia folicular, disminución del coloide y cambios en la vascularización",
+        "Hiperplasia folicular progresiva",
+        "Aumento del tamaño de la glándula"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Durante la vejez, la glándula tiroides experimenta cambios histológicos progresivos que reflejan el envejecimiento. Se observa un aumento de la fibrosis intersticial, con reemplazo del tejido tiroideo funcional por tejido conectivo fibroso. Hay atrofia folicular con disminución del tamaño de los folículos y aumento de la altura del epitelio folicular. El coloide disminuye en cantidad. La vascularización de la glándula disminuye, con menos vasos sanguíneos en el tejido conectivo intersticial. Puede haber un aumento de las inclusiones lipídicas en las células foliculares. Estos cambios son generalmente acompañados por una disminución en la función tiroidea, aunque los niveles de TSH pueden aumentar compensatoriamente. La prevalencia de enfermedades tiroideas autoinmunes, como la tiroiditis de Hashimoto, aumenta con la edad. Estos cambios histológicos relacionados con la edad son importantes para entender la fisiología tiroidea en los ancianos."
+    },
+    {
+      "id": 37,
+      "pregunta": "¿Cuál es la función de los linfocitos T regulatorios en la prevención de la autoinmunidad tiroidea?",
+      "opciones": [
+        "Los linfocitos T regulatorios no tienen función en la tiroides",
+        "Los linfocitos T regulatorios suprimen la respuesta autoinmune mediante la producción de citoquinas inmunosupresoras",
+        "Los linfocitos T regulatorios promueven la autoinmunidad",
+        "Los linfocitos T regulatorios solo producen hormonas tiroideas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los linfocitos T regulatorios (Treg) juegan un papel crucial en la prevención de la autoinmunidad tiroidea mediante la supresión de la respuesta inmunológica contra los antígenos tiroideos propios. Estos linfocitos producen citoquinas inmunosupresoras como interleucina-10 (IL-10) y factor de crecimiento transformante beta (TGF-β), que inhiben la activación y proliferación de células T autorreactivas. Los linfocitos Treg también pueden suprimir directamente la función de las células B productoras de anticuerpos contra antígenos tiroideos. En enfermedades autoinmunes tiroideas como la tiroiditis de Hashimoto, hay un defecto en la función de los linfocitos Treg, resultando en una pérdida de tolerancia inmunológica a los antígenos tiroideos. Este defecto puede ser debido a una disminución en el número de linfocitos Treg o a una disminución en su función supresora. La restauración de la función de los linfocitos Treg es un objetivo terapéutico importante en el tratamiento de las enfermedades autoinmunes tiroideas."
+    },
+    {
+      "id": 38,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la radiación?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Daño de las células foliculares, inflamación, fibrosis y posible desarrollo de cáncer",
+        "Aumento de la producción de hormonas",
+        "Aumento del coloide sin cambios en el epitelio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La exposición a radiación ionizante causa daño significativo a la glándula tiroides. Histológicamente, se observa daño directo de las células foliculares con muerte celular y apoptosis. Hay una infiltración de células inflamatorias en respuesta al daño tisular. Con el tiempo, hay fibrosis progresiva del tejido tiroideo, resultando en atrofia de la glándula y pérdida de la función tiroidea (hipotiroidismo). La radiación también aumenta el riesgo de desarrollar cáncer tiroideo, particularmente carcinoma papilar. El riesgo de cáncer tiroideo es mayor cuando la exposición a radiación ocurre durante la infancia. Los cambios histológicos pueden incluir cambios displásicos en las células foliculares que pueden progresar a malignidad. La severidad de los cambios histológicos depende de la dosis de radiación recibida y del tiempo transcurrido desde la exposición. La tiroiditis por radiación puede ocurrir en pacientes que reciben radioterapia para cánceres de cabeza y cuello."
+    },
+    {
+      "id": 39,
+      "pregunta": "¿Cuál es la relación entre la glándula tiroides y el metabolismo del calcio?",
+      "opciones": [
+        "La tiroides no tiene relación con el metabolismo del calcio",
+        "Las células parafoliculares producen calcitonina, que regula los niveles de calcio sérico",
+        "La tiroides produce hormona paratiroidea",
+        "La tiroides solo regula el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células parafoliculares de la glándula tiroides producen calcitonina, una hormona que juega un papel importante en la regulación de los niveles de calcio sérico. La calcitonina inhibe la resorción ósea al actuar sobre los osteoclastos, reduciendo la liberación de calcio del hueso hacia la sangre. Además, la calcitonina aumenta la excreción renal de calcio, promoviendo la pérdida de calcio en la orina. Estos efectos resultan en una disminución de los niveles de calcio sérico. La calcitonina es particularmente importante en situaciones de hipercalcemia (niveles elevados de calcio en sangre). Sin embargo, en humanos, la calcitonina tiene un papel menos importante en la regulación del calcio sérico en comparación con la hormona paratiroidea (PTH) producida por las glándulas paratiroides. La medición de calcitonina sérica es clínicamente útil en el diagnóstico y seguimiento del carcinoma medular de tiroides, que es un tumor de las células parafoliculares."
+    },
+    {
+      "id": 40,
+      "pregunta": "¿Cuáles son las características histológicas del carcinoma medular de tiroides?",
+      "opciones": [
+        "Estructuras papilares bien definidas",
+        "Células neuroendocrinas que secretan calcitonina, con depósitos de amiloide",
+        "Folículos bien diferenciados",
+        "Células fusiformes sin formación de estructuras"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El carcinoma medular de tiroides es un tumor maligno que se origina de las células parafoliculares (células C) que producen calcitonina. Histológicamente, muestra células neuroendocrinas dispuestas en nidos o cordones, separadas por un estroma fibroso. Las células tumorales tienen un citoplasma granular que contiene gránulos de secreción llenos de calcitonina. Un hallazgo característico es la presencia de depósitos de amiloide (amiloide derivado de calcitonina) en el estroma del tumor. El carcinoma medular de tiroides puede ser esporádico o familiar, siendo parte del síndrome de neoplasia endocrina múltiple tipo 2 (MEN2). El diagnóstico se confirma por inmunohistoquímica para calcitonina y cromogranina A. Los niveles séricos de calcitonina son elevados y se utilizan para el diagnóstico y seguimiento. El pronóstico del carcinoma medular de tiroides es generalmente menos favorable que el del carcinoma papilar, especialmente si hay diseminación a distancia."
+    },
+    {
+      "id": 41,
+      "pregunta": "¿Cuál es la importancia de la microvasculatura en la función tiroidea?",
+      "opciones": [
+        "La microvasculatura no es importante para la función tiroidea",
+        "La microvasculatura proporciona nutrientes y oxígeno, facilita el intercambio de hormonas y permite la regulación de la función tiroidea",
+        "La microvasculatura solo proporciona soporte estructural",
+        "La microvasculatura produce hormonas tiroideas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La microvasculatura de la glándula tiroides es crucial para su función normal. Los capilares sanguíneos forman una red densa alrededor de los folículos tiroideos, proporcionando nutrientes y oxígeno necesarios para la síntesis de hormonas. La microvasculatura también facilita el intercambio de hormonas tiroideas sintetizadas por las células foliculares hacia la circulación sistémica. Los capilares tiroideos son fenestrados, lo que permite un intercambio más eficiente de moléculas entre la sangre y el tejido intersticial. La regulación de la función tiroidea también depende de la microvasculatura, ya que permite que TSH de la hipófisis anterior acceda a las células foliculares. La vascularización de la glándula aumenta durante la estimulación por TSH, reflejando el aumento de la demanda metabólica. En enfermedades tiroideas, los cambios en la vascularización pueden ser detectados por ecografía Doppler, proporcionando información sobre la actividad de la glándula."
+    },
+    {
+      "id": 42,
+      "pregunta": "¿Cuál es el papel del sistema linfático en la glándula tiroides?",
+      "opciones": [
+        "El sistema linfático no está presente en la tiroides",
+        "El sistema linfático drena el exceso de líquido intersticial y participa en la respuesta inmunológica",
+        "El sistema linfático produce hormonas tiroideas",
+        "El sistema linfático solo proporciona soporte estructural"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El sistema linfático de la glándula tiroides juega un papel importante en el drenaje del exceso de líquido intersticial y en la participación en la respuesta inmunológica local. Los vasos linfáticos drenan el líquido intersticial de la glándula hacia los ganglios linfáticos cervicales regionales, donde ocurren las respuestas inmunológicas iniciales contra antígenos tiroideos. En enfermedades autoinmunes tiroideas, hay una activación de los ganglios linfáticos cervicales con proliferación de células B y T autorreactivas. El drenaje linfático también es importante para la diseminación de células tumorales en el cáncer tiroideo, siendo los ganglios linfáticos cervicales frecuentemente afectados. La evaluación de los ganglios linfáticos cervicales es importante en la estadificación del cáncer tiroideo. Los cambios en el drenaje linfático pueden afectar la función inmunológica local y la susceptibilidad a enfermedades tiroideas."
+    },
+    {
+      "id": 43,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la tiroiditis silenciosa?",
+      "opciones": [
+        "No hay cambios histológicos",
+        "Infiltración linfocitaria sin destrucción folicular significativa, cambios mínimos en el coloide",
+        "Destrucción folicular masiva con fibrosis",
+        "Hiperplasia folicular sin inflamación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tiroiditis silenciosa es una forma de tiroiditis autoinmune que se caracteriza histológicamente por una infiltración linfocitaria relativamente leve del tejido tiroideo sin destrucción folicular significativa. Los cambios histológicos son más sutiles en comparación con la tiroiditis de Hashimoto. Se observa una infiltración de linfocitos T y células plasmáticas en el tejido conectivo intersticial, pero la arquitectura folicular se mantiene relativamente intacta. El coloide puede estar ligeramente disminuido, pero no hay cambios dramáticos. La fibrosis es mínima. Clínicamente, la tiroiditis silenciosa se presenta con hipotiroidismo transitorio seguido de recuperación de la función tiroidea, a diferencia de la tiroiditis de Hashimoto que resulta en hipotiroidismo permanente. La tiroiditis silenciosa puede ocurrir en el período posparto (tiroiditis posparto silenciosa) o de forma espontánea. Los cambios histológicos reflejan una respuesta inmunológica autolimitada."
+    },
+    {
+      "id": 44,
+      "pregunta": "¿Cuál es la relación entre la glándula tiroides y la función reproductiva?",
+      "opciones": [
+        "No hay relación entre la tiroides y la función reproductiva",
+        "Las hormonas tiroideas regulan el metabolismo y afectan la función reproductiva; el hipotiroidismo puede causar infertilidad",
+        "La tiroides produce hormonas sexuales",
+        "La tiroides solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las hormonas tiroideas juegan un papel importante en la regulación de la función reproductiva. El hipotiroidismo puede resultar en disfunción reproductiva incluyendo irregularidades menstruales, anovulación e infertilidad. Las hormonas tiroideas afectan la función ovárica y la producción de progesterona. El hipertiroidismo también puede afectar la función reproductiva, causando ciclos menstruales acortados y anovulación. Durante el embarazo, la demanda de hormonas tiroideas aumenta significativamente, y la deficiencia de hormonas tiroideas durante el embarazo puede resultar en complicaciones del embarazo y efectos adversos en el desarrollo fetal. La tiroiditis posparto es una forma de tiroiditis autoinmune que ocurre después del parto y puede afectar la lactancia y la función reproductiva. La optimización de la función tiroidea es importante para la fertilidad y el resultado del embarazo. Las mujeres con enfermedades tiroideas autoinmunes tienen un mayor riesgo de complicaciones del embarazo."
+    },
+    {
+      "id": 45,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la tiroiditis por radiación?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Daño de las células foliculares, inflamación aguda, fibrosis progresiva y atrofia",
+        "Hiperplasia folicular",
+        "Aumento del coloide"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tiroiditis por radiación ocurre como resultado de la exposición a radiación ionizante, ya sea por radioterapia o exposición accidental. Los cambios histológicos incluyen daño inicial de las células foliculares con muerte celular y apoptosis. Hay una infiltración de células inflamatorias agudas en respuesta al daño tisular. Con el tiempo, hay fibrosis progresiva del tejido tiroideo, resultando en reemplazo del tejido tiroideo funcional por tejido conectivo fibroso. La glándula se atrofia gradualmente, resultando en hipotiroidismo. Los cambios histológicos pueden incluir cambios displásicos en las células foliculares que pueden progresar a malignidad. La severidad de los cambios histológicos depende de la dosis de radiación recibida y del tiempo transcurrido desde la exposición. La tiroiditis por radiación es una complicación importante de la radioterapia para cánceres de cabeza y cuello."
+    },
+    {
+      "id": 46,
+      "pregunta": "¿Cuál es la importancia de la inervación nerviosa en la regulación de la función tiroidea?",
+      "opciones": [
+        "La inervación nerviosa no es importante para la función tiroidea",
+        "La inervación simpática y parasimpática regula la vascularización y la función secretora de la glándula",
+        "La inervación solo proporciona soporte estructural",
+        "La inervación produce hormonas tiroideas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La inervación nerviosa de la glándula tiroides juega un papel importante en la regulación de su función. La glándula recibe inervación simpática y parasimpática que regula la vascularización y la función secretora. La estimulación simpática aumenta la vascularización de la glándula y puede modular la respuesta de las células foliculares a TSH. La inervación parasimpática también participa en la regulación de la función tiroidea. Los nervios también contienen fibras sensoriales que transmiten información sobre el estado de la glándula. La inervación es importante para la integración de la función tiroidea con otros sistemas del cuerpo. En condiciones de estrés, la inervación simpática puede modular la respuesta de la glándula tiroides. Los cambios en la inervación pueden ocurrir en enfermedades tiroideas autoinmunes, contribuyendo a la disfunción de la glándula."
+    },
+    {
+      "id": 47,
+      "pregunta": "¿Cuáles son las características histológicas del linfoma tiroideo?",
+      "opciones": [
+        "Folículos tiroideos normales",
+        "Infiltración difusa de células linfoides neoplásicas, destrucción de folículos tiroideos",
+        "Hiperplasia folicular",
+        "Aumento del coloide"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El linfoma tiroideo es un tumor maligno raro que se origina de células linfoides en la glándula tiroides. Histológicamente, muestra una infiltración difusa de células linfoides neoplásicas que destruyen la arquitectura normal de los folículos tiroideos. El tipo más común es el linfoma tipo MALT (tejido linfoide asociado a mucosa) de células B. Las células linfoides neoplásicas pueden ser de diferentes tamaños y pueden mostrar características de malignidad como mitosis aumentadas y necrosis. La destrucción de los folículos tiroideos es característica. El linfoma tiroideo frecuentemente ocurre en el contexto de tiroiditis de Hashimoto crónica, que es un factor de riesgo importante. El diagnóstico se confirma por inmunohistoquímica para marcadores de células B y análisis de reordenamiento de genes. El pronóstico del linfoma tiroideo es variable dependiendo del tipo histológico y del estadio de la enfermedad."
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Cuál es el papel de la tiroglobulina como antígeno autoinmune?",
+      "opciones": [
+        "La tiroglobulina no es un antígeno autoinmune",
+        "La tiroglobulina es un antígeno importante en enfermedades autoinmunes tiroideas, siendo blanco de anticuerpos anti-Tg",
+        "La tiroglobulina solo es importante para la síntesis de hormonas",
+        "La tiroglobulina es un antígeno que solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tiroglobulina es una proteína importante que sirve como antígeno en enfermedades autoinmunes tiroideas. Los anticuerpos contra la tiroglobulina (anti-Tg) son característicos de la tiroiditis de Hashimoto y otras enfermedades autoinmunes tiroideas. Estos anticuerpos se producen por células B autorreactivas que reconocen epítopos específicos en la molécula de tiroglobulina. La presencia de anticuerpos anti-Tg es un marcador de autoinmunidad tiroidea y puede ser detectada en el suero de pacientes con enfermedades autoinmunes tiroideas. La tiroglobulina también es importante como marcador tumoral en el seguimiento de pacientes con cáncer tiroideo, especialmente después de tiroidectomía total. Los niveles de tiroglobulina sérica se utilizan para detectar recurrencia de cáncer tiroideo. La tiroglobulina es una proteína grande que contiene múltiples epítopos, lo que explica por qué los anticuerpos anti-Tg pueden reconocer diferentes regiones de la molécula."
+    },
+    {
+      "id": 49,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula tiroides durante la tiroiditis fibrótica (Riedel)?",
+      "opciones": [
+        "Hiperplasia folicular sin fibrosis",
+        "Fibrosis masiva que se extiende más allá de la cápsula tiroidea, infiltración inflamatoria mínima",
+        "Aumento del coloide",
+        "Destrucción folicular sin fibrosis"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tiroiditis fibrótica (tiroiditis de Riedel) es una forma rara de tiroiditis crónica caracterizada histológicamente por fibrosis masiva de la glándula tiroides que se extiende más allá de la cápsula tiroidea hacia los tejidos adyacentes. La infiltración inflamatoria es relativamente mínima en comparación con la tiroiditis de Hashimoto. Los folículos tiroideos se destruyen y son reemplazados por tejido fibroso denso. La fibrosis puede ser tan extensa que afecta estructuras adyacentes como la tráquea, esófago y nervios, causando síntomas de compresión. La glándula se vuelve dura e inmóvil. Histológicamente, hay una fibrosis densa con infiltración variable de células inflamatorias. La tiroiditis fibrótica puede estar asociada con otras enfermedades fibróticas sistémicas como la fibrosis retroperitoneal. El pronóstico es variable, pero la enfermedad puede resultar en hipotiroidismo permanente y complicaciones por compresión de estructuras adyacentes."
+    },
+    {
+      "id": 50,
+      "pregunta": "¿Cuál es la importancia de la biopsia por aspiración con aguja fina (BAAF) en el diagnóstico de patología tiroidea?",
+      "opciones": [
+        "La BAAF no es útil para el diagnóstico de patología tiroidea",
+        "La BAAF es un procedimiento mínimamente invasivo que permite obtener células tiroideas para diagnóstico citológico de nódulos tiroideos",
+        "La BAAF solo se utiliza para medir los niveles de hormonas tiroideas",
+        "La BAAF es un procedimiento quirúrgico mayor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La biopsia por aspiración con aguja fina (BAAF) es un procedimiento mínimamente invasivo que permite obtener células tiroideas de nódulos tiroideos para diagnóstico citológico. El procedimiento es rápido, seguro y puede realizarse en la consulta ambulatoria con o sin guía de ultrasonido. Las células obtenidas se extienden en portaobjetos y se tiñen con colorantes especiales (Papanicolaou, Giemsa) para evaluación microscópica. La BAAF permite diferenciar entre lesiones benignas y malignas, ayudando a guiar el tratamiento. Los resultados se clasifican según el sistema de Bethesda para reportes de citología tiroidea. La BAAF tiene una sensibilidad y especificidad altas para el diagnóstico de cáncer tiroideo, especialmente carcinoma papilar. Las complicaciones de la BAAF son raras. La BAAF es el procedimiento de elección para la evaluación de nódulos tiroideos detectados por ultrasonido, siendo más seguro y menos invasivo que la biopsia quirúrgica."
+    }
+  ]
+}

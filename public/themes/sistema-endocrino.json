@@ -1,0 +1,607 @@
+{
+  "id": "sistema-endocrino",
+  "name": "Sistema Endócrino",
+  "description": "Tiroides, Paratiroides y Suprarrenal",
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la unidad estructural y funcional de la glándula tiroides?",
+      "options": [
+        "Lobulillos",
+        "Folículos tiroideos",
+        "Células parafoliculares",
+        "Istmo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los folículos tiroideos son la unidad estructural y funcional fundamental de la glándula tiroides. Cada folículo está compuesto por una capa de células epiteliales que rodean un lumen central lleno de coloide. El coloide contiene tiroglobulina, que es el precursor de las hormonas tiroideas T3 y T4. Los folículos pueden variar en tamaño de 0.2 a 1 mm de diámetro, dependiendo del estado funcional de la glándula. Esta estructura permite la síntesis, almacenamiento y liberación eficiente de las hormonas tiroideas."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué hormona es secretada por las células parafoliculares de la tiroides?",
+      "options": [
+        "Tiroxina (T4)",
+        "Triyodotironina (T3)",
+        "Calcitonina",
+        "Parathormona (PTH)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células parafoliculares, también conocidas como células C, secretan calcitonina. Estas células se encuentran dentro de la lámina basal de los folículos tiroideos pero no están expuestas directamente al lumen folicular. La calcitonina es una hormona peptídica que juega un papel importante en la regulación del calcio sérico. Su secreción está regulada directamente por la concentración de iones de calcio en la sangre, sin intervención del hipotálamo ni la hipófisis. La calcitonina actúa disminuyendo la calcemia al suprimir la actividad de los osteoclastos."
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál de las siguientes NO es una función de las hormonas T3 y T4?",
+      "options": [
+        "Regulación del metabolismo basal",
+        "Influencia en el crecimiento y desarrollo corporal",
+        "Disminución de la calcemia",
+        "Regulación de la producción de calor de las células"
+      ],
+      "correctIndex": 2,
+      "explanation": "La disminución de la calcemia no es una función de las hormonas tiroideas T3 y T4. De hecho, estas hormonas no tienen un efecto directo sobre la regulación del calcio sérico. Las funciones principales de T3 y T4 incluyen la regulación del metabolismo basal, el aumento de la utilización de oxígeno, la síntesis y degradación de proteínas, lípidos e hidratos de carbono, y la regulación de la producción de calor corporal. La regulación de la calcemia es responsabilidad de la calcitonina (producida por las células parafoliculares) y la parathormona (producida por las paratiroides)."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué efecto tiene la calcitonina en el organismo?",
+      "options": [
+        "Aumenta la concentración de calcio en sangre",
+        "Disminuye la calcemia suprimiendo la acción resortiva de los osteoclastos",
+        "Estimula la liberación de factores liberadores en el hipotálamo",
+        "Aumenta el ritmo de utilización de carbohidratos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La calcitonina disminuye la calcemia (concentración de calcio en sangre) mediante varios mecanismos. Primero, suprime la acción resortiva de los osteoclastos, reduciendo la liberación de calcio desde el hueso. Segundo, promueve la calcificación del osteoide, facilitando la incorporación de calcio en la matriz ósea. Tercero, aumenta la excreción renal de calcio. La calcitonina actúa como antagonista de la parathormona, manteniendo el equilibrio del calcio sérico. Su secreción es regulada directamente por los niveles de calcio en sangre, sin participación del eje hipotálamo-hipofisario."
+    },
+    {
+      "id": 5,
+      "question": "¿Qué células de la glándula paratiroides secretan la Parathormona (PTH)?",
+      "options": [
+        "Células oxífilas",
+        "Células adiposas",
+        "Células principales",
+        "Células parafoliculares"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células principales son las responsables de la secreción de parathormona (PTH). Estas células son las más abundantes en la glándula paratiroides, representando aproximadamente el 70-80% de la población celular. Son células pequeñas con un núcleo redondo central y citoplasma acidófilo. Contienen abundantes ribosomas libres y retículo endoplásmico rugoso, lo que refleja su alta actividad de síntesis proteica. Las células oxífilas, aunque presentes en menor cantidad, tienen una función aún desconocida. Las células adiposas son simplemente células de almacenamiento de grasa que no tienen función endocrina."
+    },
+    {
+      "id": 6,
+      "question": "¿Cómo actúa la Parathormona (PTH) para incrementar las concentraciones sanguíneas de calcio?",
+      "options": [
+        "Promueve la liberación de calcio desde el hueso y estimula su reabsorción en los riñones",
+        "Promueve la calcificación del osteoide",
+        "Suprime la acción de los osteoclastos",
+        "Inhibe la formación de vitamina D activa"
+      ],
+      "correctIndex": 0,
+      "explanation": "La parathormona actúa mediante tres mecanismos principales para aumentar la calcemia. Primero, actúa sobre los osteoblastos en el hueso, estimulando la liberación de calcio a través del sistema RANK-RANKL, promoviendo la actividad osteoclástica. Segundo, actúa sobre los túbulos distales del riñón para estimular la reabsorción de calcio, reduciendo su pérdida urinaria. Tercero, estimula la conversión de 25-hidroxivitamina D a 1,25-dihidroxivitamina D (forma activa) en los riñones, aumentando la absorción intestinal de calcio. Estos tres mecanismos trabajan sinérgicamente para mantener la homeostasis del calcio sérico."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué tipo de células se encuentran en la médula suprarrenal que secretan catecolaminas?",
+      "options": [
+        "Células principales",
+        "Células cromafines",
+        "Células foliculares",
+        "Células oxífilas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células cromafines son las células especializadas de la médula suprarrenal que secretan catecolaminas (adrenalina y noradrenalina). Estas células son grandes y pálidas, con un aspecto epitelial característico. Se organizan formando cúmulos ovoides y cordones rodeados por una red capilar abundante. Estructuralmente, poseen numerosas vesículas de secreción que contienen las catecolaminas, así como retículo endoplásmico rugoso y aparato de Golgi bien desarrollados. Las células cromafines reciben inervación simpática preganglionar directa, lo que permite una respuesta rápida ante situaciones de estrés. Histoquímicamente, pueden demostrarse las catecolaminas mediante técnicas de tinción específicas."
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál es un efecto de la liberación súbita de catecolaminas por la médula suprarrenal?",
+      "options": [
+        "Disminución de la frecuencia cardíaca",
+        "Aumento de la digestión",
+        "Estimulación de la glucogenólisis y movilización de ácidos grasos libres",
+        "Aumento de la producción de orina"
+      ],
+      "correctIndex": 2,
+      "explanation": "La liberación súbita de catecolaminas (adrenalina y noradrenalina) por la médula suprarrenal establece las condiciones para la utilización máxima de energía y el esfuerzo físico máximo. Esto incluye la estimulación de la glucogenólisis, que es la degradación del glucógeno para obtener moléculas de glucosa disponibles para el metabolismo energético. Simultáneamente, se estimula la movilización de ácidos grasos libres desde el tejido adiposo, proporcionando otra fuente de energía. Estos efectos metabólicos se acompañan de aumento de la tensión y presión arterial, aumento de la frecuencia cardíaca, dilatación de los vasos coronarios y de los que irrigan el músculo esquelético, y aumento de la frecuencia respiratoria."
+    },
+    {
+      "id": 9,
+      "question": "¿En qué porcentaje del volumen cortical se encuentra la zona fasciculada de la corteza suprarrenal?",
+      "options": [
+        "15%",
+        "5 a 7%",
+        "50%",
+        "80%"
+      ],
+      "correctIndex": 3,
+      "explanation": "La zona fasciculada representa el 80% del volumen cortical de la corteza suprarrenal, siendo la zona más grande y prominente. Esta zona se caracteriza por células organizadas en cordones o fascículos que se extienden radialmente desde la zona glomerular hacia la zona reticular. Las células de la zona fasciculada son grandes, con citoplasma abundante que contiene numerosas mitocondrias y retículo endoplásmico liso, reflejando su alta capacidad de síntesis de esteroides. Esta zona es responsable de la síntesis de glucocorticoides (principalmente cortisol) y andrógenos adrenales. La zona glomerular representa el 15% del volumen cortical, mientras que la zona reticular representa solo el 5-7%."
+    },
+    {
+      "id": 10,
+      "question": "¿Qué tipo de secreción producen las células epiteliales de la corteza suprarrenal?",
+      "options": [
+        "Polipéptidos",
+        "Esteroides",
+        "Catecolaminas",
+        "Calcitonina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células epiteliales de la corteza suprarrenal secretan esteroides. Estos esteroides incluyen glucocorticoides (cortisol, corticosterona), mineralocorticoides (aldosterona) y andrógenos adrenales. Las células corticales acumulan lípidos en su citoplasma, lo que les da una apariencia clara bajo el microscopio óptico. Esta característica histológica refleja su función de síntesis de esteroides, que requiere la presencia de colesterol y sus derivados como sustratos. El citoplasma claro de las células corticales contrasta con el citoplasma oscuro de las células de la médula, que secretan polipéptidos (catecolaminas). Esta diferencia histológica es una característica importante para la identificación microscópica de estas regiones."
+    },
+    {
+      "id": 11,
+      "question": "¿Cuál es la ubicación anatómica de la glándula tiroides?",
+      "options": [
+        "En la región posterior del cuello, detrás de la laringe",
+        "En la región anterior del cuello, delante de la laringe y la tráquea",
+        "En la base del cráneo, dentro de la silla turca",
+        "En el mediastino superior"
+      ],
+      "correctIndex": 1,
+      "explanation": "La glándula tiroides se localiza en la región anterior del cuello, específicamente delante de la laringe y la tráquea. Esta ubicación anatómica es clínicamente importante porque permite la palpación de la glándula durante el examen físico. La tiroides está envuelta por una cápsula delgada de tejido conectivo que la separa de las estructuras circundantes. Tiene forma de mariposa con dos lóbulos laterales unidos por un istmo. Mide aproximadamente 5 cm de ancho y 2.5 cm de alto, con un peso promedio de 30 gramos en adultos. Su proximidad a la tráquea significa que cualquier aumento de tamaño (bocio) puede afectar la respiración. La glándula está irrigada por las arterias tiroideas superior e inferior."
+    },
+    {
+      "id": 12,
+      "question": "¿Cuántas glándulas paratiroides tiene normalmente un ser humano?",
+      "options": [
+        "Una",
+        "Dos",
+        "Cuatro",
+        "Seis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Un ser humano tiene normalmente cuatro glándulas paratiroides, organizadas en dos pares. Estas pequeñas glándulas se encuentran en estrecha relación anatómica con la glándula tiroides. Generalmente, hay dos glándulas paratiroides superiores localizadas en los polos superiores de los lóbulos tiroideos, y dos glándulas paratiroides inferiores localizadas en los polos inferiores. Las glándulas paratiroides son muy pequeñas, midiendo menos de 1 mm cada una, y en conjunto pesan menos de 1 gramo. A pesar de su pequeño tamaño, son críticas para la regulación del calcio sérico. Ocasionalmente, pueden existir glándulas paratiroides ectópicas (localizadas en sitios anormales), lo que puede complicar la cirugía de paratiroides."
+    },
+    {
+      "id": 13,
+      "question": "¿Cuál es el tamaño aproximado de los folículos tiroideos?",
+      "options": [
+        "0.05 a 0.1 mm de diámetro",
+        "0.2 a 1 mm de diámetro",
+        "2 a 5 mm de diámetro",
+        "1 a 2 cm de diámetro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los folículos tiroideos tienen un tamaño que varía de 0.2 a 1 mm de diámetro, dependiendo del estado funcional de la glándula. Esta variación de tamaño es fisiológica y refleja el nivel de actividad de la glándula. Los folículos activos, que están sintetizando y secretando hormonas, tienden a ser más pequeños con un epitelio cilíndrico alto. Los folículos menos activos, que están principalmente almacenando hormonas, tienden a ser más grandes con un epitelio cúbico bajo. El tamaño de los folículos también puede variar con factores como la edad, el estado nutricional de yodo, y la presencia de estimulación por TSH. El conocimiento del tamaño normal de los folículos es importante para la interpretación de biopsias tiroideas."
+    },
+    {
+      "id": 14,
+      "question": "¿Qué es el coloide en los folículos tiroideos?",
+      "options": [
+        "Un tipo de célula que produce hormonas",
+        "Una sustancia que contiene tiroglobulina y productos de secreción",
+        "El tejido conectivo que rodea los folículos",
+        "Un tipo de proteína transportadora de hormonas"
+      ],
+      "correctIndex": 1,
+      "explanation": "El coloide es una sustancia viscosa que llena el lumen de los folículos tiroideos y contiene tiroglobulina, que es el precursor de las hormonas tiroideas T3 y T4. El coloide también contiene productos de secreción y otras proteínas. La tiroglobulina es una proteína grande que sirve como sustrato para la síntesis de hormonas tiroideas. Cuando las células foliculares reciben estimulación por TSH, endocitan el coloide, lo que permite que las enzimas lisosomales degraden la tiroglobulina y liberen las hormonas tiroideas T3 y T4 en la circulación. El coloide también actúa como un depósito de hormonas, permitiendo que la glándula tiroides almacene suficiente hormona para aproximadamente 2-3 meses de producción. Esta característica única de la tiroides la distingue de otras glándulas endócrinas."
+    },
+    {
+      "id": 15,
+      "question": "¿Cuál es el papel del hipotálamo en la regulación de la tiroides?",
+      "options": [
+        "Sintetiza directamente las hormonas tiroideas",
+        "Secreta factores liberadores que estimulan la hipófisis",
+        "Produce calcitonina",
+        "Regula la absorción de yodo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo secreta factores liberadores de tirotrofina (TRH), que estimulan la hipófisis anterior para secretar hormona estimulante de la tiroides (TSH). Este es el primer paso del eje hipotálamo-hipófisis-tiroides. El hipotálamo responde a cambios en la temperatura corporal, estrés y otros factores ambientales, ajustando la secreción de TRH según sea necesario. La TRH viaja a través del sistema porta hipofisario hasta la hipófisis anterior, donde estimula las células tirotropas para secretar TSH. La TSH luego estimula la glándula tiroides para sintetizar y secretar T3 y T4. Este sistema está regulado por retroalimentación negativa, donde los niveles elevados de T3 y T4 inhiben la secreción de TRH y TSH."
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál es la función principal de la hormona TSH?",
+      "options": [
+        "Disminuir la producción de hormonas tiroideas",
+        "Estimular la síntesis y secreción de hormonas tiroideas",
+        "Inhibir la absorción de yodo",
+        "Promover la degradación de tiroglobulina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona estimulante de la tiroides (TSH) tiene la función principal de estimular la síntesis y secreción de hormonas tiroideas T3 y T4. La TSH es una glucoproteína secretada por las células tirotropas de la hipófisis anterior. Se une a receptores específicos en la superficie de las células foliculares tiroideas, activando una cascada de señalización intracelular. Esta cascada aumenta la captación de yodo, la síntesis de tiroglobulina, la yodación de tirosina, la formación de T3 y T4, y la endocitosis de coloide con liberación de hormonas. La TSH también promueve el crecimiento de la glándula tiroides. La secreción de TSH está regulada por retroalimentación negativa de T3 y T4, y por retroalimentación positiva de TRH del hipotálamo."
+    },
+    {
+      "id": 17,
+      "question": "¿Cuál es la diferencia histológica entre la corteza y la médula suprarrenal?",
+      "options": [
+        "La corteza es más oscura que la médula",
+        "La corteza es más clara debido a la acumulación de lípidos, mientras que la médula es más oscura",
+        "No hay diferencia histológica significativa",
+        "La médula tiene más vasos sanguíneos que la corteza"
+      ],
+      "correctIndex": 1,
+      "explanation": "La corteza suprarrenal es histológicamente más clara que la médula debido a la acumulación de lípidos en el citoplasma de sus células. Las células corticales contienen abundantes gotas de lípidos que se extraen durante el procesamiento histológico, dejando espacios vacíos que dan al citoplasma una apariencia clara. En contraste, la médula suprarrenal es más oscura porque sus células cromafines contienen polipéptidos (catecolaminas) en lugar de lípidos. Las células cromafines tienen un citoplasma basófilo que se tiñe oscuro con colorantes básicos. Esta diferencia histológica es una característica importante para la identificación microscópica de estas dos regiones. Además, la corteza está organizada en tres zonas distintas (glomerular, fasciculada y reticular), mientras que la médula no tiene una organización zonal clara."
+    },
+    {
+      "id": 18,
+      "question": "¿Cuáles son las tres zonas de la corteza suprarrenal?",
+      "options": [
+        "Glomerular, medular y reticular",
+        "Glomerular, fasciculada y reticular",
+        "Fasciculada, medular y cortical",
+        "Externa, media e interna"
+      ],
+      "correctIndex": 1,
+      "explanation": "La corteza suprarrenal se subdivide en tres zonas histológicamente distintas: la zona glomerular (externa), la zona fasciculada (media) y la zona reticular (interna). La zona glomerular representa el 15% del volumen cortical y está compuesta por células compactas organizadas formando estructuras ovoides. La zona fasciculada representa el 80% del volumen cortical y está compuesta por células organizadas en cordones o fascículos que se extienden radialmente. La zona reticular representa el 5-7% del volumen cortical y está compuesta por células organizadas en una red de cordones anastomosados. Cada zona tiene características histológicas distintas y produce diferentes esteroides. Esta organización zonal es una característica única de la corteza suprarrenal y es importante para la clasificación funcional de estas regiones."
+    },
+    {
+      "id": 19,
+      "question": "¿Qué hormonas produce la zona glomerular de la corteza suprarrenal?",
+      "options": [
+        "Glucocorticoides",
+        "Mineralocorticoides como la aldosterona",
+        "Andrógenos adrenales",
+        "Catecolaminas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La zona glomerular de la corteza suprarrenal produce principalmente mineralocorticoides, siendo la aldosterona el más importante. La aldosterona es un esteroide que juega un papel crucial en la regulación de la presión arterial y el equilibrio electrolítico. Actúa sobre los túbulos distales del riñón, promoviendo la reabsorción de sodio y la excreción de potasio. La secreción de aldosterona está regulada principalmente por el sistema renina-angiotensina-aldosterona (SRAA) y por los niveles de potasio sérico. La zona glomerular también puede producir pequeñas cantidades de glucocorticoides, pero la mayoría de estos se producen en la zona fasciculada. La zona reticular produce principalmente andrógenos adrenales. Esta distribución funcional de la síntesis de esteroides entre las diferentes zonas es una característica importante de la fisiología suprarrenal."
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es la hormona más importante producida por la zona fasciculada?",
+      "options": [
+        "Aldosterona",
+        "Cortisol",
+        "Testosterona",
+        "Adrenalina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La zona fasciculada produce principalmente glucocorticoides, siendo el cortisol el más importante. El cortisol es un esteroide que tiene múltiples efectos en el metabolismo y la respuesta al estrés. Aumenta la gluconeogénesis en el hígado, aumenta la lipólisis, promueve el catabolismo proteico, y tiene efectos inmunosupresores. La secreción de cortisol está regulada por el eje hipotálamo-hipófisis-suprarrenal (HPA). El hipotálamo secreta hormona liberadora de corticotropina (CRH), que estimula la hipófisis anterior para secretar hormona adrenocorticotropa (ACTH), que a su vez estimula la zona fasciculada para secretar cortisol. El cortisol exhibe un ritmo circadiano, con niveles más altos por la mañana y más bajos por la noche. También está regulado por retroalimentación negativa."
+    },
+    {
+      "id": 21,
+      "question": "¿Qué características histológicas tienen las células de la zona glomerular?",
+      "options": [
+        "Células grandes organizadas en cordones",
+        "Células compactas organizadas formando estructuras ovoides",
+        "Células con abundantes mitocondrias",
+        "Células con citoplasma oscuro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células de la zona glomerular son compactas y están organizadas formando estructuras ovoides. Estas células son pequeñas, con citoplasma claro debido a la acumulación de lípidos. Tienen núcleos esféricos que son hipercromáticos. Estructuralmente, presentan un retículo endoplásmico rugoso bien desarrollado y aparato de Golgi prominente, reflejando su función de síntesis de esteroides. Las células están rodeadas por una red capilar abundante que facilita la secreción de aldosterona. La organización compacta de las células en estructuras ovoides es característica de esta zona y la distingue de la zona fasciculada, donde las células están organizadas en cordones. Esta organización histológica es importante para la identificación microscópica de la zona glomerular."
+    },
+    {
+      "id": 22,
+      "question": "¿Cuáles son las características histológicas de las células de la zona fasciculada?",
+      "options": [
+        "Células compactas con citoplasma oscuro",
+        "Células grandes organizadas en cordones con citoplasma claro",
+        "Células pequeñas con núcleos hipercromáticos",
+        "Células con abundantes vesículas de secreción"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células de la zona fasciculada son grandes y están organizadas en cordones o fascículos que se extienden radialmente desde la zona glomerular hacia la zona reticular. Tienen un citoplasma abundante y claro debido a la acumulación de lípidos. Las células contienen numerosas mitocondrias con crestas tubulares (en lugar de laminares), lo que refleja su alta capacidad de síntesis de esteroides. El retículo endoplásmico liso es muy abundante, facilitando la síntesis de esteroides. Los núcleos son redondos a ovales y eucromáticos. Las células están rodeadas por una red capilar sinusoidal que facilita la secreción de glucocorticoides. La organización en cordones es característica de esta zona y la distingue de la zona glomerular, donde las células están organizadas en estructuras ovoides."
+    },
+    {
+      "id": 23,
+      "question": "¿Qué produce la zona reticular de la corteza suprarrenal?",
+      "options": [
+        "Principalmente mineralocorticoides",
+        "Principalmente glucocorticoides",
+        "Principalmente andrógenos adrenales",
+        "Principalmente catecolaminas"
+      ],
+      "correctIndex": 2,
+      "explanation": "La zona reticular produce principalmente andrógenos adrenales, siendo el dehidroepiandrosterona (DHEA) y la androstenediona los más importantes. Aunque estos andrógenos son menos potentes que la testosterona, pueden ser convertidos a testosterona en tejidos periféricos. La zona reticular también produce pequeñas cantidades de glucocorticoides. Las células de esta zona están organizadas en una red de cordones anastomosados que se extienden hacia la médula. Las células tienen un citoplasma oscuro debido a la acumulación de lipofuscina (un pigmento de envejecimiento) y menos lípidos comparado con la zona fasciculada. La secreción de andrógenos adrenales está regulada por ACTH. Los andrógenos adrenales tienen importancia especialmente en mujeres, donde contribuyen al desarrollo de características sexuales secundarias y al vello corporal."
+    },
+    {
+      "id": 24,
+      "question": "¿Cuál es la relación entre la médula suprarrenal y el sistema nervioso simpático?",
+      "options": [
+        "La médula es controlada por el sistema parasimpático",
+        "La médula recibe inervación simpática preganglionar directa",
+        "No hay conexión entre la médula y el sistema nervioso",
+        "La médula controla el sistema simpático"
+      ],
+      "correctIndex": 1,
+      "explanation": "La médula suprarrenal recibe inervación simpática preganglionar directa, lo que la hace única entre las glándulas endócrinas. Las fibras nerviosas simpáticas preganglionares se originan en la médula espinal torácica y viajan a través de los nervios esplácnicos para inervar directamente las células cromafines de la médula. Esta inervación directa permite una respuesta rápida y coordinada de la médula ante situaciones de estrés. Cuando se activa el sistema simpático, los neurotransmisores acetilcolina se liberan en las terminaciones nerviosas, estimulando las células cromafines para secretar catecolaminas (adrenalina y noradrenalina). Esta respuesta es mucho más rápida que la regulación hormonal típica de otras glándulas endócrinas. La médula suprarrenal es, de hecho, una extensión del sistema nervioso simpático modificada para la secreción de hormonas."
+    },
+    {
+      "id": 25,
+      "question": "¿Cuáles son las principales catecolaminas secretadas por la médula suprarrenal?",
+      "options": [
+        "Cortisol y aldosterona",
+        "Adrenalina y noradrenalina",
+        "T3 y T4",
+        "Calcitonina y PTH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las principales catecolaminas secretadas por la médula suprarrenal son la adrenalina (epinefrina) y la noradrenalina (norepinefrina). Aproximadamente el 80% de la secreción es adrenalina y el 20% es noradrenalina. Ambas son catecolaminas derivadas del aminoácido tirosina. La síntesis de catecolaminas comienza con la conversión de tirosina a L-DOPA, luego a dopamina, luego a noradrenalina, y finalmente a adrenalina en las células cromafines. Las catecolaminas son almacenadas en vesículas de secreción dentro de las células cromafines y se liberan en respuesta a la estimulación simpática. Ambas catecolaminas tienen efectos similares pero no idénticos en los tejidos diana. La adrenalina tiene efectos más pronunciados en el metabolismo, mientras que la noradrenalina tiene efectos más pronunciados en la presión arterial."
+    },
+    {
+      "id": 26,
+      "question": "¿Cuál es el papel de la vitamina D en la regulación del calcio?",
+      "options": [
+        "Disminuye la absorción intestinal de calcio",
+        "Aumenta la absorción intestinal de calcio y promueve la mineralización ósea",
+        "Estimula la secreción de calcitonina",
+        "Inhibe la secreción de PTH"
+      ],
+      "correctIndex": 1,
+      "explanation": "La vitamina D juega un papel crucial en la regulación del calcio al aumentar la absorción intestinal de calcio y promover la mineralización ósea. La forma activa de la vitamina D es el 1,25-dihidroxivitamina D (calcitriol), que es producida en los riñones bajo la estimulación de la PTH. La vitamina D actúa sobre los enterocitos del intestino delgado, aumentando la expresión de proteínas de transporte de calcio, lo que facilita la absorción de calcio. En el hueso, la vitamina D promueve la mineralización del osteoide, facilitando la incorporación de calcio en la matriz ósea. La vitamina D también tiene un papel importante en la regulación de la secreción de PTH. Los niveles bajos de vitamina D resultan en una absorción intestinal deficiente de calcio, lo que conduce a una secreción aumentada de PTH (hiperparatiroidismo secundario)."
+    },
+    {
+      "id": 27,
+      "question": "¿Cuál es la función de los osteoclastos en relación con la regulación del calcio?",
+      "options": [
+        "Sintetizan la matriz ósea",
+        "Resorben el hueso, liberando calcio a la circulación",
+        "Mineralizan el osteoide",
+        "Producen colágeno"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los osteoclastos son células multinucleadas especializadas que resorben el hueso, liberando calcio y otros minerales a la circulación. Esta función es crucial para la regulación de la calcemia. Los osteoclastos son activados por la PTH a través de los osteoblastos, mediante el sistema RANK-RANKL. Una vez activados, los osteoclastos crean un microambiente ácido bajo su borde ondulante, disolviendo la matriz mineral del hueso. También secretan enzimas proteolíticas que degradan la matriz orgánica del hueso. La calcitonina, en contraste, suprime la actividad de los osteoclastos, reduciendo la resorción ósea. El equilibrio entre la actividad de los osteoclastos (resorción) y los osteoblastos (formación) es crucial para mantener la homeostasis del calcio y la integridad estructural del esqueleto."
+    },
+    {
+      "id": 28,
+      "question": "¿Cuál es la diferencia entre T3 y T4 en términos de actividad biológica?",
+      "options": [
+        "T3 y T4 tienen la misma actividad biológica",
+        "T4 es más activo que T3",
+        "T3 es más activo que T4",
+        "Ninguno tiene actividad biológica"
+      ],
+      "correctIndex": 2,
+      "explanation": "T3 (triyodotironina) es más activo biológicamente que T4 (tiroxina). Aunque la tiroides produce principalmente T4, la mayoría de la actividad biológica se debe a T3. T3 se produce en pequeñas cantidades directamente por la tiroides, pero la mayoría de T3 circulante se produce por la conversión periférica de T4 a T3 en los tejidos, principalmente en el hígado y los riñones. T3 se une a los receptores de hormona tiroidea con mayor afinidad que T4, y tiene una vida media más corta. T4 actúa principalmente como una prohormona, siendo convertida a T3 según sea necesario. La conversión de T4 a T3 está regulada por factores como los niveles de nutrientes, el estado de salud, y otros factores. Esta característica permite una regulación más fina de la actividad biológica de las hormonas tiroideas."
+    },
+    {
+      "id": 29,
+      "question": "¿Cuál es el papel del yodo en la síntesis de hormonas tiroideas?",
+      "options": [
+        "Actúa como un cofactor enzimático",
+        "Es un componente estructural esencial de T3 y T4",
+        "Inhibe la síntesis de tiroglobulina",
+        "Estimula la secreción de TSH"
+      ],
+      "correctIndex": 1,
+      "explanation": "El yodo es un componente estructural esencial de las hormonas tiroideas T3 y T4. T4 contiene cuatro átomos de yodo, mientras que T3 contiene tres átomos de yodo. La síntesis de hormonas tiroideas requiere la captación de yodo por las células foliculares tiroideas a través de transportadores específicos de yodo. El yodo es entonces oxidado e incorporado en residuos de tirosina dentro de la tiroglobulina, formando monoiodotirosina (MIT) y diiodotirosina (DIT). La combinación de MIT y DIT forma T3 y T4. La deficiencia de yodo resulta en una síntesis deficiente de hormonas tiroideas, lo que conduce a hipotiroidismo y bocio (aumento de tamaño de la glándula tiroides). El yodo se obtiene principalmente de la dieta, particularmente de alimentos marinos y productos lácteos. La recomendación diaria de yodo es de aproximadamente 150 microgramos para adultos."
+    },
+    {
+      "id": 30,
+      "question": "¿Cuál es la función del transportador de yodo en las células foliculares tiroideas?",
+      "options": [
+        "Transporta hormonas tiroideas fuera de la célula",
+        "Captura yodo del plasma y lo transporta al interior de la célula",
+        "Degrada la tiroglobulina",
+        "Sintetiza tiroglobulina"
+      ],
+      "correctIndex": 1,
+      "explanation": "El transportador de yodo (NIS, symporter de sodio-yodo) captura yodo del plasma y lo transporta activamente al interior de las células foliculares tiroideas. Este es el primer paso en la síntesis de hormonas tiroideas. El transportador NIS utiliza el gradiente de sodio para transportar yodo contra su gradiente de concentración, requiriendo energía en forma de ATP. La expresión del transportador NIS está regulada por TSH, aumentando cuando la glándula tiroides está estimulada. Una vez dentro de la célula, el yodo es oxidado por la peroxidasa tiroidea e incorporado en residuos de tirosina. La captación de yodo es el paso limitante en la síntesis de hormonas tiroideas. Las mutaciones en el gen del transportador NIS pueden resultar en hipotiroidismo congénito. Algunos medicamentos y sustancias pueden inhibir el transportador NIS, afectando la síntesis de hormonas tiroideas."
+    },
+    {
+      "id": 31,
+      "question": "¿Cuál es el papel de la peroxidasa tiroidea en la síntesis de hormonas tiroideas?",
+      "options": [
+        "Transporta yodo al interior de la célula",
+        "Oxida el yodo e incorpora yodo en residuos de tirosina",
+        "Degrada la tiroglobulina",
+        "Secreta hormonas tiroideas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La peroxidasa tiroidea (TPO) es una enzima crucial que oxida el yodo e incorpora yodo en residuos de tirosina dentro de la tiroglobulina. Este proceso se llama yodación. La TPO también cataliza la condensación de MIT y DIT para formar T3 y T4. La TPO está localizada en la membrana apical de las células foliculares, donde tiene acceso tanto al yodo como a la tiroglobulina. La actividad de la TPO está regulada por TSH. Los anticuerpos contra la TPO se encuentran en la tiroiditis autoinmune (enfermedad de Hashimoto), donde destruyen la glándula tiroides. Algunos medicamentos (como el propiltiouracilo) inhiben la TPO, reduciendo la síntesis de hormonas tiroideas. La deficiencia de TPO resulta en hipotiroidismo congénito. La TPO es también un antígeno importante en la respuesta inmune contra la tiroides en enfermedades autoinmunes."
+    },
+    {
+      "id": 32,
+      "question": "¿Cuál es el mecanismo de acción de la TSH en las células foliculares tiroideas?",
+      "options": [
+        "Se une directamente al ADN y activa la transcripción",
+        "Se une a receptores en la superficie celular y activa una cascada de señalización",
+        "Inhibe la síntesis de tiroglobulina",
+        "Promueve la degradación de hormonas tiroideas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La TSH se une a receptores específicos en la superficie de las células foliculares tiroideas, activando una cascada de señalización intracelular. El receptor de TSH es un receptor acoplado a proteína G que activa la vía de señalización del AMPc. El aumento de AMPc intracelular activa la proteína quinasa A (PKA), que fosforila varios sustratos celulares. Esta cascada de señalización aumenta la captación de yodo, la síntesis de tiroglobulina, la yodación de tirosina, la formación de T3 y T4, y la endocitosis de coloide con liberación de hormonas. La cascada de señalización también promueve el crecimiento de la glándula tiroides. La duración y la intensidad de la estimulación por TSH determinan la magnitud de la respuesta de la glándula tiroides. La regulación de esta cascada de señalización es crucial para mantener la homeostasis de las hormonas tiroideas."
+    },
+    {
+      "id": 33,
+      "question": "¿Cuál es la relación entre el estrés y la secreción de catecolaminas?",
+      "options": [
+        "El estrés disminuye la secreción de catecolaminas",
+        "El estrés aumenta la secreción de catecolaminas a través de la activación del sistema simpático",
+        "No hay relación entre el estrés y las catecolaminas",
+        "El estrés inhibe la inervación simpática de la médula"
+      ],
+      "correctIndex": 1,
+      "explanation": "El estrés aumenta la secreción de catecolaminas a través de la activación del sistema nervioso simpático. Durante una situación de estrés, el hipotálamo activa el sistema nervioso simpático, que envía señales a través de los nervios esplácnicos a la médula suprarrenal. Esto resulta en la liberación de catecolaminas (adrenalina y noradrenalina) en la circulación. Las catecolaminas producen la respuesta de 'lucha o huida', aumentando la frecuencia cardíaca, la presión arterial, la respiración, y la movilización de energía. Esta respuesta es rápida (segundos) comparada con la respuesta del cortisol, que es más lenta (minutos a horas). La respuesta de catecolaminas es útil para hacer frente a amenazas agudas. Sin embargo, la exposición crónica al estrés puede resultar en una desensibilización de los receptores de catecolaminas y una disfunción de la médula suprarrenal."
+    },
+    {
+      "id": 34,
+      "question": "¿Cuál es la función de la retroalimentación negativa en la regulación del eje hipotálamo-hipófisis-tiroides?",
+      "options": [
+        "Aumenta continuamente la secreción de hormonas tiroideas",
+        "Mantiene la homeostasis de las hormonas tiroideas al inhibir la secreción de TRH y TSH cuando los niveles de T3 y T4 son altos",
+        "Estimula la síntesis de tiroglobulina",
+        "Promueve el crecimiento de la glándula tiroides"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa es un mecanismo crucial que mantiene la homeostasis de las hormonas tiroideas. Cuando los niveles de T3 y T4 en la sangre son altos, estas hormonas inhiben la secreción de TRH del hipotálamo y TSH de la hipófisis anterior. Esta inhibición reduce la estimulación de la glándula tiroides, resultando en una disminución de la síntesis y secreción de hormonas tiroideas. A medida que los niveles de T3 y T4 disminuyen, la inhibición se reduce, permitiendo que la secreción de TRH y TSH aumente nuevamente. Este ciclo de retroalimentación mantiene los niveles de hormonas tiroideas dentro de un rango normal. La retroalimentación negativa es esencial para prevenir tanto el hipotiroidismo como el hipertiroidismo. Los trastornos de este mecanismo de retroalimentación pueden resultar en disfunción tiroidea."
+    },
+    {
+      "id": 35,
+      "question": "¿Cuál es el ritmo circadiano del cortisol?",
+      "options": [
+        "Los niveles de cortisol son constantes durante todo el día",
+        "Los niveles de cortisol son más altos por la noche y más bajos durante el día",
+        "Los niveles de cortisol son más altos por la mañana y más bajos por la noche",
+        "No existe un ritmo circadiano del cortisol"
+      ],
+      "correctIndex": 2,
+      "explanation": "El cortisol exhibe un ritmo circadiano pronunciado, con niveles más altos por la mañana (alrededor de las 6-8 am) y más bajos por la noche (alrededor de las 11 pm a 1 am). Este ritmo es controlado por el núcleo supraquiasmático del hipotálamo, que responde a las señales de luz. El ritmo circadiano del cortisol es importante para mantener la vigilia y la alerta por la mañana, y para facilitar el sueño por la noche. La alteración del ritmo circadiano del cortisol (como ocurre en el trabajo por turnos o el jet lag) puede resultar en problemas de sueño, fatiga, y otros trastornos. La medición del cortisol a diferentes horas del día es importante para la evaluación clínica de los trastornos suprarrenales. El ritmo circadiano del cortisol se mantiene incluso durante el estrés, aunque la amplitud del ritmo puede aumentar."
+    },
+    {
+      "id": 36,
+      "question": "¿Cuál es la función de la aldosterona?",
+      "options": [
+        "Aumenta la excreción de sodio",
+        "Promueve la reabsorción de sodio y la excreción de potasio en los riñones",
+        "Disminuye la presión arterial",
+        "Inhibe la secreción de renina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La aldosterona es un mineralocorticoide que promueve la reabsorción de sodio y la excreción de potasio en los túbulos distales del riñón. Este efecto resulta en un aumento de la retención de agua (ya que el agua sigue osmóticamente al sodio), lo que aumenta el volumen de sangre y la presión arterial. La aldosterona también afecta la concentración de potasio sérico, promoviendo su excreción. La secreción de aldosterona está regulada principalmente por el sistema renina-angiotensina-aldosterona (SRAA) y por los niveles de potasio sérico. Cuando la presión arterial disminuye, los riñones secretan renina, que activa la cascada del SRAA, resultando en la síntesis y secreción de aldosterona. La aldosterona es crucial para mantener la presión arterial y el equilibrio electrolítico. Los trastornos de la secreción de aldosterona pueden resultar en hipertensión (exceso de aldosterona) o hipotensión (deficiencia de aldosterona)."
+    },
+    {
+      "id": 37,
+      "question": "¿Cuál es la diferencia entre la hiperplasia y la hipertrofia en relación con la glándula tiroides?",
+      "options": [
+        "No hay diferencia entre hiperplasia e hipertrofia",
+        "La hiperplasia es el aumento del número de células, mientras que la hipertrofia es el aumento del tamaño de las células",
+        "La hiperplasia es el aumento del tamaño de las células, mientras que la hipertrofia es el aumento del número de células",
+        "La hiperplasia es una disminución del tamaño de la glándula"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hiperplasia es el aumento del número de células, mientras que la hipertrofia es el aumento del tamaño de las células individuales. En la glándula tiroides, tanto la hiperplasia como la hipertrofia pueden ocurrir en respuesta a la estimulación crónica por TSH. La estimulación crónica por TSH (como ocurre en la deficiencia de yodo o en la enfermedad de Graves) resulta en un aumento del tamaño de la glándula tiroides (bocio). Este aumento puede deberse a hiperplasia (aumento del número de células foliculares), hipertrofia (aumento del tamaño de las células foliculares), o una combinación de ambas. La hiperplasia es más común en la estimulación crónica, mientras que la hipertrofia es más evidente en la estimulación aguda. La distinción entre hiperplasia e hipertrofia es importante para la comprensión de la patología tiroidea."
+    },
+    {
+      "id": 38,
+      "question": "¿Cuál es el papel de los receptores de catecolaminas en la respuesta al estrés?",
+      "options": [
+        "Inhiben la secreción de catecolaminas",
+        "Median los efectos de las catecolaminas en los tejidos diana",
+        "Sintetizan catecolaminas",
+        "Degradan catecolaminas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los receptores de catecolaminas median los efectos de las catecolaminas (adrenalina y noradrenalina) en los tejidos diana. Existen dos tipos principales de receptores de catecolaminas: receptores alfa (α) y receptores beta (β). Los receptores alfa promueven principalmente la vasoconstricción y el aumento de la presión arterial. Los receptores beta promueven principalmente el aumento de la frecuencia cardíaca, la contractilidad cardíaca, la broncodilatación, y la movilización de energía. La distribución de estos receptores varía en diferentes tejidos, lo que explica los efectos diferenciales de las catecolaminas. Los agonistas y antagonistas de estos receptores se utilizan clínicamente para modular los efectos de las catecolaminas. La desensibilización de los receptores de catecolaminas puede ocurrir con la exposición crónica a catecolaminas, resultando en una respuesta atenuada. La regulación de estos receptores es importante para la homeostasis cardiovascular y metabólica."
+    },
+    {
+      "id": 39,
+      "question": "¿Cuál es la función de la matriz extracelular en los folículos tiroideos?",
+      "options": [
+        "Sintetiza hormonas tiroideas",
+        "Proporciona soporte estructural y facilita la interacción célula-célula",
+        "Almacena tiroglobulina",
+        "Transporta hormonas tiroideas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La matriz extracelular en los folículos tiroideos proporciona soporte estructural y facilita la interacción célula-célula. La matriz extracelular está compuesta principalmente por colágeno, proteoglicanos, y otras proteínas estructurales. Rodea a las células foliculares y proporciona un andamio para su organización tridimensional. La lámina basal, que es una forma especializada de matriz extracelular, rodea cada folículo y separa el epitelio folicular del tejido conectivo circundante. Las células foliculares interactúan con la matriz extracelular a través de integrinas, que son receptores transmembranales. Estas interacciones son importantes para la adhesión celular, la migración, la diferenciación, y la respuesta a señales externas. La alteración de la matriz extracelular puede afectar la función tiroidea. La fibrosis tiroidea, que implica un aumento de la matriz extracelular, puede resultar en disfunción tiroidea."
+    },
+    {
+      "id": 40,
+      "question": "¿Cuál es la relación entre la inflamación y la función tiroidea?",
+      "options": [
+        "La inflamación no afecta la función tiroidea",
+        "La inflamación siempre aumenta la función tiroidea",
+        "La inflamación puede afectar la función tiroidea a través de múltiples mecanismos",
+        "La inflamación siempre disminuye la función tiroidea"
+      ],
+      "correctIndex": 2,
+      "explanation": "La inflamación puede afectar la función tiroidea a través de múltiples mecanismos. La inflamación crónica puede resultar en daño a la glándula tiroides, reduciendo su capacidad de sintetizar hormonas. Las citoquinas inflamatorias pueden afectar la expresión de genes involucrados en la síntesis de hormonas tiroideas. La inflamación también puede afectar la absorción y el metabolismo de yodo. En la tiroiditis autoinmune (enfermedad de Hashimoto), la inflamación crónica resulta en la destrucción progresiva de la glándula tiroides, causando hipotiroidismo. En contraste, en la enfermedad de Graves, la inflamación autoinmune resulta en la estimulación de la glándula tiroides, causando hipertiroidismo. La inflamación aguda, como la que ocurre en la tiroiditis viral, puede resultar en la liberación de hormonas tiroideas preformadas, causando hipertiroidismo transitorio. La comprensión de la relación entre la inflamación y la función tiroidea es importante para el manejo de los trastornos tiroideos."
+    },
+    {
+      "id": 41,
+      "question": "¿Cuál es la función de los osteoblastos en relación con la regulación del calcio?",
+      "options": [
+        "Resorben el hueso y liberan calcio",
+        "Sintetizan la matriz ósea y promueven la mineralización",
+        "Degradan la matriz ósea",
+        "Transportan calcio en la sangre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los osteoblastos son células que sintetizan la matriz ósea (principalmente colágeno tipo I) y promueven la mineralización del osteoide. Aunque los osteoblastos no liberan directamente calcio a la circulación, su función es crucial para mantener la integridad estructural del esqueleto y la homeostasis del calcio a largo plazo. Los osteoblastos también juegan un papel importante en la regulación de los osteoclastos a través del sistema RANK-RANKL. La PTH estimula los osteoblastos, que a su vez activan los osteoclastos para resorber el hueso y liberar calcio. La calcitonina, en contraste, inhibe tanto los osteoclastos como los osteoblastos. El equilibrio entre la actividad de los osteoblastos (formación) y los osteoclastos (resorción) es crucial para mantener la homeostasis del calcio y la salud ósea. La disfunción de los osteoblastos puede resultar en osteoporosis o en otras enfermedades óseas."
+    },
+    {
+      "id": 42,
+      "question": "¿Cuál es el papel del sistema RANK-RANKL en la regulación de la resorción ósea?",
+      "options": [
+        "Inhibe la actividad de los osteoclastos",
+        "Media la activación de los osteoclastos por la PTH",
+        "Promueve la síntesis de colágeno",
+        "Regula la absorción de calcio intestinal"
+      ],
+      "correctIndex": 1,
+      "explanation": "El sistema RANK-RANKL media la activación de los osteoclastos por la PTH. RANK (receptor activador del factor nuclear kappa B) es un receptor en la superficie de los osteoclastos y sus precursores. RANKL (ligando de RANK) es una proteína expresada en los osteoblastos. Cuando la PTH estimula los osteoblastos, estos aumentan la expresión de RANKL. El RANKL se une a RANK en los osteoclastos, activándolos y promoviendo su diferenciación a partir de precursores. La osteoprotegerina (OPG) es un receptor soluble que puede unirse a RANKL, bloqueando su interacción con RANK y previniendo la activación de los osteoclastos. El equilibrio entre RANKL y OPG es crucial para regular la resorción ósea. La calcitonina inhibe los osteoclastos, en parte, reduciendo la expresión de RANKL. El sistema RANK-RANKL es un objetivo importante para el tratamiento de la osteoporosis y otras enfermedades óseas."
+    },
+    {
+      "id": 43,
+      "question": "¿Cuál es la relación entre el metabolismo del fósforo y el calcio?",
+      "options": [
+        "No hay relación entre el fósforo y el calcio",
+        "El fósforo y el calcio están inversamente relacionados en la sangre",
+        "El fósforo y el calcio están directamente relacionados en la sangre",
+        "El fósforo no afecta la regulación del calcio"
+      ],
+      "correctIndex": 2,
+      "explanation": "El fósforo y el calcio están directamente relacionados en la sangre a través del producto iónico (calcio × fósforo). Cuando el producto iónico excede el límite de solubilidad, el calcio y el fósforo precipitan como sales de fosfato de calcio. La PTH aumenta la excreción renal de fósforo, lo que reduce el producto iónico y facilita la absorción intestinal de calcio. La vitamina D aumenta la absorción intestinal tanto de calcio como de fósforo. El riñón es el órgano principal que regula la excreción de fósforo. La regulación del fósforo sérico es importante no solo para la homeostasis del calcio, sino también para la función celular, la producción de ATP, y la mineralización ósea. Los trastornos del metabolismo del fósforo pueden resultar en alteraciones de la homeostasis del calcio. La relación entre el calcio y el fósforo es importante para comprender la fisiología mineral."
+    },
+    {
+      "id": 44,
+      "question": "¿Cuál es la función de la proteína transportadora de hormona tiroidea en la sangre?",
+      "options": [
+        "Sintetiza hormonas tiroideas",
+        "Transporta y almacena hormonas tiroideas en la sangre",
+        "Degrada hormonas tiroideas",
+        "Estimula la síntesis de TSH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las proteínas transportadoras de hormonas tiroideas transportan y almacenan hormonas tiroideas en la sangre. Las principales proteínas transportadoras son la globulina fijadora de tiroxina (TBG), la prealbúmina fijadora de tiroxina (TBPA o transtiretina), y la albúmina. Aproximadamente el 99% de las hormonas tiroideas en la sangre están unidas a estas proteínas transportadoras, mientras que menos del 1% están en forma libre. Solo la hormona tiroidea libre es biológicamente activa. Las proteínas transportadoras actúan como un depósito de hormonas tiroideas, permitiendo una regulación más fina de la disponibilidad de hormona libre. Las alteraciones en las concentraciones de proteínas transportadoras (como ocurre en la enfermedad hepática o en el embarazo) pueden afectar los niveles totales de hormonas tiroideas sin afectar necesariamente los niveles de hormona libre. La medición de la hormona tiroidea libre (T3 libre y T4 libre) es más clínicamente relevante que la medición de la hormona tiroidea total."
+    },
+    {
+      "id": 45,
+      "question": "¿Cuál es el papel del hipotálamo en la regulación de la secreción de cortisol?",
+      "options": [
+        "Secreta directamente cortisol",
+        "Secreta CRH, que estimula la hipófisis para secretar ACTH",
+        "Inhibe la secreción de ACTH",
+        "Regula la absorción de yodo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo secreta hormona liberadora de corticotropina (CRH), que estimula la hipófisis anterior para secretar hormona adrenocorticotropa (ACTH). La ACTH luego estimula la zona fasciculada de la corteza suprarrenal para sintetizar y secretar cortisol. Este es el primer paso del eje hipotálamo-hipófisis-suprarrenal (HPA). El hipotálamo responde a cambios en el estrés, la temperatura corporal, y otros factores ambientales, ajustando la secreción de CRH según sea necesario. El eje HPA está regulado por retroalimentación negativa, donde el cortisol elevado inhibe la secreción de CRH y ACTH. El cortisol también tiene un ritmo circadiano controlado por el hipotálamo, con niveles más altos por la mañana y más bajos por la noche. La disfunción del hipotálamo puede resultar en trastornos de la secreción de cortisol, como el síndrome de Cushing o la insuficiencia suprarrenal."
+    },
+    {
+      "id": 46,
+      "question": "¿Cuál es la diferencia entre la hipófisis anterior y la hipófisis posterior?",
+      "options": [
+        "No hay diferencia entre la hipófisis anterior y posterior",
+        "La hipófisis anterior es de origen endodérmico y secreta hormonas tróficas, mientras que la hipófisis posterior es de origen neuroectodérmico y secreta hormonas neurohipofisarias",
+        "La hipófisis anterior secreta hormonas neurohipofisarias",
+        "La hipófisis posterior es de origen endodérmico"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hipófisis anterior (adenohipófisis) es de origen endodérmico y secreta hormonas tróficas (TSH, ACTH, FSH, LH, prolactina, y hormona del crecimiento). La hipófisis posterior (neurohipófisis) es de origen neuroectodérmico y secreta hormonas neurohipofisarias (vasopresina y oxitocina). La hipófisis anterior está bajo el control del hipotálamo a través de hormonas liberadoras que viajan por el sistema porta hipofisario. La hipófisis posterior está bajo el control del hipotálamo a través de fibras nerviosas directas. La hipófisis anterior contiene células endocrinas especializadas (somatotropos, corticotropos, tirotropos, gonadotropos, y lactotropos), mientras que la hipófisis posterior contiene terminaciones nerviosas de neuronas hipotalámicas. Esta diferencia en el origen embrionario y la estructura explica las diferencias en el control y la función de estas dos regiones de la hipófisis."
+    },
+    {
+      "id": 47,
+      "question": "¿Cuál es el papel de la vasopresina en la regulación del agua corporal?",
+      "options": [
+        "Aumenta la excreción de agua por los riñones",
+        "Disminuye la excreción de agua por los riñones, promoviendo la reabsorción de agua",
+        "Estimula la síntesis de aldosterona",
+        "Inhibe la secreción de ADH"
+      ],
+      "correctIndex": 1,
+      "explanation": "La vasopresina (hormona antidiurética o ADH) disminuye la excreción de agua por los riñones, promoviendo la reabsorción de agua en los túbulos colectores. La vasopresina es sintetizada en el hipotálamo y secretada por la hipófisis posterior en respuesta a cambios en la osmolalidad plasmática y el volumen de sangre. La vasopresina se une a receptores V2 en los túbulos colectores del riñón, aumentando la expresión de acuaporinas (canales de agua), lo que facilita la reabsorción de agua. Cuando la osmolalidad plasmática aumenta o el volumen de sangre disminuye, la secreción de vasopresina aumenta, resultando en una mayor reabsorción de agua y un aumento del volumen de sangre. Cuando la osmolalidad plasmática disminuye o el volumen de sangre aumenta, la secreción de vasopresina disminuye, resultando en una menor reabsorción de agua y un aumento de la excreción urinaria. La disfunción de la vasopresina puede resultar en diabetes insípida (deficiencia de vasopresina) o síndrome de secreción inapropiada de ADH (exceso de vasopresina)."
+    },
+    {
+      "id": 48,
+      "question": "¿Cuál es la función de la oxitocina?",
+      "options": [
+        "Regula el metabolismo del calcio",
+        "Promueve la contracción uterina durante el parto y la eyección de leche durante la lactancia",
+        "Estimula la síntesis de cortisol",
+        "Regula la presión arterial"
+      ],
+      "correctIndex": 1,
+      "explanation": "La oxitocina es una hormona neurohipofisaria que promueve la contracción uterina durante el parto y la eyección de leche durante la lactancia. La oxitocina es sintetizada en el hipotálamo y secretada por la hipófisis posterior. Durante el parto, la distensión del cuello uterino estimula la secreción de oxitocina, que promueve las contracciones uterinas (retroalimentación positiva). Durante la lactancia, la succión del pezón estimula la secreción de oxitocina, que promueve la contracción de las células mioepiteliales alrededor de los alvéolos mamarios, facilitando la eyección de leche. La oxitocina también tiene efectos en el comportamiento, promoviendo la unión social y el reconocimiento de parejas. La oxitocina se utiliza clínicamente para inducir o aumentar las contracciones uterinas durante el parto. La disfunción de la oxitocina puede resultar en problemas de lactancia o en dificultades en el parto."
+    },
+    {
+      "id": 49,
+      "question": "¿Cuál es la relación entre la hormona del crecimiento y el metabolismo?",
+      "options": [
+        "La hormona del crecimiento disminuye el metabolismo",
+        "La hormona del crecimiento aumenta el metabolismo y promueve el crecimiento y la lipólisis",
+        "No hay relación entre la hormona del crecimiento y el metabolismo",
+        "La hormona del crecimiento inhibe la síntesis de proteínas"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona del crecimiento (somatotropina) aumenta el metabolismo y promueve el crecimiento y la lipólisis. La hormona del crecimiento es secretada por los somatotropos de la hipófisis anterior en respuesta a la hormona liberadora de hormona del crecimiento (GHRH) del hipotálamo. La hormona del crecimiento tiene múltiples efectos metabólicos: aumenta la síntesis de proteínas, promueve la lipólisis (movilización de ácidos grasos), aumenta la gluconeogénesis, y aumenta el metabolismo basal. La hormona del crecimiento también promueve el crecimiento lineal a través de la estimulación de la síntesis de factor de crecimiento similar a insulina (IGF-1) en el hígado. La secreción de hormona del crecimiento está regulada por GHRH y somatostatina (que inhibe la secreción). La hormona del crecimiento también está regulada por factores como el sueño, el estrés, el ejercicio, y los niveles de glucosa en sangre. La deficiencia de hormona del crecimiento resulta en retraso del crecimiento, mientras que el exceso resulta en gigantismo o acromegalia."
+    },
+    {
+      "id": 50,
+      "question": "¿Cuál es el papel del sistema nervioso autónomo en la regulación de las glándulas endócrinas?",
+      "options": [
+        "El sistema nervioso autónomo no tiene papel en la regulación endocrina",
+        "El sistema nervioso autónomo solo regula la médula suprarrenal",
+        "El sistema nervioso autónomo regula múltiples glándulas endócrinas a través de inervación directa y efectos en el flujo sanguíneo",
+        "El sistema nervioso autónomo inhibe todas las glándulas endócrinas"
+      ],
+      "correctIndex": 2,
+      "explanation": "El sistema nervioso autónomo juega un papel importante en la regulación de múltiples glándulas endócrinas a través de inervación directa y efectos en el flujo sanguíneo. La médula suprarrenal recibe inervación simpática preganglionar directa, permitiendo una respuesta rápida a situaciones de estrés. El sistema nervioso simpático también afecta el flujo sanguíneo a las glándulas endócrinas, lo que puede afectar la secreción de hormonas. El hipotálamo, que es el centro de control del sistema nervioso autónomo, también controla el eje hipotálamo-hipófisis, regulando múltiples glándulas endócrinas. El estrés, que activa el sistema nervioso simpático, resulta en cambios en la secreción de múltiples hormonas, incluyendo cortisol, catecolaminas, y hormonas tiroideas. La integración entre el sistema nervioso autónomo y el sistema endócrino permite una respuesta coordinada a los cambios ambientales y fisiológicos. La disfunción de esta integración puede resultar en trastornos endócrinos."
+    }
+  ]
+}

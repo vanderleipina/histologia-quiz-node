@@ -1,0 +1,607 @@
+{
+  "id": "paratiroides",
+  "nombre": "Paratiroides",
+  "descripcion": "Preguntas de nivel superior sobre las glándulas paratiroides, estructura histológica, funciones y patología",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuántas glándulas paratiroides existen normalmente en el cuerpo humano?",
+      "opciones": [
+        "2 glándulas",
+        "4 glándulas",
+        "6 glándulas",
+        "8 glándulas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Normalmente existen 4 glándulas paratiroides en el cuerpo humano, aunque ocasionalmente pueden haber variaciones en el número. Dos glándulas se localizan en la cara superior de los lóbulos tiroideos (paratiroides superiores) y dos en la cara inferior (paratiroides inferiores). Estas glándulas tienen un tamaño muy pequeño, aproximadamente 5 x 3 x 2 mm cada una, y pesan alrededor de 30-40 mg cada una. A pesar de su pequeño tamaño, las glándulas paratiroides son cruciales para la regulación del metabolismo del calcio y fósforo. La ubicación de las glándulas paratiroides en la cara posterior de la tiroides es importante desde el punto de vista quirúrgico, ya que pueden ser dañadas durante la tiroidectomía, resultando en hipoparatiroidismo postoperatorio."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es la ubicación anatómica exacta de las glándulas paratiroides?",
+      "opciones": [
+        "En la región anterior del cuello, delante de la laringe",
+        "En la cara posterior de los lóbulos tiroideos",
+        "En la región lateral del cuello",
+        "En la región mediastínica del tórax"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas paratiroides se localizan en la cara posterior de los lóbulos tiroideos, con dos glándulas superiores (paratiroides superiores) ubicadas a nivel del borde inferior del cartílago cricoides y dos glándulas inferiores (paratiroides inferiores) ubicadas más inferiormente. Esta ubicación posterior las coloca íntimamente relacionadas con la tiroides, lo que explica por qué pueden ser dañadas durante la tiroidectomía. Las glándulas paratiroides están cubiertas por la fascia cervical y están separadas de la tiroides por una cápsula delgada. La ubicación posterior también las coloca cerca de estructuras importantes como el nervio recurrente laríngeo y los vasos sanguíneos cervicales. Ocasionalmente, las glándulas paratiroides pueden estar ectópicamente localizadas, lo que complica su identificación durante la cirugía."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es el tamaño aproximado de cada glándula paratiroides?",
+      "opciones": [
+        "1 x 0.5 x 0.5 cm",
+        "5 x 3 x 2 mm",
+        "2 x 1 x 1 cm",
+        "1 x 1 x 1 cm"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cada glándula paratiroides tiene un tamaño aproximado de 5 x 3 x 2 mm, aunque puede variar ligeramente entre individuos. El peso de cada glándula es de aproximadamente 30-40 mg, siendo las glándulas inferiores generalmente más grandes que las superiores. A pesar de su pequeño tamaño, las glándulas paratiroides son órganos muy activos metabólicamente. El pequeño tamaño de las glándulas paratiroides las hace difíciles de identificar durante la exploración quirúrgica, especialmente si están ectópicamente localizadas. Las variaciones en el tamaño pueden indicar patología, como hiperplasia (aumento de tamaño) en el hiperparatiroidismo primario o atrofia en el hipoparatiroidismo. La medición del tamaño de las glándulas paratiroides mediante ecografía o resonancia magnética puede ser útil para el diagnóstico de enfermedades paratiroides."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuál es la estructura histológica fundamental de las glándulas paratiroides?",
+      "opciones": [
+        "Folículos rodeados de coloide",
+        "Cordones de células principales y células oxífilas separadas por tejido conectivo y vasos sanguíneos",
+        "Túbulos secretores ramificados",
+        "Acinos glandulares"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La estructura histológica fundamental de las glándulas paratiroides consiste en cordones de células principales y células oxífilas separadas por tejido conectivo intersticial rico en vasos sanguíneos. A diferencia de la glándula tiroides, las glándulas paratiroides no tienen folículos ni coloide. Los cordones celulares están organizados en una red tridimensional que permite una estrecha relación entre las células secretoras y la circulación sanguínea. El tejido conectivo intersticial contiene vasos sanguíneos capilares fenestrados que facilitan el intercambio de iones de calcio y la secreción de hormona paratiroidea. Las células están organizadas en una arquitectura que permite una regulación rápida y eficiente de la secreción hormonal en respuesta a cambios en los niveles de calcio sérico. La ausencia de folículos y coloide refleja la diferente función de las glándulas paratiroides en comparación con la tiroides."
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuáles son las dos principales poblaciones celulares en las glándulas paratiroides?",
+      "opciones": [
+        "Células foliculares y células parafoliculares",
+        "Células principales y células oxífilas",
+        "Células cromafines y células ganglionares",
+        "Células cúbicas y células cilíndricas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las dos principales poblaciones celulares en las glándulas paratiroides son las células principales (también llamadas células jefe) y las células oxífilas. Las células principales representan aproximadamente el 70% de la población celular y son responsables de la síntesis y secreción de hormona paratiroidea (PTH). Las células oxífilas representan aproximadamente el 10-15% de la población celular y su función exacta es desconocida, aunque se cree que pueden tener una función secretora limitada. La proporción de células principales a células oxífilas varía entre individuos y puede cambiar con la edad. Las células adiposas también están presentes en cantidad variable, aumentando con la edad. La identificación de estas dos poblaciones celulares es importante para el diagnóstico histológico de enfermedades paratiroides."
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuáles son las características histológicas de las células principales paratiroides?",
+      "opciones": [
+        "Citoplasma fuertemente acidófilo y mitocondrias abundantes",
+        "Citoplasma claro o ligeramente basófilo, núcleo pequeño redondo central",
+        "Citoplasma con vacuolas lipídicas",
+        "Núcleo periférico y citoplasma denso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células principales de las glándulas paratiroides tienen características histológicas distintivas que las diferencian de otros tipos celulares. Presentan un citoplasma claro o ligeramente basófilo, que refleja su contenido de gránulos de secreción y organelas. El núcleo es pequeño, redondo y está ubicado centralmente. El citoplasma claro es una característica importante y es debido al contenido de glucógeno y a la presencia de gránulos de secreción que contienen hormona paratiroidea. Cuando se tiñen con hematoxilina y eosina, el citoplasma de las células principales aparece más claro que el de las células oxífilas. Las células principales tienen un retículo endoplásmico rugoso bien desarrollado y un aparato de Golgi prominente, reflejando su actividad secretora. La posición central del núcleo es característica de las células secretoras activas."
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuáles son las características histológicas de las células oxífilas paratiroides?",
+      "opciones": [
+        "Citoplasma claro y núcleo central",
+        "Citoplasma fuertemente acidófilo, mitocondrias abundantes y núcleo pequeño",
+        "Citoplasma con vacuolas lipídicas",
+        "Núcleo grande y citoplasma basófilo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células oxífilas de las glándulas paratiroides tienen características histológicas muy distintas a las células principales. El citoplasma es fuertemente acidófilo (eosinófilo), lo que le da un color rojo intenso cuando se tiñe con hematoxilina y eosina. Esta acidofilia es debido al contenido extremadamente alto de mitocondrias, que pueden representar hasta el 40% del volumen celular. El núcleo es pequeño y generalmente está ubicado centralmente. Las células oxífilas tienen un retículo endoplásmico rugoso menos desarrollado que las células principales, lo que sugiere una menor actividad secretora. La función exacta de las células oxífilas es desconocida, aunque se cree que pueden tener una función secretora limitada o pueden ser células principales envejecidas. Las células oxífilas aumentan en número con la edad y pueden estar aumentadas en ciertos estados patológicos."
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Cuál es la hormona principal producida por las glándulas paratiroides?",
+      "opciones": [
+        "Calcitonina",
+        "Hormona paratiroidea (PTH)",
+        "Vitamina D",
+        "Hormona de crecimiento"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hormona paratiroidea (PTH) es la hormona principal producida por las células principales de las glándulas paratiroides. PTH es una hormona peptídica de 84 aminoácidos que juega un papel crucial en la regulación de los niveles de calcio sérico. PTH aumenta los niveles de calcio sérico mediante tres mecanismos principales: aumenta la reabsorción de calcio en los túbulos renales, aumenta la activación de vitamina D en los riñones (que aumenta la absorción intestinal de calcio), y aumenta la resorción ósea liberando calcio del hueso. Además, PTH disminuye la reabsorción renal de fósforo, resultando en una disminución de los niveles de fósforo sérico. La secreción de PTH es regulada por los niveles de calcio sérico mediante un mecanismo de retroalimentación negativa: los niveles bajos de calcio estimulan la secreción de PTH, mientras que los niveles altos de calcio la inhiben."
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuál es el mecanismo de regulación de la secreción de PTH?",
+      "opciones": [
+        "Regulación por TSH de la hipófisis",
+        "Regulación por retroalimentación negativa de los niveles de calcio sérico",
+        "Regulación por insulina",
+        "Regulación por cortisol"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La secreción de PTH es regulada principalmente por los niveles de calcio sérico mediante un mecanismo de retroalimentación negativa. Las células principales de las glándulas paratiroides tienen receptores sensores de calcio (CaSR) en su membrana plasmática que detectan los cambios en los niveles de calcio extracelular. Cuando los niveles de calcio sérico disminuyen, los receptores sensores de calcio se desactivan, resultando en un aumento de la secreción de PTH. Cuando los niveles de calcio sérico aumentan, los receptores sensores de calcio se activan, resultando en una disminución de la secreción de PTH. Este mecanismo de retroalimentación es muy eficiente y mantiene los niveles de calcio sérico dentro de un rango estrecho (8.5-10.5 mg/dL). Los niveles de fósforo sérico también afectan la secreción de PTH: los niveles altos de fósforo estimulan la secreción de PTH. La vitamina D también regula la secreción de PTH: los niveles altos de vitamina D activa inhiben la secreción de PTH."
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cuál es la función del receptor sensor de calcio (CaSR) en las células principales?",
+      "opciones": [
+        "Sintetizar hormona paratiroidea",
+        "Detectar cambios en los niveles de calcio sérico y regular la secreción de PTH",
+        "Transportar calcio hacia el interior de la célula",
+        "Almacenar calcio en vesículas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El receptor sensor de calcio (CaSR) es un receptor acoplado a proteína G que se expresa en la membrana plasmática de las células principales de las glándulas paratiroides. Este receptor detecta cambios en los niveles de calcio extracelular y transmite esta información al interior de la célula, regulando la secreción de PTH. El CaSR tiene una afinidad muy alta por el calcio, permitiendo una detección precisa de pequeños cambios en los niveles de calcio sérico. Cuando el calcio se une al CaSR, se activa una cascada de señalización intracelular que resulta en una disminución de la secreción de PTH. Mutaciones en el gen del CaSR pueden resultar en enfermedades paratiroides: mutaciones que disminuyen la función del CaSR resultan en hiperparatiroidismo familiar hipocalcémico, mientras que mutaciones que aumentan la función resultan en hipercalcemia hipocalciúrica familiar. El CaSR también se expresa en otros tejidos como los riñones y las glándulas paratiroides, donde juega un papel importante en la regulación del metabolismo del calcio."
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Cuál es la relación entre las glándulas paratiroides y el metabolismo del calcio?",
+      "opciones": [
+        "Las glándulas paratiroides no tienen relación con el metabolismo del calcio",
+        "Las glándulas paratiroides regulan los niveles de calcio sérico mediante la secreción de PTH",
+        "Las glándulas paratiroides solo regulan el metabolismo del fósforo",
+        "Las glándulas paratiroides producen vitamina D"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas paratiroides juegan un papel crucial en la regulación de los niveles de calcio sérico mediante la secreción de PTH. PTH aumenta los niveles de calcio sérico mediante tres mecanismos principales: (1) aumenta la reabsorción de calcio en los túbulos renales colectores, (2) aumenta la activación de vitamina D en los riñones, que aumenta la absorción intestinal de calcio, y (3) aumenta la resorción ósea liberando calcio del hueso. Estos mecanismos trabajan juntos para mantener los niveles de calcio sérico dentro de un rango estrecho necesario para la función neuromuscular normal, la contracción muscular, la coagulación sanguínea y la transmisión sináptica. El calcio sérico es uno de los iones más estrictamente regulados en el cuerpo, y las glándulas paratiroides son responsables de mantener esta homeostasis. Las alteraciones en la función de las glándulas paratiroides resultan en hipercalcemia (en el hiperparatiroidismo) o hipocalcemia (en el hipoparatiroidismo)."
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Cuál es el papel de la vitamina D en la regulación del metabolismo del calcio?",
+      "opciones": [
+        "La vitamina D no tiene relación con el metabolismo del calcio",
+        "La vitamina D activa aumenta la absorción intestinal de calcio y fósforo",
+        "La vitamina D solo regula el metabolismo del fósforo",
+        "La vitamina D disminuye la absorción intestinal de calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La vitamina D activa (calcitriol) juega un papel importante en la regulación del metabolismo del calcio. La vitamina D aumenta la absorción intestinal de calcio y fósforo, facilitando la entrada de estos iones en la circulación. La vitamina D también participa en la regulación de la resorción ósea y la reabsorción renal de calcio. La síntesis de vitamina D activa es regulada por PTH: cuando los niveles de calcio sérico disminuyen, PTH estimula la activación de vitamina D en los riñones, que a su vez aumenta la absorción intestinal de calcio. La vitamina D también regula la secreción de PTH: los niveles altos de vitamina D activa inhiben la secreción de PTH. La deficiencia de vitamina D resulta en una absorción intestinal deficiente de calcio, lo que puede llevar a hipocalcemia y estimulación secundaria de las glándulas paratiroides (hiperparatiroidismo secundario). La vitamina D también tiene funciones inmunológicas y antiproliferativas importantes."
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el hiperparatiroidismo primario?",
+      "opciones": [
+        "Atrofia de las células principales",
+        "Hiperplasia de las células principales, aumento del tamaño de las glándulas",
+        "Aumento de las células adiposas",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el hiperparatiroidismo primario, los cambios histológicos más comunes incluyen hiperplasia de las células principales, resultando en un aumento del tamaño de las glándulas paratiroides. La hiperplasia puede ser difusa (afectando todas las glándulas) o nodular (formando nódulos discretos). En la hiperplasia difusa, todas las células principales muestran un aumento en el tamaño y número. En la hiperplasia nodular, hay formación de nódulos de células principales rodeados por tejido adiposo. Histológicamente, se observa una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Las células oxífilas pueden estar aumentadas en número. El aumento en el tamaño de las glándulas es el resultado de una pérdida de la sensibilidad al calcio, resultando en una secreción continua de PTH incluso cuando los niveles de calcio sérico están elevados. La hiperplasia puede ser causada por adenoma (hiperparatiroidismo primario esporádico) o por mutaciones en genes como MEN1 (hiperparatiroidismo familiar)."
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el hipoparatiroidismo?",
+      "opciones": [
+        "Hiperplasia de las células principales",
+        "Atrofia de las células principales, disminución del tamaño de las glándulas",
+        "Aumento de las células adiposas",
+        "Formación de nódulos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el hipoparatiroidismo, los cambios histológicos incluyen atrofia de las células principales, resultando en una disminución del tamaño de las glándulas paratiroides. Las células principales muestran una disminución en el tamaño y número, con una disminución en el contenido de gránulos de secreción. Hay un aumento en la cantidad de tejido adiposo intersticial, reemplazando el tejido paratiroideo funcional. Las células oxífilas pueden estar disminuidas en número. El grado de atrofia depende de la causa del hipoparatiroidismo: en el hipoparatiroidismo idiopático, hay atrofia progresiva de las glándulas; en el hipoparatiroidismo postoperatorio (causado por daño quirúrgico de las glándulas durante la tiroidectomía), el grado de atrofia depende del daño causado. La atrofia de las glándulas paratiroides resulta en una disminución de la secreción de PTH, lo que lleva a hipocalcemia e hiperfosfatemia. El hipoparatiroidismo puede ser permanente o transitorio, dependiendo de si el daño a las glándulas es reversible."
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el hiperparatiroidismo secundario?",
+      "opciones": [
+        "Atrofia de las células principales",
+        "Hiperplasia difusa de las células principales, aumento del tamaño de las glándulas",
+        "Disminución del número de células",
+        "Formación de nódulos únicos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el hiperparatiroidismo secundario, los cambios histológicos incluyen hiperplasia difusa de las células principales, resultando en un aumento del tamaño de todas las glándulas paratiroides. La hiperplasia es una respuesta compensatoria a la hipocalcemia crónica causada por insuficiencia renal o deficiencia de vitamina D. Histológicamente, se observa una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Las células oxífilas pueden estar aumentadas en número. La hiperplasia es difusa, afectando todas las glándulas paratiroides de manera similar. El aumento en el tamaño de las glándulas es el resultado de una estimulación continua por hipocalcemia e hiperfosfatemia. A diferencia del hiperparatiroidismo primario, donde hay una pérdida de la sensibilidad al calcio, en el hiperparatiroidismo secundario las glándulas mantienen su sensibilidad al calcio pero están estimuladas crónicamente por hipocalcemia. El hiperparatiroidismo secundario puede progresar a hiperparatiroidismo terciario si se desarrolla una adenoma autónomo."
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Cuál es la diferencia histológica entre un adenoma paratiroideo y la hiperplasia paratiroides?",
+      "opciones": [
+        "No hay diferencias histológicas",
+        "El adenoma es una lesión única con una cápsula bien definida; la hiperplasia afecta todas las glándulas",
+        "El adenoma afecta todas las glándulas",
+        "La hiperplasia es siempre unilateral"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La diferencia fundamental entre un adenoma paratiroideo y la hiperplasia paratiroides es que el adenoma es una lesión única con una cápsula bien definida que la separa del tejido paratiroideo normal adyacente, mientras que la hiperplasia afecta todas las glándulas paratiroides de manera difusa. Histológicamente, un adenoma muestra una arquitectura de células principalmente principales o principalmente oxífilas, con una cápsula fibrosa que lo rodea. La glándula adyacente al adenoma generalmente está atrófica debido a la supresión de PTH por el adenoma. En la hiperplasia, todas las glándulas están aumentadas de tamaño con hiperplasia de células principales. La distinción entre adenoma y hiperplasia es importante desde el punto de vista clínico, ya que el tratamiento quirúrgico es diferente: en el adenoma, se realiza paratiroidectomía subtotal o total con autotrasplante; en la hiperplasia, se realiza paratiroidectomía subtotal de todas las glándulas. La distinción también es importante para el pronóstico: el adenoma tiene una tasa de recurrencia más baja que la hiperplasia."
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuáles son las características histológicas del carcinoma paratiroideo?",
+      "opciones": [
+        "Células principales bien diferenciadas sin invasión",
+        "Invasión vascular y capsular, mitosis aumentadas, pleomorfismo nuclear",
+        "Células oxífilas sin cambios malignos",
+        "Folículos bien definidos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El carcinoma paratiroideo es una neoplasia maligna rara que se caracteriza histológicamente por invasión vascular y capsular, mitosis aumentadas, pleomorfismo nuclear y necrosis. Las células tumorales pueden ser principalmente células principales o principalmente células oxífilas. La invasión vascular es un hallazgo importante que diferencia el carcinoma paratiroideo de los adenomas benignos. Se observa una pérdida de la arquitectura normal con reemplazo por células tumorales desorganizadas. El carcinoma paratiroideo generalmente se presenta con hipercalcemia severa y niveles muy elevados de PTH. El pronóstico del carcinoma paratiroideo es generalmente pobre, con una tasa de supervivencia a 5 años de aproximadamente 50%. La recurrencia local y la diseminación a distancia son comunes. El tratamiento incluye paratiroidectomía en bloque con resección de estructuras adyacentes afectadas. El carcinoma paratiroideo puede estar asociado con síndrome de hiperparatiroidismo-carcinoma paratiroideo (HPT-JT) causado por mutaciones en el gen CDC73."
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Cuál es la relación entre las glándulas paratiroides y el metabolismo del fósforo?",
+      "opciones": [
+        "Las glándulas paratiroides no tienen relación con el metabolismo del fósforo",
+        "PTH disminuye la reabsorción renal de fósforo, resultando en una disminución de los niveles de fósforo sérico",
+        "PTH aumenta la reabsorción renal de fósforo",
+        "Las glándulas paratiroides producen fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas paratiroides juegan un papel importante en la regulación del metabolismo del fósforo mediante la secreción de PTH. PTH disminuye la reabsorción renal de fósforo, resultando en un aumento de la excreción urinaria de fósforo y una disminución de los niveles de fósforo sérico. Este efecto de PTH sobre el fósforo es importante porque la disminución de los niveles de fósforo sérico facilita la activación de vitamina D en los riñones, que a su vez aumenta la absorción intestinal de calcio. La regulación del fósforo sérico es importante para mantener el producto calcio-fósforo dentro de un rango normal, previniendo la precipitación de fosfato de calcio en los tejidos. En el hiperparatiroidismo, hay una disminución de los niveles de fósforo sérico debido al efecto de PTH en la reabsorción renal de fósforo. En el hipoparatiroidismo, hay un aumento de los niveles de fósforo sérico debido a una disminución en la excreción urinaria de fósforo."
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es el papel del tejido conectivo intersticial en las glándulas paratiroides?",
+      "opciones": [
+        "El tejido conectivo no tiene función en las glándulas paratiroides",
+        "El tejido conectivo proporciona soporte estructural y contiene vasos sanguíneos fenestrados para el intercambio hormonal",
+        "El tejido conectivo produce hormona paratiroidea",
+        "El tejido conectivo almacena calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tejido conectivo intersticial de las glándulas paratiroides juega un papel importante en la función glandular. Proporciona soporte estructural a los cordones de células principales y células oxífilas. El tejido conectivo contiene vasos sanguíneos capilares fenestrados que facilitan un intercambio eficiente de iones de calcio y la secreción de hormona paratiroidea. La fenestración de los capilares permite que las moléculas de PTH secretadas por las células principales accedan rápidamente a la circulación. El tejido conectivo también contiene células del sistema inmunológico que participan en la regulación de la respuesta inmunológica local. El tejido conectivo contiene células adiposas que aumentan en número con la edad. En el hiperparatiroidismo primario, hay una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. En el hipoparatiroidismo, hay un aumento en la cantidad de tejido adiposo intersticial, reemplazando el tejido paratiroideo funcional."
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides durante el embarazo?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Aumento del tamaño de las glándulas, hiperplasia de células principales",
+        "Atrofia de las glándulas",
+        "Aumento de las células adiposas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Durante el embarazo, las glándulas paratiroides experimentan cambios histológicos que reflejan el aumento de la demanda de calcio para el desarrollo fetal. Se observa un aumento en el tamaño de las glándulas paratiroides, con hiperplasia de las células principales. El aumento en el tamaño es debido a la estimulación de las glándulas por la hipocalcemia relativa causada por el aumento de la demanda de calcio fetal. Histológicamente, hay una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Los niveles de PTH sérico aumentan durante el embarazo, reflejando la estimulación de las glándulas paratiroides. Los cambios histológicos son reversibles y las glándulas vuelven a su tamaño normal después del parto. Estos cambios fisiológicos son importantes para asegurar un suministro adecuado de calcio para el desarrollo fetal y para mantener la homeostasis del calcio materno durante el embarazo."
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Cuál es la relación entre las glándulas paratiroides y el hueso?",
+      "opciones": [
+        "Las glándulas paratiroides no tienen relación con el hueso",
+        "PTH estimula la resorción ósea liberando calcio del hueso hacia la sangre",
+        "Las glándulas paratiroides producen matriz ósea",
+        "Las glándulas paratiroides inhiben la resorción ósea"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas paratiroides juegan un papel importante en la regulación del metabolismo óseo mediante la secreción de PTH. PTH estimula la resorción ósea, un proceso en el cual los osteoclastos degradan la matriz ósea, liberando calcio y fósforo hacia la sangre. Este efecto de PTH sobre el hueso es importante para mantener los niveles de calcio sérico cuando la ingesta dietética de calcio es insuficiente o cuando hay una pérdida excesiva de calcio. PTH también estimula la diferenciación de osteoclastos a partir de sus precursores, aumentando el número de células resorptivas. A largo plazo, el hiperparatiroidismo crónico puede resultar en una pérdida significativa de masa ósea (osteoporosis), aumentando el riesgo de fracturas. En el hipoparatiroidismo, hay una disminución de la resorción ósea, resultando en un aumento de la densidad ósea. PTH también tiene efectos anabólicos sobre el hueso cuando se administra de manera intermitente, estimulando la formación ósea."
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cuáles son las características histológicas del hiperparatiroidismo familiar?",
+      "opciones": [
+        "Adenoma único",
+        "Hiperplasia difusa de todas las glándulas paratiroides",
+        "Atrofia de las glándulas",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El hiperparatiroidismo familiar se caracteriza histológicamente por hiperplasia difusa de todas las glándulas paratiroides. A diferencia del hiperparatiroidismo primario esporádico, que generalmente es causado por un adenoma único, el hiperparatiroidismo familiar es causado por mutaciones en genes como MEN1, CDC73 o CASR, resultando en una predisposición a la hiperplasia de todas las glándulas paratiroides. Histológicamente, todas las glándulas están aumentadas de tamaño con hiperplasia de células principales. La hiperplasia puede ser difusa o nodular. El hiperparatiroidismo familiar puede ser parte del síndrome de neoplasia endocrina múltiple (MEN1 o MEN2A), donde hay tumores en múltiples glándulas endocrinas. El diagnóstico de hiperparatiroidismo familiar requiere pruebas genéticas para identificar mutaciones en los genes responsables. El tratamiento quirúrgico del hiperparatiroidismo familiar es más complejo que el del hiperparatiroidismo esporádico, requiriendo paratiroidectomía subtotal de todas las glándulas o total con autotrasplante."
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Cuál es el papel de la inervación nerviosa en la regulación de la función paratiroides?",
+      "opciones": [
+        "La inervación nerviosa no es importante para la función paratiroides",
+        "La inervación simpática modula la vascularización y puede afectar la secreción de PTH",
+        "La inervación produce hormona paratiroidea",
+        "La inervación solo proporciona soporte estructural"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La inervación nerviosa de las glándulas paratiroides juega un papel en la regulación de su función. Las glándulas paratiroides reciben inervación simpática que modula la vascularización y puede afectar la secreción de PTH. La estimulación simpática puede aumentar la vascularización de las glándulas, facilitando el acceso de nutrientes y la secreción de PTH. La inervación también puede participar en la integración de la función paratiroides con otros sistemas del cuerpo. Sin embargo, la regulación principal de la secreción de PTH es a través del mecanismo de retroalimentación negativa del calcio sérico, que es independiente de la inervación nerviosa. Los cambios en la inervación pueden ocurrir en enfermedades paratiroides autoinmunes, contribuyendo a la disfunción de las glándulas. La inervación también es importante desde el punto de vista quirúrgico, ya que el daño a los nervios durante la cirugía puede afectar la función paratiroides."
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Cuál es la relación entre la deficiencia de vitamina D y la función paratiroides?",
+      "opciones": [
+        "No hay relación entre deficiencia de vitamina D y función paratiroides",
+        "La deficiencia de vitamina D resulta en hipocalcemia, estimulando la secreción de PTH (hiperparatiroidismo secundario)",
+        "La deficiencia de vitamina D disminuye la secreción de PTH",
+        "La deficiencia de vitamina D solo afecta el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La deficiencia de vitamina D resulta en una disminución de la absorción intestinal de calcio, lo que lleva a hipocalcemia. La hipocalcemia estimula la secreción de PTH, resultando en hiperparatiroidismo secundario. Histológicamente, hay hiperplasia difusa de todas las glándulas paratiroides. Este mecanismo es importante porque la deficiencia de vitamina D es una causa común de hiperparatiroidismo secundario en muchas partes del mundo. La deficiencia de vitamina D también puede resultar en raquitismo en niños o osteomalacia en adultos, ambas caracterizadas por una mineralización deficiente del hueso. El tratamiento de la deficiencia de vitamina D con suplementos de vitamina D puede resultar en una normalización de los niveles de calcio sérico y una disminución de la secreción de PTH, con regresión de la hiperplasia paratiroides. La vitamina D también tiene un efecto directo en la regulación de la secreción de PTH: los niveles altos de vitamina D activa inhiben la secreción de PTH."
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la insuficiencia renal crónica?",
+      "opciones": [
+        "Atrofia de las glándulas",
+        "Hiperplasia difusa de todas las glándulas paratiroides (hiperparatiroidismo secundario)",
+        "Disminución del número de células",
+        "Formación de nódulos únicos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la insuficiencia renal crónica, hay hiperplasia difusa de todas las glándulas paratiroides, resultando en hiperparatiroidismo secundario. La hiperplasia es una respuesta compensatoria a la hipocalcemia crónica y la hiperfosfatemia causadas por la disminución de la función renal. Los riñones normalmente activan la vitamina D y excretan fósforo; en la insuficiencia renal, ambas funciones están comprometidas, resultando en hipocalcemia e hiperfosfatemia. La hipocalcemia e hiperfosfatemia estimulan la secreción de PTH, resultando en hiperplasia de las glándulas paratiroides. Histológicamente, se observa una disminución en la cantidad de tejido adiposo intersticial, reemplazado por células principales hiperplásicas. Con el tiempo, la hiperplasia puede progresar a hiperparatiroidismo terciario, donde se desarrollan adenomas autónomos que no responden a los cambios en los niveles de calcio. El hiperparatiroidismo secundario en la insuficiencia renal crónica puede resultar en complicaciones óseas severas y calcificaciones vasculares. El tratamiento incluye control de los niveles de fósforo, suplementos de vitamina D activa y, en algunos casos, paratiroidectomía."
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Cuál es el papel de la microvasculatura en la función paratiroides?",
+      "opciones": [
+        "La microvasculatura no es importante para la función paratiroides",
+        "La microvasculatura proporciona nutrientes, oxígeno y facilita el intercambio de calcio y la secreción de PTH",
+        "La microvasculatura solo proporciona soporte estructural",
+        "La microvasculatura produce hormona paratiroidea"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La microvasculatura de las glándulas paratiroides es crucial para su función normal. Los capilares sanguíneos fenestrados forman una red densa alrededor de los cordones de células paratiroides, proporcionando nutrientes y oxígeno necesarios para la síntesis de PTH. La fenestración de los capilares permite un intercambio eficiente de iones de calcio entre la sangre y el tejido intersticial, facilitando la detección de cambios en los niveles de calcio sérico por el receptor sensor de calcio. La microvasculatura también facilita la secreción rápida de PTH hacia la circulación sistémica. La regulación de la función paratiroides depende de la microvasculatura, ya que permite que los cambios en los niveles de calcio sérico sean detectados rápidamente por las células principales. La vascularización de las glándulas paratiroides puede cambiar en estados patológicos, afectando la función de las glándulas. En el hiperparatiroidismo, hay un aumento de la vascularización, reflejando el aumento de la actividad metabólica de las glándulas."
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides durante la vejez?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Aumento de las células adiposas, atrofia de células principales, disminución del tamaño de las glándulas",
+        "Hiperplasia de células principales",
+        "Aumento de la vascularización"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Durante la vejez, las glándulas paratiroides experimentan cambios histológicos progresivos que reflejan el envejecimiento. Se observa un aumento en la cantidad de tejido adiposo intersticial, reemplazando el tejido paratiroideo funcional. Las células principales muestran una disminución en el tamaño y número, con una disminución en el contenido de gránulos de secreción. El tamaño de las glándulas paratiroides disminuye gradualmente. La vascularización de las glándulas puede disminuir con la edad. Estos cambios histológicos son generalmente acompañados por cambios en la función paratiroides, aunque los mecanismos de regulación del calcio se mantienen relativamente intactos. La prevalencia de hiperparatiroidismo primario aumenta con la edad, probablemente debido a la acumulación de mutaciones en las células paratiroides. Los cambios histológicos relacionados con la edad son importantes para entender la fisiología paratiroides en los ancianos."
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Cuál es la relación entre las glándulas paratiroides y la función neuromuscular?",
+      "opciones": [
+        "Las glándulas paratiroides no tienen relación con la función neuromuscular",
+        "Las glándulas paratiroides regulan los niveles de calcio sérico, que es esencial para la función neuromuscular normal",
+        "Las glándulas paratiroides producen neurotransmisores",
+        "Las glándulas paratiroides solo afectan el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas paratiroides juegan un papel crucial en la regulación de la función neuromuscular mediante el mantenimiento de los niveles de calcio sérico. El calcio es esencial para la transmisión sináptica, la contracción muscular y la excitabilidad neuronal. La hipocalcemia (causada por hipoparatiroidismo) resulta en una excitabilidad neuromuscular aumentada, causando tetania, calambres musculares y convulsiones. La hipercalcemia (causada por hiperparatiroidismo) resulta en una disminución de la excitabilidad neuromuscular, causando debilidad muscular, fatiga y confusión mental. La regulación precisa de los niveles de calcio sérico por las glándulas paratiroides es importante para mantener la función neuromuscular normal. Las alteraciones en la función de las glándulas paratiroides pueden resultar en síntomas neuromusculares graves que pueden ser potencialmente mortales si no se tratan. El tratamiento de las enfermedades paratiroides está dirigido a normalizar los niveles de calcio sérico y restaurar la función neuromuscular normal."
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Cuáles son las características histológicas de la hiperplasia paratiroides nodular?",
+      "opciones": [
+        "Células principales uniformemente distribuidas",
+        "Formación de nódulos discretos de células principales rodeados por tejido adiposo",
+        "Células oxífilas predominantes",
+        "Folículos bien definidos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hiperplasia paratiroides nodular se caracteriza histológicamente por la formación de nódulos discretos de células principales rodeados por tejido adiposo. Cada nódulo está separado del tejido paratiroideo adyacente por una cápsula de tejido conectivo fibroso. Los nódulos pueden variar en tamaño y pueden estar presentes en una o más glándulas. La hiperplasia nodular es más común en el hiperparatiroidismo secundario y terciario que en el hiperparatiroidismo primario. Histológicamente, los nódulos muestran una proliferación de células principalmente principales, con una arquitectura más compacta que el tejido paratiroideo normal. La presencia de nódulos puede complicar el diagnóstico intraoperatorio, ya que puede ser difícil distinguir entre un nódulo de hiperplasia y un adenoma. La hiperplasia nodular puede estar asociada con una mayor resistencia al tratamiento médico del hiperparatiroidismo secundario."
+    },
+    {
+      "id": 30,
+      "pregunta": "¿Cuál es el papel de la biopsia por congelación durante la cirugía paratiroides?",
+      "opciones": [
+        "La biopsia por congelación no es útil en la cirugía paratiroides",
+        "La biopsia por congelación permite identificar el tipo de lesión paratiroides (adenoma vs hiperplasia) durante la cirugía",
+        "La biopsia por congelación solo se utiliza para medir los niveles de PTH",
+        "La biopsia por congelación es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La biopsia por congelación es una herramienta importante durante la cirugía paratiroides que permite al cirujano identificar el tipo de lesión paratiroides (adenoma vs hiperplasia) durante la intervención quirúrgica. La biopsia por congelación permite al patólogo examinar rápidamente el tejido paratiroideo y proporcionar un diagnóstico intraoperatorio en cuestión de minutos. Esto ayuda al cirujano a determinar la extensión de la resección quirúrgica necesaria: en el adenoma, se realiza paratiroidectomía subtotal o total con autotrasplante; en la hiperplasia, se realiza paratiroidectomía subtotal de todas las glándulas. La biopsia por congelación también permite al cirujano confirmar que el tejido resecado es tejido paratiroideo funcional y no tejido tiroideo u otro tejido. La precisión de la biopsia por congelación es generalmente alta, aunque puede haber discordancia con el diagnóstico histológico definitivo en algunos casos. La biopsia por congelación es una parte importante del protocolo quirúrgico del hiperparatiroidismo."
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la hipercalcemia hipocalciúrica familiar?",
+      "opciones": [
+        "Hiperplasia difusa de todas las glándulas",
+        "Cambios mínimos o ausentes en la histología paratiroides",
+        "Atrofia severa de las glándulas",
+        "Formación de nódulos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hipercalcemia hipocalciúrica familiar (FHH) es una condición autosómica dominante causada por mutaciones en el gen del receptor sensor de calcio (CASR) que resultan en una pérdida de función del receptor. Histológicamente, las glándulas paratiroides generalmente muestran cambios mínimos o ausentes, ya que las células paratiroides tienen un umbral más alto para la supresión por calcio. La ausencia de cambios histológicos significativos es una característica importante que ayuda a diferenciar la FHH del hiperparatiroidismo primario. Los niveles de PTH sérico pueden estar normales o ligeramente elevados, a pesar de la hipercalcemia, debido a la pérdida de sensibilidad al calcio. El diagnóstico de FHH se basa en la historia familiar, los niveles bajos de excreción urinaria de calcio y las pruebas genéticas para mutaciones en el gen CASR. La FHH es generalmente asintomática y no requiere tratamiento, a diferencia del hiperparatiroidismo primario que requiere intervención quirúrgica o médica."
+    },
+    {
+      "id": 32,
+      "pregunta": "¿Cuál es la relación entre las glándulas paratiroides y la presión arterial?",
+      "opciones": [
+        "Las glándulas paratiroides no tienen relación con la presión arterial",
+        "La hipercalcemia causada por hiperparatiroidismo puede contribuir a la hipertensión",
+        "Las glándulas paratiroides producen sustancias vasodilatadoras",
+        "Las glándulas paratiroides solo afectan el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas paratiroides pueden tener una relación indirecta con la presión arterial mediante los efectos del calcio sérico en la función vascular. La hipercalcemia causada por hiperparatiroidismo puede contribuir a la hipertensión mediante varios mecanismos: el calcio aumentado puede afectar la función endotelial y la reactividad vascular, puede aumentar la sensibilidad a las catecolaminas, y puede afectar el sistema renina-angiotensina-aldosterona. La corrección de la hipercalcemia mediante paratiroidectomía en pacientes con hiperparatiroidismo puede resultar en una disminución de la presión arterial. Sin embargo, la relación entre hiperparatiroidismo e hipertensión es compleja y no todos los pacientes con hiperparatiroidismo tienen hipertensión. La hipocalcemia causada por hipoparatiroidismo puede resultar en una disminución de la presión arterial. La regulación precisa de los niveles de calcio sérico por las glándulas paratiroides es importante para mantener la presión arterial normal."
+    },
+    {
+      "id": 33,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la tiroiditis autoinmune?",
+      "opciones": [
+        "No hay cambios en las glándulas paratiroides",
+        "Infiltración de linfocitos y células plasmáticas, destrucción de células paratiroides",
+        "Hiperplasia de células principales",
+        "Aumento de las células adiposas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la tiroiditis autoinmune, puede haber infiltración de linfocitos y células plasmáticas en las glándulas paratiroides, resultando en hipoparatiroidismo autoinmune. Histológicamente, se observa una infiltración de células inflamatorias que destruyen las células paratiroides funcionales. Esto puede resultar en una disminución de la secreción de PTH y hipocalcemia. El hipoparatiroidismo autoinmune puede ocurrir como parte de un síndrome poliglandular autoinmune, donde hay afectación de múltiples glándulas endocrinas. Los anticuerpos contra la enzima descarboxilasa del ácido glutámico (GAD) y contra otras proteínas paratiroides pueden estar presentes en el suero de pacientes con hipoparatiroidismo autoinmune. El diagnóstico de hipoparatiroidismo autoinmune se basa en la presencia de hipocalcemia, hiperfosfatemia, niveles bajos de PTH y evidencia de autoinmunidad. El tratamiento incluye suplementos de calcio y vitamina D activa para mantener los niveles de calcio sérico normales."
+    },
+    {
+      "id": 34,
+      "pregunta": "¿Cuál es el papel de la inmunohistoquímica en el diagnóstico de patología paratiroides?",
+      "opciones": [
+        "La inmunohistoquímica no es útil en el diagnóstico de patología paratiroides",
+        "La inmunohistoquímica permite identificar PTH, cromogranina A y otros marcadores para confirmar el diagnóstico",
+        "La inmunohistoquímica solo se utiliza para medir los niveles de calcio",
+        "La inmunohistoquímica es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La inmunohistoquímica es una herramienta importante en el diagnóstico de patología paratiroides que permite identificar PTH, cromogranina A, sinaptofisina y otros marcadores neuroendocrinos para confirmar el diagnóstico de tejido paratiroideo. La inmunohistoquímica para PTH es particularmente útil para confirmar que el tejido es paratiroideo funcional y para identificar células paratiroides en biopsias o especímenes quirúrgicos. La inmunohistoquímica también puede ser útil para identificar el tipo de lesión paratiroides: los adenomas generalmente muestran una tinción homogénea para PTH, mientras que la hiperplasia muestra una tinción más heterogénea. La inmunohistoquímica para Ki-67 puede ser útil para evaluar la proliferación celular y diferenciar entre adenomas benignos y carcinomas malignos. La inmunohistoquímica para otros marcadores como calcitonina puede ser útil para excluir contaminación con tejido tiroideo. La inmunohistoquímica es una parte importante del protocolo de diagnóstico histológico de patología paratiroides."
+    },
+    {
+      "id": 35,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el síndrome de neoplasia endocrina múltiple tipo 1 (MEN1)?",
+      "opciones": [
+        "Adenoma único",
+        "Hiperplasia difusa de todas las glándulas paratiroides",
+        "Atrofia de las glándulas",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de neoplasia endocrina múltiple tipo 1 (MEN1) es causado por mutaciones en el gen MEN1 que resultan en una predisposición a tumores en múltiples glándulas endocrinas, incluyendo las glándulas paratiroides. Histológicamente, las glándulas paratiroides muestran hiperplasia difusa de todas las glándulas, similar al hiperparatiroidismo familiar. La hiperplasia puede ser difusa o nodular. Los pacientes con MEN1 tienen un riesgo muy alto de desarrollar hiperparatiroidismo primario, con más del 90% de los pacientes afectados desarrollando hiperparatiroidismo antes de los 40 años. El diagnóstico de MEN1 se basa en la presencia de tumores en dos o más de las glándulas endocrinas afectadas (paratiroides, páncreas, hipófisis). El tratamiento del hiperparatiroidismo en MEN1 es más complejo que en el hiperparatiroidismo esporádico, requiriendo paratiroidectomía subtotal de todas las glándulas o total con autotrasplante, con una tasa de recurrencia más alta."
+    },
+    {
+      "id": 36,
+      "pregunta": "¿Cuál es la relación entre la hipercalcemia y la función renal?",
+      "opciones": [
+        "La hipercalcemia no afecta la función renal",
+        "La hipercalcemia crónica puede resultar en daño renal, incluyendo nefrolitiasis y nefrocalcinosis",
+        "La hipercalcemia mejora la función renal",
+        "La hipercalcemia solo afecta el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hipercalcemia crónica causada por hiperparatiroidismo puede resultar en daño renal significativo. La hipercalcemia aumenta la excreción urinaria de calcio, lo que puede resultar en nefrolitiasis (formación de cálculos renales) y nefrocalcinosis (depósito de calcio en el tejido renal). La hipercalcemia también puede resultar en una disminución de la función renal glomerular, resultando en insuficiencia renal crónica. El daño renal causado por hipercalcemia es generalmente reversible si la hipercalcemia se corrige mediante paratiroidectomía. La hipercalcemia también puede afectar la función tubular renal, resultando en una disminución de la capacidad de concentración urinaria. La prevención del daño renal en pacientes con hiperparatiroidismo es una indicación importante para la intervención quirúrgica. La evaluación de la función renal es importante en el manejo de pacientes con hiperparatiroidismo, ya que la presencia de insuficiencia renal puede afectar el tratamiento."
+    },
+    {
+      "id": 37,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la radiación?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Daño de las células paratiroides, inflamación, fibrosis y posible desarrollo de adenoma",
+        "Hiperplasia de células principales",
+        "Aumento de las células adiposas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La exposición a radiación ionizante puede causar daño a las glándulas paratiroides, resultando en cambios histológicos que incluyen daño directo de las células paratiroides, infiltración de células inflamatorias y fibrosis progresiva. La radiación puede resultar en una disminución de la función paratiroides (hipoparatiroidismo) o, paradójicamente, en el desarrollo de adenomas paratiroideos (hiperparatiroidismo). El riesgo de desarrollar adenoma paratiroideo después de radiación aumenta con la dosis de radiación recibida y con el tiempo transcurrido desde la exposición. Los cambios histológicos pueden incluir cambios displásicos en las células paratiroides que pueden progresar a malignidad. La tiroiditis por radiación puede ocurrir en pacientes que reciben radioterapia para cánceres de cabeza y cuello. La evaluación de la función paratiroides es importante en pacientes que han recibido radiación cervical."
+    },
+    {
+      "id": 38,
+      "pregunta": "¿Cuál es la relación entre las glándulas paratiroides y la función cardiovascular?",
+      "opciones": [
+        "Las glándulas paratiroides no tienen relación con la función cardiovascular",
+        "La hipercalcemia causada por hiperparatiroidismo puede afectar la función cardíaca y aumentar el riesgo de arritmias",
+        "Las glándulas paratiroides producen sustancias cardioactivas",
+        "Las glándulas paratiroides solo afectan el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas paratiroides pueden tener una relación importante con la función cardiovascular mediante los efectos del calcio sérico en la función cardíaca. La hipercalcemia causada por hiperparatiroidismo puede afectar la función cardíaca mediante varios mecanismos: el calcio aumentado puede afectar la conducción cardíaca, aumentar la irritabilidad miocárdica y aumentar el riesgo de arritmias. La hipercalcemia crónica puede resultar en calcificación de las válvulas cardíacas y de los vasos coronarios. La hipercalcemia también puede aumentar el riesgo de enfermedad cardiovascular mediante efectos en la presión arterial y el metabolismo lipídico. La hipocalcemia causada por hipoparatiroidismo puede resultar en prolongación del intervalo QT y arritmias cardíacas. La regulación precisa de los niveles de calcio sérico por las glándulas paratiroides es importante para mantener la función cardiovascular normal. El tratamiento del hiperparatiroidismo puede resultar en una mejora de la función cardiovascular."
+    },
+    {
+      "id": 39,
+      "pregunta": "¿Cuáles son las características histológicas del hiperparatiroidismo terciario?",
+      "opciones": [
+        "Hiperplasia difusa de todas las glándulas",
+        "Desarrollo de adenomas autónomos en el contexto de hiperparatiroidismo secundario crónico",
+        "Atrofia de las glándulas",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El hiperparatiroidismo terciario se desarrolla cuando el hiperparatiroidismo secundario crónico progresa a una condición en la que se desarrollan adenomas autónomos que no responden a los cambios en los niveles de calcio. Histológicamente, hay desarrollo de nódulos de células principales que forman adenomas dentro del contexto de hiperplasia difusa. Los adenomas son autónomos y continúan secretando PTH incluso cuando los niveles de calcio sérico están elevados. El hiperparatiroidismo terciario ocurre típicamente en pacientes con insuficiencia renal crónica de larga duración que han recibido trasplante renal. Después del trasplante renal, la función renal mejora, pero los adenomas autónomos continúan secretando PTH, resultando en hipercalcemia persistente. El diagnóstico de hiperparatiroidismo terciario se basa en la presencia de hipercalcemia, niveles elevados de PTH y evidencia de insuficiencia renal previa. El tratamiento incluye paratiroidectomía subtotal o total con autotrasplante."
+    },
+    {
+      "id": 40,
+      "pregunta": "¿Cuál es el papel de la tomografía por emisión de positrones (PET) en el diagnóstico de patología paratiroides?",
+      "opciones": [
+        "La PET no es útil en el diagnóstico de patología paratiroides",
+        "La PET puede ser útil para localizar glándulas paratiroides ectópicas o adenomas en casos de hiperparatiroidismo persistente o recurrente",
+        "La PET solo se utiliza para medir los niveles de PTH",
+        "La PET es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tomografía por emisión de positrones (PET) puede ser útil para localizar glándulas paratiroides ectópicas o adenomas en casos de hiperparatiroidismo persistente o recurrente cuando otras técnicas de localización han fallado. La PET utiliza trazadores radiactivos que se acumulan en el tejido paratiroideo hipermetabólico, permitiendo la visualización de la glándula paratiroides. La PET es particularmente útil en pacientes con hiperparatiroidismo recurrente después de paratiroidectomía previa, cuando la localización del tejido paratiroideo residual puede ser difícil. La PET también puede ser útil para detectar carcinoma paratiroideo metastásico. Sin embargo, la PET tiene una sensibilidad limitada en la localización de glándulas paratiroides normales o ligeramente aumentadas de tamaño. La PET generalmente se reserva para casos complejos donde otras técnicas de localización han fallado. La combinación de PET con otras técnicas de imagen como la resonancia magnética puede mejorar la precisión diagnóstica."
+    },
+    {
+      "id": 41,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en el síndrome de neoplasia endocrina múltiple tipo 2A (MEN2A)?",
+      "opciones": [
+        "Adenoma único",
+        "Hiperplasia difusa de todas las glándulas paratiroides",
+        "Atrofia de las glándulas",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de neoplasia endocrina múltiple tipo 2A (MEN2A) es causado por mutaciones en el gen RET que resultan en una predisposición a tumores en múltiples glándulas endocrinas, incluyendo las glándulas paratiroides, la médula suprarrenal (feocromocitoma) y la glándula tiroides (carcinoma medular). Histológicamente, las glándulas paratiroides muestran hiperplasia difusa de todas las glándulas, similar al hiperparatiroidismo familiar. La hiperplasia puede ser difusa o nodular. Aproximadamente el 20-30% de los pacientes con MEN2A desarrollan hiperparatiroidismo. El diagnóstico de MEN2A se basa en la presencia de carcinoma medular de tiroides y feocromocitoma, con o sin hiperparatiroidismo. El tratamiento del hiperparatiroidismo en MEN2A es similar al del hiperparatiroidismo familiar, requiriendo paratiroidectomía subtotal de todas las glándulas o total con autotrasplante."
+    },
+    {
+      "id": 42,
+      "pregunta": "¿Cuál es la relación entre la hipocalcemia y la función neuromuscular?",
+      "opciones": [
+        "La hipocalcemia no afecta la función neuromuscular",
+        "La hipocalcemia aumenta la excitabilidad neuromuscular, causando tetania, calambres y convulsiones",
+        "La hipocalcemia disminuye la excitabilidad neuromuscular",
+        "La hipocalcemia solo afecta el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hipocalcemia causada por hipoparatiroidismo aumenta la excitabilidad neuromuscular, resultando en síntomas neuromusculares graves. La disminución del calcio sérico disminuye el umbral de excitabilidad de las neuronas y los músculos, resultando en una mayor propensión a la despolarización espontánea. Esto se manifiesta clínicamente como tetania (contracciones musculares involuntarias), calambres musculares, parestesias (sensaciones de hormigueo) y, en casos severos, convulsiones. La hipocalcemia severa puede resultar en arritmias cardíacas potencialmente mortales. El signo de Chvostek (contracción facial al golpear el nervio facial) y el signo de Trousseau (contracción de la mano al inflar un manguito de presión arterial) son signos clínicos de hipocalcemia. El tratamiento de la hipocalcemia incluye suplementos de calcio intravenoso en casos agudos y suplementos de calcio oral más vitamina D activa en casos crónicos. La corrección rápida de la hipocalcemia es importante para prevenir complicaciones neuromusculares severas."
+    },
+    {
+      "id": 43,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la hipercalcemia de la malignidad?",
+      "opciones": [
+        "Hiperplasia de células principales",
+        "Cambios mínimos o ausentes en la histología paratiroides",
+        "Atrofia de las glándulas",
+        "Formación de nódulos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la hipercalcemia de la malignidad, las glándulas paratiroides generalmente muestran cambios mínimos o ausentes en la histología, ya que la hipercalcemia es causada por factores tumorales (como hormona paratiroidea relacionada o calcitriol producido por el tumor) y no por disfunción paratiroides. De hecho, la hipercalcemia causada por factores tumorales generalmente resulta en una supresión de la secreción de PTH, resultando en atrofia de las glándulas paratiroides. Los niveles de PTH sérico son bajos o indetectables en la hipercalcemia de la malignidad, a diferencia del hiperparatiroidismo primario donde los niveles de PTH están elevados. El diagnóstico de hipercalcemia de la malignidad se basa en la presencia de malignidad, hipercalcemia y niveles bajos de PTH. La identificación de la causa de la hipercalcemia es importante para el tratamiento apropiado, ya que el tratamiento de la hipercalcemia de la malignidad está dirigido al tumor subyacente, no a las glándulas paratiroides."
+    },
+    {
+      "id": 44,
+      "pregunta": "¿Cuál es el papel de la medición intraoperatoria de PTH durante la cirugía paratiroides?",
+      "opciones": [
+        "La medición intraoperatoria de PTH no es útil",
+        "La medición intraoperatoria de PTH permite confirmar la resección adecuada del tejido paratiroideo hiperplásico",
+        "La medición intraoperatoria de PTH solo se utiliza para medir los niveles de calcio",
+        "La medición intraoperatoria de PTH es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La medición intraoperatoria de PTH es una herramienta importante durante la cirugía paratiroides que permite al cirujano confirmar la resección adecuada del tejido paratiroideo hiperplásico. Se obtiene una muestra de sangre antes de la resección (PTH basal) y luego se obtienen muestras después de la resección. Una disminución de al menos el 50% en los niveles de PTH después de la resección, o una disminución a niveles normales, indica una resección adecuada. La medición intraoperatoria de PTH es particularmente útil en casos de hiperparatiroidismo secundario o terciario, donde puede haber múltiples glándulas afectadas. La medición intraoperatoria de PTH también puede ser útil para identificar la glándula afectada en casos de hiperparatiroidismo primario, ya que la resección de la glándula afectada resultará en una disminución rápida de los niveles de PTH. La precisión de la medición intraoperatoria de PTH es generalmente alta, con una sensibilidad y especificidad superiores al 90%. La medición intraoperatoria de PTH es una parte importante del protocolo quirúrgico del hiperparatiroidismo."
+    },
+    {
+      "id": 45,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la sarcoidosis?",
+      "opciones": [
+        "No hay cambios en las glándulas paratiroides",
+        "Infiltración de granulomas no caseosos, posible hipercalcemia por producción de calcitriol por macrófagos",
+        "Hiperplasia de células principales",
+        "Aumento de las células adiposas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la sarcoidosis, puede haber infiltración de granulomas no caseosos en las glándulas paratiroides, resultando en hipercalcemia. La hipercalcemia en la sarcoidosis es causada por la producción de calcitriol (vitamina D activa) por macrófagos activados dentro de los granulomas. La hipercalcemia en la sarcoidosis es generalmente acompañada por niveles bajos de PTH debido a la supresión de la secreción de PTH por la hipercalcemia. Histológicamente, se observan granulomas no caseosos infiltrando las glándulas paratiroides, con posible destrucción de las células paratiroides. La hipercalcemia en la sarcoidosis puede resultar en daño renal y nefrolitiasis. El diagnóstico de hipercalcemia en la sarcoidosis se basa en la presencia de sarcoidosis sistémica, hipercalcemia y niveles bajos de PTH. El tratamiento de la hipercalcemia en la sarcoidosis incluye restricción de calcio dietético, corticosteroides para suprimir la producción de calcitriol por los macrófagos, y tratamiento de la sarcoidosis subyacente."
+    },
+    {
+      "id": 46,
+      "pregunta": "¿Cuál es la relación entre la hipercalcemia y la función cognitiva?",
+      "opciones": [
+        "La hipercalcemia no afecta la función cognitiva",
+        "La hipercalcemia crónica puede resultar en cambios cognitivos incluyendo confusión mental, depresión y deterioro cognitivo",
+        "La hipercalcemia mejora la función cognitiva",
+        "La hipercalcemia solo afecta el metabolismo del fósforo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hipercalcemia crónica causada por hiperparatiroidismo puede resultar en cambios cognitivos significativos incluyendo confusión mental, depresión, ansiedad, irritabilidad y deterioro cognitivo. Estos cambios cognitivos son a menudo reversibles después de la corrección de la hipercalcemia mediante paratiroidectomía. Los mecanismos por los cuales la hipercalcemia afecta la función cognitiva incluyen efectos directos del calcio en la función neuronal, alteraciones en la neurotransmisión y efectos en la perfusión cerebral. La hipercalcemia severa puede resultar en encefalopatía hipercalcémica, caracterizada por letargo, confusión y, en casos severos, coma. La evaluación de la función cognitiva es importante en pacientes con hiperparatiroidismo, ya que la corrección de la hipercalcemia puede resultar en una mejora significativa de los síntomas cognitivos. La hipercalcemia crónica también puede estar asociada con osteoporosis y aumento del riesgo de fracturas, que pueden contribuir a la discapacidad cognitiva."
+    },
+    {
+      "id": 47,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la tuberculosis?",
+      "opciones": [
+        "No hay cambios en las glándulas paratiroides",
+        "Infiltración de granulomas caseosos, posible destrucción de células paratiroides resultando en hipoparatiroidismo",
+        "Hiperplasia de células principales",
+        "Aumento de las células adiposas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la tuberculosis, puede haber infiltración de granulomas caseosos en las glándulas paratiroides, resultando en posible destrucción de las células paratiroides e hipoparatiroidismo. Histológicamente, se observan granulomas caseosos infiltrando las glándulas paratiroides, con necrosis central rodeada por células epiteloides y células gigantes multinucleadas. La infiltración de tuberculosis en las glándulas paratiroides es rara pero puede resultar en hipoparatiroidismo severo. El hipoparatiroidismo causado por tuberculosis puede resultar en hipocalcemia severa con síntomas neuromusculares. El diagnóstico de tuberculosis de las glándulas paratiroides se basa en la identificación de bacilos ácido-alcohol resistentes en los granulomas y en el cultivo de Mycobacterium tuberculosis. El tratamiento incluye terapia antituberculosa apropiada y suplementos de calcio y vitamina D para corregir la hipocalcemia. La tuberculosis de las glándulas paratiroides es una causa rara de hipoparatiroidismo en áreas donde la tuberculosis es endémica."
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Cuál es el papel de la resonancia magnética (RM) en la localización de glándulas paratiroides?",
+      "opciones": [
+        "La RM no es útil en la localización de glándulas paratiroides",
+        "La RM puede ser útil para localizar glándulas paratiroides ectópicas o adenomas, especialmente en el mediastino",
+        "La RM solo se utiliza para medir los niveles de PTH",
+        "La RM es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La resonancia magnética (RM) puede ser útil para localizar glándulas paratiroides ectópicas o adenomas, especialmente cuando están localizadas en el mediastino o en otras ubicaciones ectópicas. La RM tiene una buena resolución de tejidos blandos y puede diferenciar entre tejido paratiroideo y otros tejidos. La RM es particularmente útil en pacientes con hiperparatiroidismo recurrente después de paratiroidectomía previa, cuando la localización del tejido paratiroideo residual puede ser difícil. La RM también puede ser útil para detectar carcinoma paratiroideo invasivo. Sin embargo, la RM tiene una sensibilidad limitada en la localización de glándulas paratiroides normales o ligeramente aumentadas de tamaño. La RM generalmente se reserva para casos complejos donde otras técnicas de localización han fallado o cuando hay sospecha de carcinoma paratiroideo. La combinación de RM con otras técnicas de imagen como la PET puede mejorar la precisión diagnóstica."
+    },
+    {
+      "id": 49,
+      "pregunta": "¿Cuáles son los cambios histológicos en las glándulas paratiroides en la hemocromatosis?",
+      "opciones": [
+        "No hay cambios en las glándulas paratiroides",
+        "Depósito de hierro en las células paratiroides, posible disfunción paratiroides",
+        "Hiperplasia de células principales",
+        "Aumento de las células adiposas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la hemocromatosis, puede haber depósito de hierro en las células paratiroides, resultando en posible disfunción paratiroides. Histológicamente, se observa depósito de hierro dentro de las células paratiroides, que puede ser demostrado mediante tinción de Prusia azul. El depósito de hierro puede resultar en destrucción de las células paratiroides e hipoparatiroidismo. La hemocromatosis también puede afectar otras glándulas endocrinas, resultando en diabetes mellitus, hipogonadismo e hipotiroidismo. El hipoparatiroidismo causado por hemocromatosis puede resultar en hipocalcemia e hiperfosfatemia. El diagnóstico de disfunción paratiroides en la hemocromatosis se basa en la presencia de hemocromatosis sistémica, hipocalcemia, hiperfosfatemia y niveles bajos de PTH. El tratamiento incluye flebotomía o quelación de hierro para reducir los depósitos de hierro, y suplementos de calcio y vitamina D para corregir la hipocalcemia. La hemocromatosis es una causa rara de hipoparatiroidismo."
+    },
+    {
+      "id": 50,
+      "pregunta": "¿Cuál es la importancia de la biopsia por aspiración con aguja fina (BAAF) en el diagnóstico de patología paratiroides?",
+      "opciones": [
+        "La BAAF no es útil en el diagnóstico de patología paratiroides",
+        "La BAAF es un procedimiento mínimamente invasivo que permite obtener células paratiroides para diagnóstico citológico",
+        "La BAAF solo se utiliza para medir los niveles de PTH",
+        "La BAAF es un procedimiento quirúrgico mayor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La biopsia por aspiración con aguja fina (BAAF) es un procedimiento mínimamente invasivo que permite obtener células paratiroides para diagnóstico citológico. La BAAF puede ser útil en la evaluación de lesiones paratiroides detectadas por ecografía o por otras técnicas de imagen. Las células obtenidas pueden ser examinadas citológicamente para evaluar características de malignidad. La BAAF puede ser útil para diferenciar entre adenoma paratiroideo benigno y carcinoma paratiroideo maligno. Sin embargo, la BAAF tiene limitaciones en la evaluación de patología paratiroides, ya que la distinción entre adenoma y carcinoma basada en características citológicas puede ser difícil. La BAAF también puede resultar en complicaciones como sangrado o infección, aunque estas complicaciones son raras. La BAAF generalmente se reserva para casos donde hay sospecha de carcinoma paratiroideo o cuando otras técnicas de diagnóstico han sido no concluyentes. La BAAF es menos comúnmente utilizada en la evaluación de patología paratiroides en comparación con la evaluación de patología tiroidea."
+    }
+  ]
+}

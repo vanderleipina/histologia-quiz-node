@@ -1,0 +1,607 @@
+{
+  "id": "suprarrenal",
+  "nombre": "Glándula Suprarrenal",
+  "descripcion": "Preguntas de nivel superior sobre la glándula suprarrenal (adrenal), estructura histológica, funciones y patología",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la ubicación anatómica exacta de las glándulas suprarrenales?",
+      "opciones": [
+        "En la región anterior del abdomen, delante de los riñones",
+        "En la cara superior de cada riñón, dentro del tejido adiposo perirrenal",
+        "En la región lateral del abdomen",
+        "En la región pelviana"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas suprarrenales se localizan en la cara superior de cada riñón, dentro del tejido adiposo perirrenal que las rodea y protege. Cada glándula suprarrenal tiene una forma triangular característica y está cubierta por una cápsula fibrosa gruesa. Las glándulas suprarrenales están íntimamente relacionadas con los riñones, aunque son órganos completamente independientes con funciones diferentes. La ubicación retroperitoneal de las glándulas suprarrenales las coloca en estrecha relación con estructuras vasculares importantes, incluyendo la vena cava inferior y la aorta. Las glándulas suprarrenales están irrigadas por arterias suprarrenales superior, media e inferior que se originan de la aorta, la arteria renal y la arteria ilíaca respectivamente. Esta ubicación es importante desde el punto de vista quirúrgico, ya que la adrenalectomía requiere una cuidadosa disección de estructuras vasculares adyacentes."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es el tamaño y peso aproximado de cada glándula suprarrenal?",
+      "opciones": [
+        "1 x 0.5 x 0.5 cm, 2-3 gramos",
+        "4-6 gramos cada una",
+        "10-15 gramos",
+        "20-30 gramos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cada glándula suprarrenal pesa aproximadamente 4-6 gramos en adultos, aunque puede variar ligeramente entre individuos. A pesar de su pequeño tamaño y peso, las glándulas suprarrenales son órganos extremadamente importantes que producen múltiples hormonas esenciales para la vida. El tamaño de las glándulas suprarrenales puede aumentar en respuesta a estimulación crónica (como en la enfermedad de Cushing) o disminuir en respuesta a atrofia (como en la insuficiencia suprarrenal crónica). Las variaciones en el tamaño y peso de las glándulas suprarrenales pueden indicar patología endocrina. La evaluación del tamaño de las glándulas suprarrenales mediante tomografía computarizada o resonancia magnética es importante en el diagnóstico de enfermedades suprarrenales. El pequeño tamaño de las glándulas suprarrenales las hace difíciles de palpar durante el examen físico, por lo que generalmente se requieren técnicas de imagen para su evaluación."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es la estructura histológica fundamental de la glándula suprarrenal?",
+      "opciones": [
+        "Folículos rodeados de coloide",
+        "Dos regiones bien definidas: corteza (90% de la glándula) y médula (10%)",
+        "Túbulos secretores ramificados",
+        "Acinos glandulares"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal tiene una estructura histológica única compuesta por dos regiones bien definidas: la corteza suprarrenal que representa el 90% de la glándula y la médula suprarrenal que representa el 10%. La corteza y la médula tienen orígenes embrionarios diferentes, funciones diferentes y producen hormonas completamente diferentes. La corteza se origina del mesodermo y produce esteroides (glucocorticoides, mineralocorticoides y andrógenos), mientras que la médula se origina de la cresta neural y produce catecolaminas (adrenalina y noradrenalina). Esta estructura única de dos regiones con funciones diferentes es importante para entender la fisiología suprarrenal. La corteza está dividida en tres zonas histológicamente distintas (glomerulosa, fasciculata y reticular), cada una con características histológicas y funciones específicas. La médula está compuesta por células cromafines especializadas que secretan catecolaminas."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuáles son las tres zonas de la corteza suprarrenal?",
+      "opciones": [
+        "Zona anterior, zona media, zona posterior",
+        "Zona glomerulosa, zona fasciculata, zona reticular",
+        "Zona externa, zona intermedia, zona interna",
+        "Zona superior, zona media, zona inferior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La corteza suprarrenal está dividida en tres zonas histológicamente distintas, cada una con características histológicas y funciones específicas. La zona glomerulosa es la zona más externa y representa aproximadamente el 15% de la corteza. Las células de la zona glomerulosa están dispuestas en glomérulos o aglomerados compactos. La zona fasciculata es la zona más grande, representando aproximadamente el 75% de la corteza. Las células de la zona fasciculata están dispuestas en cordones o fascículos paralelos. La zona reticular es la zona más interna, representando aproximadamente el 10% de la corteza. Las células de la zona reticular están dispuestas en una red o red de cordones. Cada zona produce hormonas específicas: la zona glomerulosa produce mineralocorticoides (aldosterona), la zona fasciculata produce glucocorticoides (cortisol), y la zona reticular produce andrógenos. Esta organización zonaria es importante para la regulación diferencial de la síntesis hormonal."
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es la hormona principal producida por la zona glomerulosa?",
+      "opciones": [
+        "Cortisol",
+        "Aldosterona",
+        "Adrenalina",
+        "Andrógenos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La zona glomerulosa produce aldosterona, un mineralocorticoide que juega un papel crucial en la regulación del equilibrio de sodio y potasio. La aldosterona aumenta la reabsorción de sodio en los túbulos renales colectores, resultando en una retención de sodio y agua, lo que aumenta el volumen de sangre y la presión arterial. Simultáneamente, la aldosterona aumenta la excreción de potasio en la orina. La secreción de aldosterona es regulada principalmente por el sistema renina-angiotensina-aldosterona: cuando disminuye el volumen de sangre o la presión arterial, los riñones liberan renina, que activa el sistema renina-angiotensina, resultando en la producción de angiotensina II, que estimula la secreción de aldosterona. La aldosterona también es regulada por los niveles de potasio sérico: los niveles altos de potasio estimulan la secreción de aldosterona. La deficiencia de aldosterona resulta en una pérdida de sodio, disminución del volumen de sangre e hipotensión. El exceso de aldosterona resulta en retención de sodio, aumento del volumen de sangre e hipertensión."
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuál es la hormona principal producida por la zona fasciculata?",
+      "opciones": [
+        "Aldosterona",
+        "Cortisol",
+        "Adrenalina",
+        "Andrógenos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La zona fasciculata produce cortisol, un glucocorticoide que es la hormona más importante de la corteza suprarrenal. El cortisol juega un papel crucial en la regulación del metabolismo de carbohidratos, proteínas y lípidos. El cortisol aumenta la gluconeogénesis hepática, resultando en un aumento de la glucosa sérica. El cortisol también tiene efectos antiinflamatorios e inmunosupresores importantes. La secreción de cortisol es regulada por el eje hipotálamo-hipófisis-suprarrenal: el hipotálamo produce hormona liberadora de corticotropina (CRH), que estimula la hipófisis anterior a producir hormona adrenocorticotropa (ACTH), que estimula la corteza suprarrenal a producir cortisol. Los niveles elevados de cortisol inhiben la liberación de CRH y ACTH, completando el circuito de retroalimentación negativa. El cortisol también tiene un ritmo circadiano, con niveles más altos por la mañana y más bajos por la noche. El exceso de cortisol (síndrome de Cushing) resulta en múltiples complicaciones incluyendo obesidad, diabetes, osteoporosis e hipertensión."
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es la hormona principal producida por la zona reticular?",
+      "opciones": [
+        "Aldosterona",
+        "Cortisol",
+        "Andrógenos",
+        "Adrenalina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La zona reticular produce andrógenos, principalmente dehidroepiandrosterona (DHEA) y androstenediona. Estos andrógenos son débiles en comparación con la testosterona producida por los testículos, pero pueden ser convertidos a testosterona y estradiol en los tejidos periféricos. La función exacta de los andrógenos suprarrenales en los hombres es desconocida, ya que los testículos producen la mayoría de la testosterona. Sin embargo, en las mujeres, los andrógenos suprarrenales contribuyen significativamente a las características sexuales secundarias. La secreción de andrógenos suprarrenales es regulada por ACTH, similar a la secreción de cortisol. Los andrógenos suprarrenales aumentan durante la pubertad (adrenarquia) y disminuyen gradualmente con la edad. El exceso de andrógenos suprarrenales (como en la hiperplasia suprarrenal congénita) puede resultar en virilización en las mujeres. La deficiencia de andrógenos suprarrenales es generalmente asintomática en los hombres pero puede resultar en una disminución de la libido en las mujeres."
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Cuáles son las características histológicas de las células de la zona glomerulosa?",
+      "opciones": [
+        "Células grandes con citoplasma abundante lleno de lípidos",
+        "Células compactas dispuestas en glomérulos, citoplasma claro, núcleo central",
+        "Células fusiformes sin organelas",
+        "Células columnares altas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células de la zona glomerulosa tienen características histológicas distintivas que reflejan su función secretora de aldosterona. Las células están dispuestas en glomérulos o aglomerados compactos, lo que da nombre a esta zona. Las células tienen un citoplasma claro o ligeramente basófilo, un núcleo redondo central y un tamaño relativamente pequeño. El citoplasma claro es debido al contenido de gránulos de secreción y a la presencia de lípidos. Las células de la zona glomerulosa tienen un retículo endoplásmico rugoso bien desarrollado y un aparato de Golgi prominente, reflejando su actividad secretora. Las células también tienen numerosas mitocondrias que proporcionan la energía necesaria para la síntesis de aldosterona. La zona glomerulosa tiene una vascularización relativamente buena, con capilares sinusoides que rodean las células. La arquitectura compacta de la zona glomerulosa es importante para la regulación diferencial de la síntesis de aldosterona."
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuáles son las características histológicas de las células de la zona fasciculata?",
+      "opciones": [
+        "Células compactas dispuestas en glomérulos",
+        "Células grandes con citoplasma abundante lleno de lípidos, dispuestas en cordones",
+        "Células fusiformes sin organelas",
+        "Células columnares altas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células de la zona fasciculata tienen características histológicas distintivas que reflejan su función secretora de cortisol. Las células están dispuestas en cordones o fascículos paralelos, lo que da nombre a esta zona. Las células son grandes con un citoplasma abundante que aparece claro o ligeramente basófilo cuando se tiñe con hematoxilina y eosina. El citoplasma claro es debido al contenido extremadamente alto de lípidos, que son los precursores para la síntesis de cortisol. Las células tienen un núcleo redondo central y un tamaño relativamente grande. Las células de la zona fasciculata tienen un retículo endoplásmico liso muy desarrollado, que es el sitio de síntesis de esteroides. Las células también tienen numerosas mitocondrias con crestas tubulares, que es una característica de las células productoras de esteroides. La zona fasciculata tiene una vascularización muy abundante, con capilares sinusoides que rodean los cordones celulares. La arquitectura en cordones de la zona fasciculata es importante para la regulación de la síntesis de cortisol."
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cuáles son las características histológicas de las células de la zona reticular?",
+      "opciones": [
+        "Células compactas dispuestas en glomérulos",
+        "Células grandes con citoplasma abundante lleno de lípidos",
+        "Células dispuestas en una red, citoplasma más basófilo, con depósitos de lipofuscina",
+        "Células columnares altas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las células de la zona reticular tienen características histológicas distintivas que reflejan su función secretora de andrógenos y su estado de envejecimiento relativo. Las células están dispuestas en una red o red de cordones, lo que da nombre a esta zona. Las células tienen un citoplasma más basófilo que las células de la zona fasciculata, debido a un contenido de lípidos más bajo y a un contenido de retículo endoplásmico rugoso más alto. Las células contienen depósitos de lipofuscina (pigmento de envejecimiento), que da a la zona reticular un color más oscuro. Las células tienen un núcleo redondo central y un tamaño relativamente pequeño. Las células de la zona reticular tienen un retículo endoplásmico liso menos desarrollado que las células de la zona fasciculata, reflejando su menor actividad secretora. Las células también tienen numerosas mitocondrias. La zona reticular tiene una vascularización moderada, con capilares sinusoides que rodean los cordones celulares. La arquitectura en red de la zona reticular es importante para la regulación de la síntesis de andrógenos."
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Cuál es la estructura histológica de la médula suprarrenal?",
+      "opciones": [
+        "Folículos rodeados de coloide",
+        "Células cromafines grandes y pálidas dispuestas en cordones, con numerosas vesículas de secreción",
+        "Células fusiformes sin organelas",
+        "Células columnares altas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La médula suprarrenal está compuesta por células cromafines grandes y pálidas que están dispuestas en cordones o nidos rodeados por vasos sanguíneos sinusoides. Las células cromafines tienen un citoplasma abundante que aparece pálido o claro cuando se tiñe con hematoxilina y eosina. El citoplasma pálido es debido al contenido de gránulos de secreción que contienen catecolaminas. Las células cromafines tienen un núcleo redondo central y un tamaño relativamente grande. Las células cromafines tienen numerosas vesículas de secreción que contienen adrenalina y noradrenalina. Las células también tienen un retículo endoplásmico rugoso bien desarrollado, un aparato de Golgi prominente y numerosas mitocondrias. La médula suprarrenal tiene una vascularización extremadamente abundante, con capilares sinusoides que rodean los cordones celulares. La médula suprarrenal también contiene células ganglionares (neuronas simpáticas) cuyos axones se extienden periféricamente hacia la corteza, nervios y vasos sanguíneos. La estructura de la médula suprarrenal refleja su función como órgano neuroendocrino que produce catecolaminas."
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Cuáles son las principales hormonas producidas por la médula suprarrenal?",
+      "opciones": [
+        "Aldosterona y cortisol",
+        "Adrenalina y noradrenalina",
+        "Andrógenos",
+        "Hormona de crecimiento"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La médula suprarrenal produce adrenalina (epinefrina) y noradrenalina (norepinefrina), que son catecolaminas. Aproximadamente el 80% de la producción de catecolaminas es adrenalina y el 20% es noradrenalina. Las catecolaminas son liberadas en respuesta al estrés, aumentando la frecuencia cardíaca, la presión arterial, la glucosa sérica y la mobilización de lípidos. La adrenalina tiene efectos principalmente en los receptores beta-adrenérgicos, mientras que la noradrenalina tiene efectos principalmente en los receptores alfa-adrenérgicos. La secreción de catecolaminas es regulada por el sistema nervioso simpático: cuando el cuerpo está bajo estrés, el sistema nervioso simpático estimula las células cromafines de la médula suprarrenal a liberar catecolaminas. Las catecolaminas son metabolizadas rápidamente por la enzima monoamino oxidasa (MAO) y la catecol-O-metiltransferasa (COMT), resultando en una vida media corta de solo unos pocos minutos. El exceso de catecolaminas (como en el feocromocitoma) resulta en hipertensión paroxística severa y síntomas de estrés."
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y el eje hipotálamo-hipófisis?",
+      "opciones": [
+        "No hay relación entre estas estructuras",
+        "El hipotálamo produce CRH, que estimula la hipófisis anterior a producir ACTH, que estimula la corteza suprarrenal",
+        "La glándula suprarrenal produce ACTH",
+        "El hipotálamo produce directamente cortisol"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Existe una relación compleja entre la glándula suprarrenal y el eje hipotálamo-hipófisis que forma un sistema de retroalimentación negativa. El hipotálamo produce hormona liberadora de corticotropina (CRH), que estimula la hipófisis anterior a producir hormona adrenocorticotropa (ACTH). ACTH estimula la corteza suprarrenal a sintetizar y liberar cortisol. Los niveles elevados de cortisol inhiben la liberación de CRH del hipotálamo y la liberación de ACTH de la hipófisis anterior, completando el circuito de retroalimentación negativa. Este sistema mantiene los niveles de cortisol dentro de un rango estrecho necesario para la homeostasis. El cortisol también tiene un ritmo circadiano, con niveles más altos por la mañana y más bajos por la noche, que es regulado por el hipotálamo. Las alteraciones en cualquier parte de este eje pueden resultar en disfunción suprarrenal. Por ejemplo, la deficiencia de ACTH resulta en insuficiencia suprarrenal secundaria, mientras que un exceso de ACTH resulta en síndrome de Cushing secundario."
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en el síndrome de Cushing?",
+      "opciones": [
+        "Atrofia de la corteza suprarrenal",
+        "Hiperplasia de la zona fasciculata, aumento del tamaño de la glándula",
+        "Aumento de la médula suprarrenal",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el síndrome de Cushing, los cambios histológicos más comunes incluyen hiperplasia de la zona fasciculata, resultando en un aumento del tamaño de la glándula suprarrenal. La hiperplasia es una respuesta a la estimulación crónica por ACTH elevado. Histológicamente, se observa un aumento en el número y tamaño de las células de la zona fasciculata, con un aumento en el contenido de lípidos. La zona fasciculata puede expandirse hacia la zona reticular, resultando en una compresión de la zona reticular. Las células de la zona fasciculata muestran un aumento en el número de mitocondrias y en el desarrollo del retículo endoplásmico liso, reflejando el aumento de la síntesis de cortisol. La hiperplasia puede ser difusa (afectando toda la zona fasciculata) o nodular (formando nódulos discretos). El aumento en el tamaño de la glándula es el resultado de una estimulación crónica por ACTH elevado. La hiperplasia suprarrenal puede ser causada por un adenoma hipofisario productor de ACTH (síndrome de Cushing de origen hipofisario) o por un tumor ectópico productor de ACTH."
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la insuficiencia suprarrenal crónica?",
+      "opciones": [
+        "Hiperplasia de la corteza suprarrenal",
+        "Atrofia de la corteza suprarrenal, disminución del tamaño de la glándula",
+        "Aumento de la médula suprarrenal",
+        "Formación de nódulos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la insuficiencia suprarrenal crónica (enfermedad de Addison), los cambios histológicos incluyen atrofia de la corteza suprarrenal, resultando en una disminución del tamaño de la glándula suprarrenal. La atrofia es el resultado de una disminución crónica de la estimulación por ACTH o de una destrucción autoinmune de la corteza suprarrenal. Histológicamente, se observa una disminución en el número y tamaño de las células de la corteza suprarrenal, con una disminución en el contenido de lípidos. La zona fasciculata es la más afectada, con una disminución significativa en el número de células. Las células restantes muestran una disminución en el número de mitocondrias y en el desarrollo del retículo endoplásmico liso. La atrofia puede afectar toda la corteza suprarrenal o solo ciertas zonas, dependiendo de la causa de la insuficiencia. En la enfermedad de Addison autoinmune, hay una infiltración de linfocitos y células plasmáticas que destruyen la corteza suprarrenal. La atrofia de la corteza suprarrenal resulta en una disminución de la secreción de cortisol, aldosterona y andrógenos, resultando en síntomas de insuficiencia suprarrenal."
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Cuál es la diferencia histológica entre un adenoma suprarrenal y un carcinoma suprarrenal?",
+      "opciones": [
+        "No hay diferencias histológicas",
+        "El adenoma tiene una cápsula bien definida sin invasión; el carcinoma invade la cápsula y los tejidos adyacentes",
+        "El adenoma es siempre maligno",
+        "El carcinoma tiene más células lipídicas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La diferencia fundamental entre un adenoma suprarrenal y un carcinoma suprarrenal es la presencia de invasión. Un adenoma suprarrenal es un tumor benigno que tiene una cápsula bien definida que lo separa del tejido suprarrenal normal adyacente. Histológicamente, el adenoma muestra una arquitectura celular que puede ser similar a la del tejido suprarrenal normal, aunque puede haber variaciones en el tamaño y la forma de las células. Un carcinoma suprarrenal, por el contrario, invade la cápsula del tumor y penetra en el tejido suprarrenal normal adyacente, vasos sanguíneos y linfáticos. El carcinoma muestra características de malignidad como mitosis aumentadas, necrosis, pleomorfismo nuclear y pérdida de la arquitectura normal. El carcinoma suprarrenal es una neoplasia maligna rara pero agresiva con un pronóstico pobre. La presencia de invasión capsular y extraadrenal es el criterio clave para diferenciar un carcinoma de un adenoma. El carcinoma suprarrenal generalmente se presenta con síntomas de exceso hormonal severo y evidencia de diseminación metastásica."
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuáles son las características histológicas del feocromocitoma?",
+      "opciones": [
+        "Células grandes con citoplasma claro sin gránulos de secreción",
+        "Células cromafines con gránulos de secreción que contienen catecolaminas, con posible invasión vascular",
+        "Células fusiformes sin organelas",
+        "Células columnares altas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El feocromocitoma es un tumor de las células cromafines de la médula suprarrenal que produce catecolaminas. Histológicamente, el feocromocitoma muestra células cromafines con gránulos de secreción que contienen catecolaminas. Las células tumorales pueden estar dispuestas en cordones, nidos o patrones más desorganizados. El citoplasma de las células tumorales es abundante y puede aparecer claro o ligeramente basófilo. Las células tumorales pueden mostrar características de malignidad como mitosis aumentadas, necrosis y pleomorfismo nuclear. La invasión vascular es un hallazgo importante que puede indicar malignidad. El feocromocitoma puede ser benigno o maligno, y la distinción basada en características histológicas puede ser difícil. Aproximadamente el 10% de los feocromocitomas son malignos. El feocromocitoma puede estar asociado con síndromes genéticos como MEN2A, MEN2B y neurofibromatosis tipo 1. El diagnóstico de feocromocitoma se confirma por la demostración de catecolaminas elevadas en sangre o orina y por la localización del tumor mediante técnicas de imagen."
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Cuál es el papel de la vascularización en la función suprarrenal?",
+      "opciones": [
+        "La vascularización no es importante para la función suprarrenal",
+        "La vascularización proporciona nutrientes, oxígeno y facilita el intercambio de hormonas y la regulación de la función suprarrenal",
+        "La vascularización solo proporciona soporte estructural",
+        "La vascularización produce hormonas suprarrenales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La vascularización de la glándula suprarrenal es crucial para su función normal. La glándula suprarrenal recibe irrigación de tres arterias principales: la arteria suprarrenal superior (que se origina de la aorta), la arteria suprarrenal media (que se origina de la arteria renal) y la arteria suprarrenal inferior (que se origina de la arteria ilíaca). Estas arterias penetran la cápsula suprarrenal y se ramifican en una red de capilares sinusoides que rodean las células secretoras. Los capilares sinusoides tienen fenestras que permiten un intercambio eficiente de moléculas entre la sangre y el tejido intersticial. La vascularización abundante es particularmente importante en la médula suprarrenal, que tiene una de las vascularizaciones más abundantes de cualquier órgano. La regulación de la función suprarrenal depende de la vascularización, ya que permite que ACTH acceda a las células de la corteza suprarrenal y que las hormonas secretadas accedan rápidamente a la circulación sistémica. Los cambios en la vascularización pueden afectar la función suprarrenal y pueden ser detectados por técnicas de imagen como la resonancia magnética."
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y la respuesta al estrés?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con la respuesta al estrés",
+        "La glándula suprarrenal produce cortisol y catecolaminas que son esenciales para la respuesta al estrés",
+        "La glándula suprarrenal solo produce aldosterona",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel crucial en la respuesta al estrés mediante la producción de cortisol y catecolaminas. En respuesta al estrés, el hipotálamo libera CRH, que estimula la hipófisis anterior a liberar ACTH, que estimula la corteza suprarrenal a liberar cortisol. Simultáneamente, el sistema nervioso simpático estimula la médula suprarrenal a liberar adrenalina y noradrenalina. El cortisol aumenta la gluconeogénesis hepática, resultando en un aumento de la glucosa sérica disponible para los músculos. Las catecolaminas aumentan la frecuencia cardíaca, la presión arterial y la movilización de lípidos. Estos cambios preparan el cuerpo para la respuesta de lucha o huida al estrés. Sin embargo, el estrés crónico puede resultar en una disregulación del eje hipotálamo-hipófisis-suprarrenal, resultando en una producción excesiva o insuficiente de cortisol. La disregulación del eje hipotálamo-hipófisis-suprarrenal está implicada en muchos trastornos psiquiátricos y médicos, incluyendo depresión, ansiedad y síndrome de fatiga crónica."
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la enfermedad de Addison autoinmune?",
+      "opciones": [
+        "Hiperplasia de la corteza suprarrenal",
+        "Infiltración de linfocitos y células plasmáticas, destrucción de la corteza suprarrenal, atrofia",
+        "Aumento de la médula suprarrenal",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la enfermedad de Addison autoinmune, los cambios histológicos incluyen infiltración de linfocitos T y células plasmáticas productoras de anticuerpos en la corteza suprarrenal, resultando en destrucción progresiva del tejido suprarrenal. Histológicamente, se observa una infiltración masiva de células inflamatorias que destruyen las células de la corteza suprarrenal. La zona fasciculata es la más afectada inicialmente, seguida por la zona glomerulosa y la zona reticular. Con el tiempo, hay una atrofia progresiva de la corteza suprarrenal, resultando en una disminución del tamaño de la glándula. La médula suprarrenal generalmente se preserva en la enfermedad de Addison autoinmune. Los anticuerpos contra la enzima 21-hidroxilasa (21-OH) y contra otras enzimas esteroidogénicas son característicos de la enfermedad de Addison autoinmune. La enfermedad de Addison autoinmune puede ocurrir como parte de un síndrome poliglandular autoinmune, donde hay afectación de múltiples glándulas endocrinas. El diagnóstico de enfermedad de Addison autoinmune se basa en la presencia de insuficiencia suprarrenal, evidencia de autoinmunidad y hallazgos histológicos de infiltración inflamatoria."
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y la presión arterial?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con la presión arterial",
+        "La aldosterona y las catecolaminas producidas por la glándula suprarrenal regulan la presión arterial",
+        "La glándula suprarrenal solo produce hormonas que disminuyen la presión arterial",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel importante en la regulación de la presión arterial mediante la producción de aldosterona y catecolaminas. La aldosterona aumenta la reabsorción de sodio en los túbulos renales, resultando en una retención de sodio y agua, lo que aumenta el volumen de sangre y la presión arterial. Las catecolaminas (adrenalina y noradrenalina) aumentan la frecuencia cardíaca y la contractilidad cardíaca, así como la vasoconstricción, resultando en un aumento de la presión arterial. El cortisol también contribuye a la regulación de la presión arterial mediante efectos en la sensibilidad vascular a las catecolaminas. El hiperaldosteronismo primario (causado por un adenoma suprarrenal productor de aldosterona) resulta en hipertensión severa. El feocromocitoma (causado por un tumor de la médula suprarrenal productor de catecolaminas) resulta en hipertensión paroxística severa. La insuficiencia suprarrenal resulta en hipotensión debido a una disminución de la producción de aldosterona y catecolaminas. La regulación precisa de la función suprarrenal es importante para mantener la presión arterial normal."
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la hiperplasia suprarrenal congénita?",
+      "opciones": [
+        "Atrofia de la corteza suprarrenal",
+        "Hiperplasia difusa de la corteza suprarrenal, aumento del tamaño de la glándula",
+        "Aumento de la médula suprarrenal",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la hiperplasia suprarrenal congénita (HSC), los cambios histológicos incluyen hiperplasia difusa de la corteza suprarrenal, resultando en un aumento significativo del tamaño de la glándula suprarrenal. La HSC es causada por deficiencias en las enzimas esteroidogénicas, siendo la deficiencia de 21-hidroxilasa la causa más común. La deficiencia enzimática resulta en una disminución de la síntesis de cortisol, lo que lleva a una estimulación crónica de la corteza suprarrenal por ACTH elevado. Histológicamente, se observa una hiperplasia difusa de todas las zonas de la corteza suprarrenal, con un aumento en el número y tamaño de las células. El contenido de lípidos de las células está aumentado debido a la acumulación de precursores de esteroides. La zona fasciculata es la más afectada. La hiperplasia puede resultar en un aumento del tamaño de la glándula suprarrenal de hasta 10 veces el tamaño normal. La hiperplasia suprarrenal en la HSC es el resultado de una estimulación crónica por ACTH elevado en un intento de compensar la síntesis insuficiente de cortisol. El tratamiento con glucocorticoides puede suprimir la ACTH elevada y resultar en una regresión de la hiperplasia suprarrenal."
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Cuál es el papel de la inervación nerviosa en la regulación de la función suprarrenal?",
+      "opciones": [
+        "La inervación nerviosa no es importante para la función suprarrenal",
+        "La inervación simpática regula la secreción de catecolaminas de la médula suprarrenal",
+        "La inervación produce hormonas suprarrenales",
+        "La inervación solo proporciona soporte estructural"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La inervación nerviosa de la glándula suprarrenal juega un papel importante en la regulación de su función, particularmente en la regulación de la secreción de catecolaminas de la médula suprarrenal. La médula suprarrenal recibe inervación simpática preganglionar directa del sistema nervioso central. Los nervios simpáticos liberan acetilcolina, que se une a receptores nicotínicos en las células cromafines de la médula suprarrenal, estimulando la liberación de catecolaminas. Esta inervación simpática permite una respuesta rápida de la médula suprarrenal al estrés. La corteza suprarrenal también recibe inervación simpática, que modula la vascularización y puede afectar la secreción de cortisol. La inervación también es importante desde el punto de vista quirúrgico, ya que el daño a los nervios durante la adrenalectomía puede afectar la función suprarrenal residual. Los cambios en la inervación pueden ocurrir en enfermedades suprarrenales autoinmunes, contribuyendo a la disfunción de las glándulas. La inervación simpática también es importante para la integración de la función suprarrenal con otros sistemas del cuerpo."
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y el metabolismo de carbohidratos?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con el metabolismo de carbohidratos",
+        "El cortisol producido por la glándula suprarrenal aumenta la gluconeogénesis hepática, aumentando la glucosa sérica",
+        "La glándula suprarrenal solo produce hormonas que disminuyen la glucosa sérica",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel importante en la regulación del metabolismo de carbohidratos mediante la producción de cortisol. El cortisol aumenta la gluconeogénesis hepática, el proceso mediante el cual el hígado sintetiza glucosa a partir de precursores no carbohidratos como aminoácidos, lactato y glicerol. El cortisol también disminuye la captación de glucosa por los tejidos periféricos, resultando en un aumento de la glucosa sérica disponible para el cerebro y otros órganos vitales. El cortisol también estimula la proteólisis (degradación de proteínas) en los músculos, proporcionando aminoácidos para la gluconeogénesis hepática. Las catecolaminas producidas por la médula suprarrenal también afectan el metabolismo de carbohidratos, estimulando la glucogenólisis hepática (degradación del glucógeno) y la lipolisis (degradación de lípidos). El exceso de cortisol (síndrome de Cushing) resulta en hiperglucemia y diabetes mellitus. La deficiencia de cortisol (insuficiencia suprarrenal) resulta en hipoglucemia. La regulación precisa de la función suprarrenal es importante para mantener la glucosa sérica normal."
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en el síndrome de Waterhouse-Friderichsen?",
+      "opciones": [
+        "Hiperplasia de la corteza suprarrenal",
+        "Hemorragia masiva de la médula suprarrenal, necrosis de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de Waterhouse-Friderichsen es una complicación potencialmente mortal de la meningitis meningocócica caracterizada por hemorragia masiva de la glándula suprarrenal. Histológicamente, se observa una hemorragia masiva que reemplaza la médula suprarrenal y se extiende hacia la corteza suprarrenal. La hemorragia resulta en una necrosis extensa de la glándula suprarrenal. El síndrome de Waterhouse-Friderichsen resulta en una insuficiencia suprarrenal aguda severa, caracterizada por hipotensión, shock, hipoglucemia y coagulopatía. El síndrome de Waterhouse-Friderichsen es una emergencia médica que requiere tratamiento inmediato con glucocorticoides y tratamiento de la infección subyacente. La mortalidad del síndrome de Waterhouse-Friderichsen es alta, especialmente si no se trata rápidamente. El síndrome de Waterhouse-Friderichsen puede ocurrir con otras bacterias gramnegativas además de Neisseria meningitidis, incluyendo Haemophilus influenzae y Streptococcus pneumoniae. La prevención del síndrome de Waterhouse-Friderichsen incluye la vacunación contra Neisseria meningitidis."
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Cuál es el papel de la cápsula fibrosa en la glándula suprarrenal?",
+      "opciones": [
+        "La cápsula no tiene función en la glándula suprarrenal",
+        "La cápsula proporciona soporte estructural y protección a la glándula",
+        "La cápsula produce hormonas suprarrenales",
+        "La cápsula almacena hormonas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La cápsula fibrosa que rodea la glándula suprarrenal proporciona soporte estructural y protección a la glándula. La cápsula está compuesta principalmente por fibras colágenas y fibras elásticas, lo que le proporciona resistencia y elasticidad. La cápsula está íntimamente relacionada con el tejido adiposo perirrenal que rodea la glándula. Además de su función mecánica, la cápsula también actúa como una barrera que limita la propagación de infecciones o procesos inflamatorios. La cápsula contiene vasos sanguíneos y nervios que penetran en la glándula para nutrirla e inervarla. Las arterias suprarrenales penetran la cápsula para suministrar sangre a la glándula. La cápsula también es importante desde el punto de vista quirúrgico, ya que proporciona un plano de disección durante la adrenalectomía. La integridad de la cápsula es importante para mantener la función normal de la glándula. Los cambios en la cápsula pueden ocurrir en enfermedades suprarrenales, como la fibrosis en la tuberculosis suprarrenal."
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal durante la vejez?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Aumento de la fibrosis, atrofia de la corteza suprarrenal, cambios en la vascularización",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Durante la vejez, la glándula suprarrenal experimenta cambios histológicos progresivos que reflejan el envejecimiento. Se observa un aumento de la fibrosis intersticial, con reemplazo del tejido suprarrenal funcional por tejido conectivo fibroso. Hay una atrofia progresiva de la corteza suprarrenal, con una disminución en el número y tamaño de las células. El contenido de lípidos de las células disminuye. La vascularización de la glándula disminuye, con menos vasos sanguíneos en el tejido conectivo intersticial. Puede haber un aumento de las inclusiones de lipofuscina (pigmento de envejecimiento) en las células. La médula suprarrenal también puede mostrar cambios relacionados con la edad, incluyendo una disminución en el número de células cromafines. Estos cambios histológicos son generalmente acompañados por una disminución en la función suprarrenal, aunque los mecanismos de regulación del cortisol se mantienen relativamente intactos. Los cambios histológicos relacionados con la edad son importantes para entender la fisiología suprarrenal en los ancianos."
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y la función reproductiva?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con la función reproductiva",
+        "Los andrógenos suprarrenales contribuyen a las características sexuales secundarias; el cortisol afecta la función reproductiva",
+        "La glándula suprarrenal produce hormonas sexuales principales",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel en la regulación de la función reproductiva mediante la producción de andrógenos y cortisol. Los andrógenos suprarrenales (principalmente DHEA y androstenediona) contribuyen a las características sexuales secundarias, especialmente en las mujeres. En los hombres, los andrógenos suprarrenales tienen una contribución menor a las características sexuales secundarias, ya que los testículos producen la mayoría de la testosterona. El cortisol afecta la función reproductiva mediante efectos en el eje hipotálamo-hipófisis-gonadal: el exceso de cortisol puede suprimir la liberación de GnRH del hipotálamo, resultando en una disminución de la función gonadal. La deficiencia de cortisol también puede afectar la función reproductiva. La hiperplasia suprarrenal congénita, que resulta en un exceso de andrógenos suprarrenales, puede resultar en virilización en las mujeres. El síndrome de ovario poliquístico (SOP) puede estar asociado con un exceso de andrógenos suprarrenales. La regulación precisa de la función suprarrenal es importante para mantener la función reproductiva normal."
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la tuberculosis suprarrenal?",
+      "opciones": [
+        "No hay cambios en la glándula suprarrenal",
+        "Infiltración de granulomas caseosos, destrucción de la corteza suprarrenal, posible insuficiencia suprarrenal",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la tuberculosis suprarrenal, hay infiltración de granulomas caseosos en la corteza suprarrenal, resultando en destrucción progresiva del tejido suprarrenal. Histológicamente, se observan granulomas caseosos con necrosis central rodeada por células epiteloides y células gigantes multinucleadas. La infiltración de tuberculosis puede resultar en una destrucción extensa de la corteza suprarrenal, resultando en insuficiencia suprarrenal severa. La tuberculosis suprarrenal es una causa importante de insuficiencia suprarrenal en áreas donde la tuberculosis es endémica. El diagnóstico de tuberculosis suprarrenal se basa en la identificación de bacilos ácido-alcohol resistentes en los granulomas y en el cultivo de Mycobacterium tuberculosis. La tuberculosis suprarrenal puede ocurrir como parte de la tuberculosis diseminada o como una infección localizada de las glándulas suprarrenales. El tratamiento incluye terapia antituberculosa apropiada y suplementos de glucocorticoides y mineralocorticoides para corregir la insuficiencia suprarrenal. La tuberculosis suprarrenal es una causa rara de insuficiencia suprarrenal en áreas donde la tuberculosis no es endémica."
+    },
+    {
+      "id": 30,
+      "pregunta": "¿Cuál es el papel de la inmunohistoquímica en el diagnóstico de patología suprarrenal?",
+      "opciones": [
+        "La inmunohistoquímica no es útil en el diagnóstico de patología suprarrenal",
+        "La inmunohistoquímica permite identificar hormonas suprarrenales y otros marcadores para confirmar el diagnóstico",
+        "La inmunohistoquímica solo se utiliza para medir los niveles de cortisol",
+        "La inmunohistoquímica es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La inmunohistoquímica es una herramienta importante en el diagnóstico de patología suprarrenal que permite identificar hormonas suprarrenales y otros marcadores para confirmar el diagnóstico. La inmunohistoquímica para cortisol, aldosterona, andrógenos y catecolaminas puede ser útil para identificar el tipo de tumor suprarrenal y su función hormonal. La inmunohistoquímica para cromogranina A y sinaptofisina puede ser útil para confirmar el diagnóstico de feocromocitoma. La inmunohistoquímica para enzimas esteroidogénicas como 17-alfa-hidroxilasa y 11-beta-hidroxilasa puede ser útil para identificar la zona de origen del tumor. La inmunohistoquímica para Ki-67 puede ser útil para evaluar la proliferación celular y diferenciar entre tumores benignos y malignos. La inmunohistoquímica es una parte importante del protocolo de diagnóstico histológico de patología suprarrenal."
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la sarcoidosis?",
+      "opciones": [
+        "No hay cambios en la glándula suprarrenal",
+        "Infiltración de granulomas no caseosos, posible hipercalcemia por producción de calcitriol",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la sarcoidosis, puede haber infiltración de granulomas no caseosos en la glándula suprarrenal, resultando en posible insuficiencia suprarrenal. Histológicamente, se observan granulomas no caseosos infiltrando la corteza suprarrenal, con posible destrucción de las células suprarrenales. La infiltración de granulomas puede resultar en una disminución de la síntesis de cortisol, resultando en insuficiencia suprarrenal. La sarcoidosis suprarrenal es una causa rara de insuficiencia suprarrenal. La sarcoidosis también puede resultar en hipercalcemia debido a la producción de calcitriol por macrófagos activados dentro de los granulomas. El diagnóstico de sarcoidosis suprarrenal se basa en la presencia de sarcoidosis sistémica, insuficiencia suprarrenal y hallazgos histológicos de infiltración de granulomas no caseosos. El tratamiento incluye corticosteroides sistémicos para suprimir la respuesta inflamatoria y suplementos de glucocorticoides y mineralocorticoides para corregir la insuficiencia suprarrenal. La sarcoidosis suprarrenal es una manifestación rara de la sarcoidosis sistémica."
+    },
+    {
+      "id": 32,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y el metabolismo de lípidos?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con el metabolismo de lípidos",
+        "El cortisol y las catecolaminas producidas por la glándula suprarrenal estimulan la lipolisis",
+        "La glándula suprarrenal solo produce hormonas que disminuyen la lipolisis",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel importante en la regulación del metabolismo de lípidos mediante la producción de cortisol y catecolaminas. El cortisol estimula la lipolisis (degradación de lípidos) en el tejido adiposo, resultando en la liberación de ácidos grasos libres que pueden ser utilizados por otros tejidos para la producción de energía. Las catecolaminas también estimulan la lipolisis mediante la activación de receptores beta-adrenérgicos en las células adiposas. El cortisol también afecta la distribución de la grasa corporal, promoviendo la acumulación de grasa en la cara, cuello y espalda (obesidad central) en el síndrome de Cushing. El cortisol también afecta el metabolismo del colesterol, aumentando la síntesis de colesterol hepático. El exceso de cortisol (síndrome de Cushing) resulta en una redistribución de la grasa corporal y en dislipidemia. La deficiencia de cortisol (insuficiencia suprarrenal) resulta en una disminución de la lipolisis. La regulación precisa de la función suprarrenal es importante para mantener el metabolismo de lípidos normal."
+    },
+    {
+      "id": 33,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la radiación?",
+      "opciones": [
+        "No hay cambios significativos",
+        "Daño de las células suprarrenales, inflamación, fibrosis y posible desarrollo de tumores",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La exposición a radiación ionizante puede causar daño a la glándula suprarrenal, resultando en cambios histológicos que incluyen daño directo de las células suprarrenales, infiltración de células inflamatorias y fibrosis progresiva. La radiación puede resultar en una disminución de la función suprarrenal (insuficiencia suprarrenal) o, paradójicamente, en el desarrollo de tumores suprarrenales. El riesgo de desarrollar tumores suprarrenales después de radiación aumenta con la dosis de radiación recibida y con el tiempo transcurrido desde la exposición. Los cambios histológicos pueden incluir cambios displásicos en las células suprarrenales que pueden progresar a malignidad. La tiroiditis por radiación puede ocurrir en pacientes que reciben radioterapia para cánceres abdominales o pélvicos. La evaluación de la función suprarrenal es importante en pacientes que han recibido radiación abdominal o pélvica."
+    },
+    {
+      "id": 34,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y la función inmunológica?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con la función inmunológica",
+        "El cortisol producido por la glándula suprarrenal tiene efectos inmunosupresores importantes",
+        "La glándula suprarrenal solo produce hormonas que estimulan la inmunidad",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel importante en la regulación de la función inmunológica mediante la producción de cortisol. El cortisol tiene potentes efectos inmunosupresores, incluyendo la inhibición de la proliferación de linfocitos T y B, la inhibición de la producción de citoquinas proinflamatorias y la inhibición de la activación de macrófagos. El cortisol también aumenta la apoptosis (muerte celular) de linfocitos. Estos efectos inmunosupresores del cortisol son importantes para prevenir una respuesta inmunológica excesiva que podría resultar en autoinmunidad o inflamación crónica. Sin embargo, el exceso de cortisol (síndrome de Cushing) resulta en una inmunosupresión severa, aumentando la susceptibilidad a infecciones. La deficiencia de cortisol (insuficiencia suprarrenal) resulta en una disminución de la inmunosupresión, que puede resultar en una respuesta inmunológica aumentada. La regulación precisa de la función suprarrenal es importante para mantener un balance inmunológico normal. El cortisol también tiene efectos en la barrera intestinal y en la microbiota intestinal, que son importantes para la inmunidad."
+    },
+    {
+      "id": 35,
+      "pregunta": "¿Cuáles son las características histológicas del adenoma suprarrenal productor de aldosterona?",
+      "opciones": [
+        "Células grandes con citoplasma abundante lleno de lípidos",
+        "Células compactas de la zona glomerulosa con citoplasma claro, dispuestas en nódulos",
+        "Células fusiformes sin organelas",
+        "Células columnares altas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El adenoma suprarrenal productor de aldosterona (adenoma de Conn) se caracteriza histológicamente por células compactas de la zona glomerulosa con citoplasma claro, dispuestas en nódulos discretos. El adenoma tiene una cápsula bien definida que lo separa del tejido suprarrenal normal adyacente. Las células del adenoma son similares a las células normales de la zona glomerulosa, aunque pueden haber variaciones en el tamaño y la forma. El adenoma generalmente es pequeño, con un diámetro de menos de 2 cm. El adenoma de Conn es la causa más común de hiperaldosteronismo primario. El diagnóstico de adenoma de Conn se basa en la presencia de hipertensión, hipocaliemia, aldosterona elevada y renina baja. El tratamiento del adenoma de Conn incluye adrenalectomía quirúrgica, que generalmente resulta en una normalización de la presión arterial y de los niveles de potasio. La inmunohistoquímica para aldosterona puede ser útil para confirmar la producción de aldosterona por el adenoma."
+    },
+    {
+      "id": 36,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la hemocromatosis?",
+      "opciones": [
+        "No hay cambios en la glándula suprarrenal",
+        "Depósito de hierro en las células suprarrenales, posible disfunción suprarrenal",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la hemocromatosis, puede haber depósito de hierro en las células suprarrenales, resultando en posible disfunción suprarrenal. Histológicamente, se observa depósito de hierro dentro de las células suprarrenales, que puede ser demostrado mediante tinción de Prusia azul. El depósito de hierro puede resultar en destrucción de las células suprarrenales e insuficiencia suprarrenal. La hemocromatosis también puede afectar otras glándulas endocrinas, resultando en diabetes mellitus, hipogonadismo e hipotiroidismo. La insuficiencia suprarrenal causada por hemocromatosis puede resultar en una disminución de la producción de cortisol y aldosterona. El diagnóstico de disfunción suprarrenal en la hemocromatosis se basa en la presencia de hemocromatosis sistémica, insuficiencia suprarrenal y hallazgos histológicos de depósito de hierro. El tratamiento incluye flebotomía o quelación de hierro para reducir los depósitos de hierro, y suplementos de glucocorticoides y mineralocorticoides para corregir la insuficiencia suprarrenal. La hemocromatosis es una causa rara de insuficiencia suprarrenal."
+    },
+    {
+      "id": 37,
+      "pregunta": "¿Cuál es el papel de la tomografía computarizada (TC) en el diagnóstico de patología suprarrenal?",
+      "opciones": [
+        "La TC no es útil en el diagnóstico de patología suprarrenal",
+        "La TC permite visualizar la glándula suprarrenal, detectar tumores y evaluar características de malignidad",
+        "La TC solo se utiliza para medir los niveles de cortisol",
+        "La TC es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La tomografía computarizada (TC) es una herramienta importante en el diagnóstico de patología suprarrenal que permite visualizar la glándula suprarrenal, detectar tumores y evaluar características de malignidad. La TC puede detectar adenomas suprarrenales, carcinomas, feocromocitomas y otras lesiones suprarrenales. La TC también puede ser útil para evaluar la extensión de los tumores suprarrenales y detectar metástasis. Las características de TC que sugieren malignidad incluyen tamaño grande (>4 cm), bordes irregulares, densidad heterogénea y invasión de estructuras adyacentes. La TC también puede ser útil para guiar biopsias por aguja fina de lesiones suprarrenales. La TC es particularmente útil en la evaluación de pacientes con síndrome de Cushing, hiperaldosteronismo primario y feocromocitoma. La TC es generalmente la primera técnica de imagen utilizada en la evaluación de patología suprarrenal, aunque la resonancia magnética puede ser útil en ciertos casos."
+    },
+    {
+      "id": 38,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en el síndrome de neoplasia endocrina múltiple tipo 1 (MEN1)?",
+      "opciones": [
+        "Adenoma único",
+        "Hiperplasia difusa de la corteza suprarrenal o múltiples adenomas",
+        "Atrofia de la glándula suprarrenal",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de neoplasia endocrina múltiple tipo 1 (MEN1) es causado por mutaciones en el gen MEN1 que resultan en una predisposición a tumores en múltiples glándulas endocrinas, incluyendo la glándula suprarrenal. Histológicamente, la glándula suprarrenal puede mostrar hiperplasia difusa de la corteza suprarrenal o múltiples adenomas. Los adenomas suprarrenales en MEN1 pueden ser funcionantes (productores de cortisol, aldosterona o andrógenos) o no funcionantes. Los adenomas suprarrenales en MEN1 son generalmente benignos, aunque el riesgo de malignidad es ligeramente aumentado. El diagnóstico de MEN1 se basa en la presencia de tumores en dos o más de las glándulas endocrinas afectadas (paratiroides, páncreas, hipófisis, glándulas suprarrenales). El tratamiento de los tumores suprarrenales en MEN1 depende de si son funcionantes o no funcionantes, y de si hay evidencia de malignidad. La evaluación periódica de la función suprarrenal es importante en pacientes con MEN1."
+    },
+    {
+      "id": 39,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y la función cardiovascular?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con la función cardiovascular",
+        "Las catecolaminas y el cortisol producidos por la glándula suprarrenal afectan la función cardiovascular",
+        "La glándula suprarrenal solo produce hormonas que disminuyen la función cardiovascular",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel importante en la regulación de la función cardiovascular mediante la producción de catecolaminas y cortisol. Las catecolaminas (adrenalina y noradrenalina) aumentan la frecuencia cardíaca, la contractilidad cardíaca y la presión arterial mediante la activación de receptores adrenérgicos en el corazón y los vasos sanguíneos. El cortisol también afecta la función cardiovascular mediante efectos en la sensibilidad vascular a las catecolaminas y mediante efectos en el metabolismo del sodio y el agua. El feocromocitoma (un tumor de la médula suprarrenal productor de catecolaminas) resulta en hipertensión paroxística severa y arritmias cardíacas. El síndrome de Cushing (causado por un exceso de cortisol) resulta en hipertensión y aumento del riesgo de enfermedad cardiovascular. La insuficiencia suprarrenal resulta en hipotensión y disminución de la función cardiovascular. La regulación precisa de la función suprarrenal es importante para mantener la función cardiovascular normal."
+    },
+    {
+      "id": 40,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la amiloidosis?",
+      "opciones": [
+        "No hay cambios en la glándula suprarrenal",
+        "Depósito de amiloide en la glándula suprarrenal, posible insuficiencia suprarrenal",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la amiloidosis, puede haber depósito de amiloide en la glándula suprarrenal, resultando en posible insuficiencia suprarrenal. Histológicamente, se observa depósito de amiloide en el tejido conectivo intersticial de la glándula suprarrenal, que puede resultar en una compresión y destrucción de las células suprarrenales. El depósito de amiloide puede resultar en una disminución de la síntesis de cortisol, aldosterona y andrógenos, resultando en insuficiencia suprarrenal. La amiloidosis suprarrenal es una causa rara de insuficiencia suprarrenal. El diagnóstico de amiloidosis suprarrenal se basa en la identificación de depósitos de amiloide mediante tinción de rojo Congo y microscopía de luz polarizada. La amiloidosis también puede afectar otros órganos, incluyendo el corazón, riñones e hígado. El tratamiento de la amiloidosis suprarrenal incluye tratamiento de la enfermedad subyacente y suplementos de glucocorticoides y mineralocorticoides para corregir la insuficiencia suprarrenal. La amiloidosis es una causa rara de insuficiencia suprarrenal."
+    },
+    {
+      "id": 41,
+      "pregunta": "¿Cuál es el papel de la biopsia por aguja fina (BAF) en el diagnóstico de patología suprarrenal?",
+      "opciones": [
+        "La BAF no es útil en el diagnóstico de patología suprarrenal",
+        "La BAF es un procedimiento mínimamente invasivo que permite obtener células suprarrenales para diagnóstico citológico",
+        "La BAF solo se utiliza para medir los niveles de cortisol",
+        "La BAF es un procedimiento quirúrgico mayor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La biopsia por aguja fina (BAF) es un procedimiento mínimamente invasivo que permite obtener células suprarrenales para diagnóstico citológico. La BAF puede ser útil en la evaluación de lesiones suprarrenales detectadas por TC o resonancia magnética. Las células obtenidas pueden ser examinadas citológicamente para evaluar características de malignidad. La BAF puede ser útil para diferenciar entre adenoma suprarrenal benigno y carcinoma suprarrenal maligno. Sin embargo, la BAF tiene limitaciones en la evaluación de patología suprarrenal, ya que la distinción entre adenoma y carcinoma basada en características citológicas puede ser difícil. La BAF también puede resultar en complicaciones como sangrado o infección, aunque estas complicaciones son raras. La BAF generalmente se reserva para casos donde hay sospecha de malignidad o cuando otras técnicas de diagnóstico han sido no concluyentes. La BAF es menos comúnmente utilizada en la evaluación de patología suprarrenal en comparación con la evaluación de patología tiroidea."
+    },
+    {
+      "id": 42,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la síntesis defectuosa de esteroides?",
+      "opciones": [
+        "Atrofia de la glándula suprarrenal",
+        "Hiperplasia difusa de la corteza suprarrenal, aumento del tamaño de la glándula",
+        "Aumento de la médula suprarrenal",
+        "Fibrosis masiva"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la síntesis defectuosa de esteroides (como en la hiperplasia suprarrenal congénita), hay hiperplasia difusa de la corteza suprarrenal, resultando en un aumento significativo del tamaño de la glándula suprarrenal. La hiperplasia es una respuesta a la estimulación crónica por ACTH elevado en un intento de compensar la síntesis insuficiente de cortisol. Histológicamente, se observa una hiperplasia difusa de todas las zonas de la corteza suprarrenal, con un aumento en el número y tamaño de las células. El contenido de lípidos de las células está aumentado debido a la acumulación de precursores de esteroides que no pueden ser convertidos a cortisol debido a la deficiencia enzimática. La zona fasciculata es la más afectada. La hiperplasia puede resultar en un aumento del tamaño de la glándula suprarrenal de hasta 10 veces el tamaño normal. El tratamiento con glucocorticoides puede suprimir la ACTH elevada y resultar en una regresión de la hiperplasia suprarrenal."
+    },
+    {
+      "id": 43,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y el metabolismo del sodio?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con el metabolismo del sodio",
+        "La aldosterona producida por la glándula suprarrenal regula la reabsorción renal de sodio",
+        "La glándula suprarrenal solo produce hormonas que disminuyen la reabsorción de sodio",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel crucial en la regulación del metabolismo del sodio mediante la producción de aldosterona. La aldosterona aumenta la reabsorción de sodio en los túbulos renales colectores, resultando en una retención de sodio y agua, lo que aumenta el volumen de sangre y la presión arterial. La aldosterona también aumenta la excreción de potasio en la orina. El hiperaldosteronismo primario (causado por un adenoma suprarrenal productor de aldosterona) resulta en una retención severa de sodio, hipertensión e hipocaliemia. El hipoaldosteronismo (causado por insuficiencia suprarrenal) resulta en una pérdida severa de sodio, disminución del volumen de sangre e hipotensión. La regulación precisa de la función suprarrenal es importante para mantener el metabolismo del sodio normal y la presión arterial."
+    },
+    {
+      "id": 44,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la infección por VIH?",
+      "opciones": [
+        "No hay cambios en la glándula suprarrenal",
+        "Infiltración de células inflamatorias, posible insuficiencia suprarrenal",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la infección por VIH, puede haber infiltración de células inflamatorias en la glándula suprarrenal, resultando en posible insuficiencia suprarrenal. Histológicamente, se observa una infiltración de linfocitos y macrófagos en la corteza suprarrenal. La infiltración puede resultar en una destrucción de las células suprarrenales e insuficiencia suprarrenal. La insuficiencia suprarrenal en pacientes con VIH puede ser causada por infecciones oportunistas como tuberculosis, citomegalovirus o histoplasmosis, o por infiltración directa de la glándula por células infectadas por VIH. La prevalencia de insuficiencia suprarrenal en pacientes con VIH es mayor en pacientes con recuentos de CD4 bajos. El diagnóstico de insuficiencia suprarrenal en pacientes con VIH se basa en la presencia de síntomas de insuficiencia suprarrenal y hallazgos de laboratorio de cortisol bajo. El tratamiento incluye suplementos de glucocorticoides y mineralocorticoides para corregir la insuficiencia suprarrenal. La evaluación de la función suprarrenal es importante en pacientes con VIH, especialmente en aquellos con recuentos de CD4 bajos."
+    },
+    {
+      "id": 45,
+      "pregunta": "¿Cuál es el papel de la resonancia magnética (RM) en el diagnóstico de patología suprarrenal?",
+      "opciones": [
+        "La RM no es útil en el diagnóstico de patología suprarrenal",
+        "La RM permite visualizar la glándula suprarrenal, detectar tumores y evaluar características de malignidad",
+        "La RM solo se utiliza para medir los niveles de cortisol",
+        "La RM es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La resonancia magnética (RM) es una herramienta importante en el diagnóstico de patología suprarrenal que permite visualizar la glándula suprarrenal, detectar tumores y evaluar características de malignidad. La RM tiene una excelente resolución de tejidos blandos y puede diferenciar entre diferentes tipos de lesiones suprarrenales. La RM puede ser útil para evaluar la composición de las lesiones suprarrenales, incluyendo el contenido de lípidos, que puede ayudar a diferenciar entre adenomas benignos y lesiones malignas. La RM también puede ser útil para evaluar la invasión de estructuras adyacentes y detectar metástasis. La RM es particularmente útil en pacientes con alergia al contraste de yodo o en aquellos donde la TC proporciona información limitada. La RM es generalmente menos útil que la TC en la detección de calcificaciones, que pueden ser importantes en el diagnóstico de ciertos tumores suprarrenales. La RM es generalmente utilizada como una técnica complementaria a la TC en la evaluación de patología suprarrenal."
+    },
+    {
+      "id": 46,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la lipoidosis?",
+      "opciones": [
+        "No hay cambios en la glándula suprarrenal",
+        "Acumulación de lípidos en las células suprarrenales, posible insuficiencia suprarrenal",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la lipoidosis (acumulación anormal de lípidos), puede haber acumulación de lípidos en las células suprarrenales, resultando en posible insuficiencia suprarrenal. Histológicamente, se observa una acumulación de lípidos dentro de las células suprarrenales, que puede resultar en una disminución de la síntesis de esteroides. La lipoidosis suprarrenal puede ser causada por deficiencias en enzimas involucradas en el transporte o metabolismo de lípidos. La acumulación de lípidos puede resultar en una disminución de la síntesis de cortisol, aldosterona y andrógenos, resultando en insuficiencia suprarrenal. La lipoidosis suprarrenal es una causa rara de insuficiencia suprarrenal. El diagnóstico de lipoidosis suprarrenal se basa en la identificación de acumulación de lípidos mediante tinción especial y hallazgos de laboratorio de insuficiencia suprarrenal. El tratamiento incluye suplementos de glucocorticoides y mineralocorticoides para corregir la insuficiencia suprarrenal. La lipoidosis suprarrenal es una manifestación rara de enfermedades de almacenamiento de lípidos."
+    },
+    {
+      "id": 47,
+      "pregunta": "¿Cuál es la relación entre la glándula suprarrenal y la regulación del potasio?",
+      "opciones": [
+        "La glándula suprarrenal no tiene relación con la regulación del potasio",
+        "La aldosterona producida por la glándula suprarrenal aumenta la excreción renal de potasio",
+        "La glándula suprarrenal solo produce hormonas que disminuyen la excreción de potasio",
+        "La glándula suprarrenal solo afecta el metabolismo del calcio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula suprarrenal juega un papel importante en la regulación del potasio sérico mediante la producción de aldosterona. La aldosterona aumenta la excreción de potasio en la orina, resultando en una disminución de los niveles de potasio sérico. El hiperaldosteronismo primario (causado por un adenoma suprarrenal productor de aldosterona) resulta en una pérdida severa de potasio, resultando en hipocaliemia. La hipocaliemia puede resultar en debilidad muscular, arritmias cardíacas y alcalosis metabólica. El hipoaldosteronismo (causado por insuficiencia suprarrenal) resulta en una retención de potasio, resultando en hipercaliemia. La hipercaliemia puede resultar en arritmias cardíacas y debilidad muscular. La regulación precisa de la función suprarrenal es importante para mantener los niveles de potasio sérico normales."
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Cuáles son los cambios histológicos en la glándula suprarrenal en la necrosis?",
+      "opciones": [
+        "No hay cambios en la glándula suprarrenal",
+        "Necrosis de las células suprarrenales, posible insuficiencia suprarrenal aguda",
+        "Hiperplasia de la corteza suprarrenal",
+        "Aumento de la médula suprarrenal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La necrosis de la glándula suprarrenal puede resultar en insuficiencia suprarrenal aguda severa. Histológicamente, se observa una necrosis extensa de las células suprarrenales, con pérdida de la arquitectura normal. La necrosis puede ser causada por infecciones severas (como en el síndrome de Waterhouse-Friderichsen), traumatismo, trombosis vascular o anticoagulación excesiva. La necrosis suprarrenal resulta en una disminución severa de la síntesis de cortisol, aldosterona y andrógenos, resultando en insuficiencia suprarrenal aguda. La insuficiencia suprarrenal aguda es una emergencia médica que requiere tratamiento inmediato con glucocorticoides intravenosos. La mortalidad de la insuficiencia suprarrenal aguda es alta si no se trata rápidamente. El diagnóstico de necrosis suprarrenal se basa en hallazgos de TC o resonancia magnética que muestran una glándula suprarrenal aumentada de tamaño con atenuación heterogénea. El tratamiento incluye glucocorticoides intravenosos y tratamiento de la causa subyacente."
+    },
+    {
+      "id": 49,
+      "pregunta": "¿Cuál es el papel de la medición de cortisol en 24 horas en el diagnóstico del síndrome de Cushing?",
+      "opciones": [
+        "La medición de cortisol en 24 horas no es útil",
+        "La medición de cortisol en 24 horas es una prueba de detección importante para el síndrome de Cushing",
+        "La medición de cortisol en 24 horas solo se utiliza para medir los niveles de aldosterona",
+        "La medición de cortisol en 24 horas es un procedimiento postoperatorio"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La medición de cortisol en 24 horas es una prueba de detección importante para el síndrome de Cushing que permite evaluar la producción total de cortisol durante un período de 24 horas. Un cortisol en 24 horas elevado es sugestivo de síndrome de Cushing. La medición de cortisol en 24 horas es más específica que la medición de cortisol sérico único, que puede estar elevado en pacientes con estrés o depresión. La medición de cortisol en 24 horas es generalmente la primera prueba de detección utilizada en la evaluación de pacientes con síntomas sugestivos de síndrome de Cushing. Si la medición de cortisol en 24 horas está elevada, se realizan pruebas adicionales como la prueba de supresión de dexametasona de baja dosis para confirmar el diagnóstico de síndrome de Cushing. La medición de cortisol en 24 horas también puede ser útil para evaluar la respuesta al tratamiento en pacientes con síndrome de Cushing. La precisión de la medición de cortisol en 24 horas depende de una recolección correcta de orina de 24 horas."
+    },
+    {
+      "id": 50,
+      "pregunta": "¿Cuál es la importancia de la biopsia quirúrgica en el diagnóstico de patología suprarrenal?",
+      "opciones": [
+        "La biopsia quirúrgica no es importante",
+        "La biopsia quirúrgica permite obtener tejido para diagnóstico histológico definitivo de patología suprarrenal",
+        "La biopsia quirúrgica solo se utiliza para medir los niveles de cortisol",
+        "La biopsia quirúrgica es un procedimiento diagnóstico inicial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La biopsia quirúrgica es importante para obtener tejido para diagnóstico histológico definitivo de patología suprarrenal. La biopsia quirúrgica generalmente se realiza durante la adrenalectomía, que es el tratamiento definitivo para muchos tumores suprarrenales. El tejido obtenido durante la adrenalectomía puede ser examinado histológicamente para confirmar el diagnóstico y evaluar características de malignidad. La biopsia quirúrgica también permite la realización de inmunohistoquímica para identificar hormonas suprarrenales y otros marcadores. La biopsia quirúrgica es el estándar de oro para el diagnóstico de patología suprarrenal, ya que proporciona información histológica definitiva que no puede ser obtenida por técnicas de imagen o biopsia por aguja fina. La biopsia quirúrgica también permite la evaluación de márgenes quirúrgicos y la determinación de si la resección fue completa. La biopsia quirúrgica es generalmente reservada para casos donde hay sospecha de malignidad o cuando otras técnicas de diagnóstico han sido no concluyentes."
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "id": "endocrino-1",
+  "name": "Endocrino 1: Generalidades e Hipófisis",
+  "description": "Prueba avanzada sobre el sistema endócrino, generalidades y glándula hipófisis",
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál es la principal diferencia en el mecanismo de acción entre el sistema nervioso y el sistema endócrino?",
+      "options": [
+        "El sistema endócrino actúa más rápido pero con efectos más cortos",
+        "El sistema endócrino actúa más lentamente pero con efectos más prolongados y generalizados",
+        "El sistema nervioso utiliza hormonas mientras que el endócrino utiliza neurotransmisores",
+        "No hay diferencia significativa en el mecanismo de acción"
+      ],
+      "correctIndex": 1,
+      "explanation": "El sistema endócrino se caracteriza por una respuesta más lenta en comparación con el sistema nervioso, pero sus efectos son más prolongados y generalizados. Mientras que el sistema nervioso actúa en milisegundos a través de neurotransmisores en sinapsis específicas, el sistema endócrino transporta hormonas a través del sistema circulatorio, lo que toma más tiempo pero permite que la hormona llegue a múltiples órganos diana simultáneamente. Esta característica lo hace ideal para mantener la homeostasis y coordinar procesos a largo plazo como el crecimiento y el desarrollo. Las hormonas pueden permanecer activas en el torrente sanguíneo durante horas o días, prolongando sus efectos fisiológicos."
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál de las siguientes opciones describe correctamente las células APUD/SNED?",
+      "options": [
+        "Son células especializadas únicamente en la hipófisis",
+        "Son células endócrinas aisladas distribuidas en diversos órganos, con más de 40 tipos celulares diferentes",
+        "Son células que solo producen neurotransmisores",
+        "Son células que se encuentran exclusivamente en el páncreas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células APUD (Amine Precursor Uptake and Decarboxylation) o SNED (Sistema Neuroendócrino Difuso) son células endócrinas aisladas distribuidas ampliamente en diversos órganos del cuerpo. Existen más de 40 tipos celulares diferentes con esta característica, lo que las hace parte de un sistema neuroendócrino difuso. Estas células se encuentran en órganos como el tracto gastrointestinal, pulmones, páncreas y otros tejidos. A diferencia de las glándulas endócrinas concentradas como la hipófisis, estas células están dispersas pero mantienen funciones endócrinas importantes. Su capacidad de captar y descarboxilar precursores de aminas les permite sintetizar diversos tipos de hormonas y neurotransmisores."
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el mecanismo de retroalimentación negativa en el sistema endócrino?",
+      "options": [
+        "La hormona producida aumenta el estímulo original",
+        "La hormona producida disminuye el estímulo original, regulando su propia producción",
+        "Las hormonas no tienen ningún efecto regulador sobre su propia producción",
+        "La retroalimentación negativa solo ocurre en el sistema nervioso"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa es un mecanismo fundamental de regulación hormonal donde la hormona producida inhibe o disminuye el estímulo que originó su liberación. Este mecanismo permite mantener la homeostasis evitando que los niveles hormonales se eleven excesivamente. Por ejemplo, cuando los niveles de cortisol aumentan, inhiben la liberación de ACTH del hipotálamo y la adenohipófisis, reduciendo así la estimulación de la corteza suprarrenal. Este sistema de autorregulación es esencial para mantener concentraciones hormonales dentro de rangos fisiológicos óptimos. Sin este mecanismo, los niveles hormonales podrían alcanzar concentraciones peligrosas, causando desequilibrios metabólicos graves."
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la ubicación anatómica de la hipófisis?",
+      "options": [
+        "En la región cervical, anterior a la tráquea",
+        "En la silla turca, en la base del cráneo, bajo el hipotálamo",
+        "En el mediastino anterior",
+        "En la región retroperitoneal"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hipófisis se localiza en la silla turca (sella turcica), una estructura ósea en la base del cráneo que forma una pequeña cavidad protectora. Esta ubicación es estratégica porque le permite estar en estrecha relación con el hipotálamo, situado directamente arriba. La silla turca está formada por el hueso esfenoides y proporciona protección ósea a esta glándula endocrina vital. La proximidad con el hipotálamo es fundamental para la regulación neuroendocrina, permitiendo que las hormonas liberadoras del hipotálamo lleguen rápidamente a la adenohipófisis a través del sistema porta hipofisario. Esta relación anatómica es crucial para la coordinación entre el sistema nervioso y el endócrino."
+    },
+    {
+      "id": 5,
+      "question": "¿Qué porcentaje de la hipófisis representa la adenohipófisis (pars distalis)?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "correctIndex": 2,
+      "explanation": "La adenohipófisis o pars distalis representa el 75% del volumen total de la hipófisis, siendo la porción más grande de esta glándula. Esta proporción refleja la importancia funcional de la adenohipófisis, que sintetiza y secreta la mayoría de las hormonas hipofisarias. La adenohipófisis se origina del ectodermo bucal durante el desarrollo embrionario, mientras que la neurohipófisis (que representa el 25% restante) se origina del neuroectodermo. A pesar de ser más pequeña en volumen, la neurohipófisis tiene funciones igualmente importantes en la regulación de procesos como el balance hídrico y la contracción uterina. Esta diferencia en tamaño refleja la mayor actividad secretora de la adenohipófisis."
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál es la característica histológica principal de la adenohipófisis?",
+      "options": [
+        "Presencia de un único tipo de célula secretora",
+        "Células dispuestas en acúmulos o cordones con sinusoides y escaso tejido conectivo reticular",
+        "Abundante tejido conectivo fibroso",
+        "Presencia de túbulos secretores"
+      ],
+      "correctIndex": 1,
+      "explanation": "La adenohipófisis presenta una organización histológica característica con células endócrinas dispuestas en acúmulos o cordones que rodean sinusoides (capilares fenestrados). El tejido conectivo entre estas estructuras es escaso, consistiendo principalmente en fibras reticulares. Esta arquitectura permite un contacto íntimo entre las células secretoras y los capilares, facilitando la rápida liberación de hormonas hacia la circulación. Los sinusoides son especialmente importantes porque sus paredes fenestradas permiten el paso de moléculas grandes como las hormonas proteicas. Las células foliculoesteladas presentes entre los cordones celulares también contribuyen a esta organización. Esta disposición histológica es fundamental para la función endocrina eficiente de la glándula."
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es la proporción de células acidófilas en la adenohipófisis?",
+      "options": [
+        "10%",
+        "25%",
+        "40%",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células acidófilas representan aproximadamente el 40% del total de células de la adenohipófisis. Estas células se tiñen de color rojo o rosa con técnicas histológicas convencionales debido a su abundante contenido de ribosomas y retículo endoplásmico rugoso, reflejando su alta actividad proteica. Las células acidófilas incluyen dos subtipos principales: las somatotropas (que sintetizan hormona de crecimiento) y las lactotropas (que sintetizan prolactina). Aunque representan el 40% de la población celular, su contribución funcional es muy significativa debido a la importancia de las hormonas que producen. La proporción de células acidófilas puede variar ligeramente según el estado fisiológico del individuo, especialmente en mujeres durante el embarazo y lactancia cuando aumentan las lactotropas."
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál es la función principal de las somatotropas?",
+      "options": [
+        "Producir prolactina para estimular la lactancia",
+        "Sintetizar hormona de crecimiento (GH) que estimula el crecimiento del organismo",
+        "Secretar hormonas gonadotropas",
+        "Producir hormona estimulante de la tiroides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las somatotropas son células acidófilas que representan aproximadamente el 50% del total de células acidófilas (es decir, alrededor del 20% de todas las células de la adenohipófisis). Su función principal es sintetizar y secretar la hormona de crecimiento o somatotropina (GH). Esta hormona estimula el crecimiento general del organismo, actuando especialmente sobre los huesos largos para promover su elongación y sobre los músculos para aumentar su masa. La GH también tiene efectos metabólicos importantes, incluyendo la movilización de lípidos y la regulación de la glucosa. La deficiencia de GH durante la infancia resulta en enanismo hipofisario, mientras que su exceso causa gigantismo. La regulación de las somatotropas depende de la hormona liberadora de GH (GHRH) del hipotálamo."
+    },
+    {
+      "id": 9,
+      "question": "¿Cuál es el porcentaje de lactotropas dentro de las células acidófilas?",
+      "options": [
+        "5%",
+        "15%",
+        "30%",
+        "50%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las lactotropas representan aproximadamente el 15% del total de células acidófilas. Estas células sintetizan prolactina, una hormona que estimula la producción y secreción de leche en las glándulas mamarias. Aunque representan una proporción menor comparada con las somatotropas, su importancia fisiológica es considerable, especialmente durante el embarazo y la lactancia. Durante estos períodos, el número de lactotropas aumenta significativamente, llegando a representar hasta el 50% de las células acidófilas en mujeres lactantes. La prolactina tiene múltiples funciones además de la estimulación de la lactancia, incluyendo efectos sobre la reproducción y el comportamiento. La regulación de las lactotropas es única entre las células hipofisarias, siendo inhibidas por la dopamina hipotalámica en lugar de ser estimuladas por una hormona liberadora."
+    },
+    {
+      "id": 10,
+      "question": "¿Qué son las somatoamamotropas?",
+      "options": [
+        "Células que producen solo GH",
+        "Células que producen solo prolactina",
+        "Se piensa que representan precursores celulares de somatotropas y lactotropas",
+        "Células que producen ambas hormonas simultáneamente"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las somatoamamotropas son células que se piensa representan precursores celulares de las somatotropas y lactotropas. Esta hipótesis se basa en evidencia morfológica y funcional que sugiere que estas células pueden diferenciarse hacia uno u otro tipo celular. Las somatoamamotropas tienen características intermedias entre somatotropas y lactotropas, lo que apoya su rol como células progenitoras. Este concepto es importante para entender la plasticidad celular en la adenohipófisis y cómo la glándula puede ajustar la proporción de diferentes tipos celulares según las demandas fisiológicas. Durante el embarazo y la lactancia, hay un aumento en la diferenciación de estas células hacia lactotropas. La existencia de somatoamamotropas también explica por qué algunos tumores hipofisarios pueden secretar ambas hormonas."
+    },
+    {
+      "id": 11,
+      "question": "¿Cuál es la proporción de células basófilas en la adenohipófisis?",
+      "options": [
+        "5%",
+        "10%",
+        "25%",
+        "40%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células basófilas representan aproximadamente el 10% del total de células de la adenohipófisis. Estas células se tiñen de color azul o púrpura con técnicas histológicas convencionales debido a su contenido de ácidos nucleicos y proteínas básicas. Las células basófilas incluyen tres subtipos principales: las gonadotropas (que secretan FSH y LH), las corticotropas (que secretan ACTH) y las tirotropas (que secretan TSH). A pesar de representar una proporción menor de células, las basófilas son funcionalmente muy importantes porque producen hormonas que regulan funciones reproductivas, la respuesta al estrés y el metabolismo. La identificación de células basófilas es importante en histología clínica porque los tumores basófilos pueden causar síndromes endocrinos específicos dependiendo del tipo celular afectado."
+    },
+    {
+      "id": 12,
+      "question": "¿Cuál es la función de las gonadotropas?",
+      "options": [
+        "Producir hormona de crecimiento",
+        "Secretar FSH y LH para estimular las gónadas",
+        "Producir ACTH",
+        "Secretar TSH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las gonadotropas son células basófilas que secretan dos hormonas: la hormona folículo estimulante (FSH) y la hormona luteinizante (LH). Estas hormonas estimulan el desarrollo y función de las gónadas (ovarios en mujeres y testículos en hombres). En mujeres, la FSH estimula el desarrollo de los folículos ováricos y la producción de estrógenos, mientras que la LH desencadena la ovulación y estimula la formación del cuerpo lúteo. En hombres, la FSH estimula la espermatogénesis en los túbulos seminíferos, mientras que la LH estimula las células de Leydig para producir testosterona. La regulación de las gonadotropas depende de la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. Los niveles de FSH y LH varían cíclicamente en mujeres en edad reproductiva, controlando el ciclo menstrual."
+    },
+    {
+      "id": 13,
+      "question": "¿Cuál es la función principal de las corticotropas?",
+      "options": [
+        "Estimular la producción de hormonas tiroideas",
+        "Secretar ACTH para estimular la corteza suprarrenal",
+        "Producir prolactina",
+        "Secretar hormona de crecimiento"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las corticotropas son células basófilas que secretan la hormona adrenocorticotropa (ACTH). Esta hormona estimula la corteza suprarrenal para producir y secretar glucocorticoides (principalmente cortisol) y andrógenos adrenales. La ACTH es fundamental para la respuesta del cuerpo al estrés, aumentando los niveles de cortisol que preparan el organismo para enfrentar situaciones de emergencia. La regulación de las corticotropas depende de la hormona liberadora de corticotropina (CRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-suprarrenal (HPA) que regula la producción de ACTH mediante retroalimentación negativa: cuando los niveles de cortisol aumentan, inhiben la liberación de CRH y ACTH. La deficiencia de ACTH resulta en insuficiencia suprarrenal secundaria, mientras que su exceso puede causar síndrome de Cushing."
+    },
+    {
+      "id": 14,
+      "question": "¿Cuál es la función de las tirotropas?",
+      "options": [
+        "Producir hormona de crecimiento",
+        "Secretar TSH para estimular la glándula tiroides",
+        "Producir ACTH",
+        "Secretar prolactina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las tirotropas son células basófilas que secretan la hormona estimulante de la tiroides (TSH o tirotropina). Esta hormona estimula la glándula tiroides para producir y secretar las hormonas tiroideas (T3 y T4), que son esenciales para el metabolismo, el crecimiento y el desarrollo. La TSH también estimula el crecimiento de la glándula tiroides. La regulación de las tirotropas depende de la hormona liberadora de tirotropina (TRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-tiroides que regula la producción de TSH mediante retroalimentación negativa: cuando los niveles de hormonas tiroideas aumentan, inhiben la liberación de TRH y TSH. La deficiencia de TSH resulta en hipotiroidismo secundario, mientras que su exceso puede causar hipertiroidismo. La medición de TSH es una prueba diagnóstica importante para evaluar la función tiroidea."
+    },
+    {
+      "id": 15,
+      "question": "¿Cuál es la proporción de células cromófobas en la adenohipófisis?",
+      "options": [
+        "25%",
+        "40%",
+        "50%",
+        "75%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Las células cromófobas representan aproximadamente el 50% del total de células de la adenohipófisis. Estas células se tiñen débilmente o no se tiñen con técnicas histológicas convencionales debido a su bajo contenido de gránulos secretores. Las cromófobas incluyen dos tipos principales: las células foliculoesteladas (FS) y las células de reserva. Las células foliculoesteladas tienen un rol importante en el soporte estructural y funcional de la glándula, secretando factores que regulan a otras células endócrinas. Las células de reserva son precursoras que pueden diferenciarse en otros tipos celulares según las demandas fisiológicas. La proporción de células cromófobas puede variar según el estado funcional de la glándula. En condiciones de estimulación hormonal crónica, el número de cromófobas puede disminuir a medida que se diferencian en células secretoras especializadas."
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál es la función de las células foliculoesteladas (FS)?",
+      "options": [
+        "Producir hormonas directamente",
+        "Proporcionar soporte estructural y secretar factores reguladores de otras células endócrinas",
+        "Almacenar hormonas",
+        "Transportar hormonas hacia los sinusoides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células foliculoesteladas (FS) son células cromófobas que desempeñan un rol importante en el soporte estructural y funcional de la adenohipófisis. Aunque no producen hormonas directamente, secretan factores reguladores que modulan la actividad de otras células endócrinas. Las células FS se distribuyen entre los cordones de células secretoras y tienen prolongaciones que se extienden hacia los sinusoides. Secretan citocinas y factores de crecimiento que afectan la proliferación, diferenciación y función de las células endócrinas. Las FS también tienen un rol importante en la remodelación del tejido conectivo de la glándula. Estas células se asemejan morfológicamente a los astrocitos del sistema nervioso central. La actividad de las células FS puede ser regulada por hormonas y factores neuroendocrinos, permitiendo que la glándula ajuste su función según las demandas fisiológicas."
+    },
+    {
+      "id": 17,
+      "question": "¿Cómo se transportan las hormonas liberadoras del hipotálamo a la adenohipófisis?",
+      "options": [
+        "A través de los nervios simpáticos",
+        "A través del sistema porta hipofisario",
+        "Por difusión directa a través del espacio subaracnoideo",
+        "Por transporte activo a través del líquido cefalorraquídeo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las hormonas liberadoras del hipotálamo se transportan a la adenohipófisis a través del sistema porta hipofisario. Este sistema consiste en capilares especializados que comienzan en el hipotálamo (donde reciben las hormonas liberadoras de los axones hipotalámicos) y descienden a través del tallo hipofisario para terminar en sinusoides de la adenohipófisis. Este sistema de doble capilaridad permite que las hormonas liberadoras lleguen directamente a las células endócrinas de la adenohipófisis sin diluirse en la circulación sistémica. El sistema porta hipofisario es crucial para la regulación neuroendocrina porque permite que el hipotálamo controle la secreción de hormonas hipofisarias mediante la liberación de factores liberadores específicos. La interrupción del tallo hipofisario resulta en la pérdida de control hipotalámico sobre la adenohipófisis, causando cambios en los niveles hormonales."
+    },
+    {
+      "id": 18,
+      "question": "¿Cuál es la composición del sistema porta hipofisario?",
+      "options": [
+        "Arterias que transportan sangre oxigenada",
+        "Venas que transportan sangre desoxigenada",
+        "Un sistema de capilares que comienza en el hipotálamo y termina en sinusoides de la adenohipófisis",
+        "Nervios que transportan impulsos eléctricos"
+      ],
+      "correctIndex": 2,
+      "explanation": "El sistema porta hipofisario es un sistema vascular especializado que consiste en capilares que comienzan en el hipotálamo (donde reciben las hormonas liberadoras) y descienden a través del tallo hipofisario para terminar en sinusoides de la adenohipófisis. Este sistema de doble capilaridad es único en el cuerpo y permite una comunicación directa entre el hipotálamo y la adenohipófisis. Los capilares primarios en el hipotálamo rodean los axones de las neuronas secretoras, permitiendo que las hormonas liberadoras entren en el sistema vascular. Los capilares secundarios en la adenohipófisis son sinusoides fenestrados que permiten que las hormonas liberadoras salgan del vaso y contacten las células endócrinas. Este sistema es esencial para la regulación neuroendocrina porque proporciona una vía directa para que el hipotálamo controle la secreción de hormonas hipofisarias."
+    },
+    {
+      "id": 19,
+      "question": "¿Cuál es la estructura histológica característica de la neurohipófisis?",
+      "options": [
+        "Células endócrinas organizadas en cordones",
+        "Pituicitos y fibras nerviosas amielínicas entre una red fibrilar con capilares",
+        "Folículos secretores",
+        "Glándulas tubulares"
+      ],
+      "correctIndex": 1,
+      "explanation": "La neurohipófisis tiene una estructura histológica característica compuesta por pituicitos (células de soporte) y fibras nerviosas amielínicas que provienen de los axones de las neuronas hipotalámicas. Estas estructuras se distribuyen entre una abundante red fibrilar con capilares. Los pituicitos se asemejan morfológicamente a los astrocitos del sistema nervioso central y tienen un rol de soporte. Las fibras nerviosas amielínicas son los axones de las neuronas magnocelulares del hipotálamo que sintetizan oxitocina y ADH. Estos axones descienden a través del tallo hipofisario y terminan en la neurohipófisis, donde sus terminales almacenan las hormonas en vesículas. Los capilares de la neurohipófisis son fenestrados, permitiendo que las hormonas liberadas desde las terminales nerviosas entren rápidamente en la circulación. Esta estructura refleja la naturaleza neuroendocrina de la neurohipófisis."
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es la función de los cuerpos de Herring?",
+      "options": [
+        "Producir nuevas hormonas",
+        "Almacenar oxitocina y ADH antes de su liberación",
+        "Regular el flujo sanguíneo en la hipófisis",
+        "Sintetizar neurotransmisores"
+      ],
+      "correctIndex": 1,
+      "explanation": "Los cuerpos de Herring son dilataciones de los axones de las neuronas hipotalámicas que se encuentran en la neurohipófisis. Funcionan como sitios de almacenamiento de oxitocina y ADH (vasopresina) en vesículas secretoras. Estas vesículas contienen las hormonas empaquetadas junto con proteínas transportadoras llamadas neurofisinas. Los cuerpos de Herring representan puntos de acumulación de hormonas antes de su liberación hacia los capilares. Cuando llega un potencial de acción a lo largo del axón, causa la despolarización de la membrana de los cuerpos de Herring, lo que desencadena la exocitosis de las vesículas y la liberación de las hormonas. La cantidad de hormonas almacenadas en los cuerpos de Herring puede variar según el estado fisiológico, siendo mayor en condiciones de estimulación crónica. El daño a los cuerpos de Herring puede resultar en deficiencia de ADH u oxitocina."
+    },
+    {
+      "id": 21,
+      "question": "¿Cuál es la función principal de la ADH (hormona antidiurética)?",
+      "options": [
+        "Estimular la contracción del útero",
+        "Aumentar la presión arterial y aumentar la reabsorción de agua en los riñones",
+        "Estimular la producción de leche",
+        "Estimular el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ADH (hormona antidiurética), también conocida como vasopresina, tiene dos funciones principales. Primero, actúa en los túbulos colectores del riñón, aumentando la permeabilidad del epitelio al agua, lo que resulta en mayor reabsorción de agua y producción de orina más concentrada (efecto antidiurético). Segundo, a concentraciones más altas, causa vasoconstricción de las arteriolas, aumentando la presión arterial (efecto vasopresor). La ADH es regulada por la osmolalidad del plasma: cuando aumenta la osmolalidad (mayor concentración de solutos), se estimula la liberación de ADH para conservar agua. La deficiencia de ADH resulta en diabetes insípida, caracterizada por poliuria (producción excesiva de orina) y polidipsia (sed excesiva). El exceso de ADH puede causar síndrome de secreción inapropiada de ADH (SIADH), resultando en hiponatremia. La ADH es sintetizada en los núcleos supraóptico y paraventricular del hipotálamo."
+    },
+    {
+      "id": 22,
+      "question": "¿Cuál es la función principal de la oxitocina?",
+      "options": [
+        "Aumentar la presión arterial",
+        "Estimular la reabsorción de agua en los riñones",
+        "Desencadenar la contracción del útero grávido y estimular la eyección de leche",
+        "Estimular el crecimiento del organismo"
+      ],
+      "correctIndex": 2,
+      "explanation": "La oxitocina tiene dos funciones principales en la reproducción y lactancia. Primero, desencadena la contracción del útero grávido durante el parto, siendo esencial para la expulsión del feto. Durante el trabajo de parto, la distensión del cuello uterino estimula la liberación de oxitocina en un reflejo neuroendocrino positivo que amplifica las contracciones. Segundo, estimula la contracción de las células mioepiteliales que rodean los alvéolos mamarios, facilitando la eyección de leche durante la lactancia. Este reflejo de eyección de leche se desencadena por la succión del bebé, que estimula los nervios sensoriales del pezón, enviando señales al hipotálamo que resultan en la liberación de oxitocina. La oxitocina también tiene funciones adicionales incluyendo efectos en el comportamiento social y reproductivo. Es sintetizada en los núcleos supraóptico y paraventricular del hipotálamo."
+    },
+    {
+      "id": 23,
+      "question": "¿Cuáles son los núcleos hipotalámicos que producen ADH?",
+      "options": [
+        "Núcleos ventromediales",
+        "Núcleos supraóptico y paraventricular",
+        "Núcleos infundibulares",
+        "Núcleos mamilares"
+      ],
+      "correctIndex": 1,
+      "explanation": "La ADH es sintetizada en dos núcleos hipotalámicos específicos: el núcleo supraóptico y el núcleo paraventricular. Estos núcleos contienen neuronas magnocelulares cuyos axones descienden a través del tallo hipofisario hasta la neurohipófisis. Las neuronas del núcleo supraóptico son especialmente sensibles a cambios en la osmolalidad del plasma, mientras que las del núcleo paraventricular responden a cambios en la presión arterial y el volumen sanguíneo. Ambos núcleos sintetizan ADH (también llamada vasopresina) que se transporta a lo largo de los axones hasta la neurohipófisis, donde se almacena en los cuerpos de Herring. Cuando se estimulan estas neuronas, la ADH se libera hacia la circulación. La lesión de estos núcleos resulta en deficiencia de ADH y diabetes insípida central. La comprensión de la localización de estos núcleos es importante para entender la patofisiología de los trastornos del balance hídrico."
+    },
+    {
+      "id": 24,
+      "question": "¿Cuáles son los núcleos hipotalámicos que producen oxitocina?",
+      "options": [
+        "Núcleos ventromediales",
+        "Núcleos supraóptico y paraventricular",
+        "Núcleos infundibulares",
+        "Núcleos anteriores"
+      ],
+      "correctIndex": 1,
+      "explanation": "La oxitocina es sintetizada en los mismos núcleos que producen ADH: el núcleo supraóptico y el núcleo paraventricular del hipotálamo. Sin embargo, diferentes neuronas dentro de estos núcleos sintetizan oxitocina versus ADH. Las neuronas que producen oxitocina son particularmente sensibles a estímulos mecánicos, como la distensión del útero durante el parto y la succión durante la lactancia. Estos estímulos activan las neuronas oxitocinérgicas a través de reflejos neuroendocrinos, causando la liberación de oxitocina. La oxitocina se transporta a lo largo de los axones hasta la neurohipófisis, donde se almacena en vesículas. Aunque la ADH y la oxitocina se sintetizan en los mismos núcleos, tienen funciones completamente diferentes y se liberan en respuesta a estímulos distintos. La comprensión de la localización de estos núcleos es importante para entender los mecanismos de parto y lactancia."
+    },
+    {
+      "id": 25,
+      "question": "¿Cuál es la relación entre el hipotálamo y la adenohipófisis?",
+      "options": [
+        "El hipotálamo controla la adenohipófisis mediante impulsos nerviosos directos",
+        "El hipotálamo controla la adenohipófisis mediante hormonas liberadoras transportadas por el sistema porta hipofisario",
+        "No hay relación funcional entre el hipotálamo y la adenohipófisis",
+        "La adenohipófisis controla al hipotálamo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo controla la adenohipófisis mediante un sistema neuroendocrino sofisticado. Las neuronas hipotalámicas sintetizan hormonas liberadoras (como TRH, CRH, GnRH, GHRH) que se liberan en los capilares primarios del sistema porta hipofisario. Estas hormonas viajan a través del sistema porta hipofisario hasta la adenohipófisis, donde estimulan las células endócrinas específicas para liberar sus hormonas. Este sistema permite que el hipotálamo, que recibe información del sistema nervioso central y de los órganos periféricos, coordine la función endocrina. La regulación también incluye retroalimentación negativa: las hormonas producidas por las glándulas diana inhiben la liberación de hormonas liberadoras hipotalámicas y hormonas hipofisarias. Este eje hipotálamo-hipófisis-glándula diana es fundamental para mantener la homeostasis. La comprensión de esta relación es crucial para entender cómo el cuerpo coordina respuestas fisiológicas complejas."
+    },
+    {
+      "id": 26,
+      "question": "¿Cuál es la relación entre el hipotálamo y la neurohipófisis?",
+      "options": [
+        "El hipotálamo controla la neurohipófisis mediante hormonas liberadoras",
+        "El hipotálamo tiene conexiones nerviosas directas con la neurohipófisis a través del tallo hipofisario",
+        "No hay relación funcional entre el hipotálamo y la neurohipófisis",
+        "La neurohipófisis controla al hipotálamo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El hipotálamo tiene conexiones nerviosas directas con la neurohipófisis a través del tallo hipofisario. Los axones de las neuronas magnocelulares del hipotálamo descienden a través del tallo hipofisario hasta la neurohipófisis, donde forman terminales nerviosas. Esta conexión directa permite que el hipotálamo controle la liberación de ADH y oxitocina mediante impulsos nerviosos. Cuando el hipotálamo recibe información sobre cambios en la osmolalidad, presión arterial o estímulos mecánicos (como la succión durante la lactancia), puede responder rápidamente liberando estas hormonas. Esta es una diferencia importante entre el control de la adenohipófisis (mediante hormonas liberadoras) y el control de la neurohipófisis (mediante impulsos nerviosos). La naturaleza neural del control de la neurohipófisis explica por qué la liberación de ADH y oxitocina puede ser muy rápida, en contraste con la respuesta más lenta de la adenohipófisis."
+    },
+    {
+      "id": 27,
+      "question": "¿Cuál es el origen embriológico de la adenohipófisis?",
+      "options": [
+        "Neuroectodermo",
+        "Ectodermo bucal (bolsa de Rathke)",
+        "Mesodermo",
+        "Endodermo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La adenohipófisis se origina del ectodermo bucal durante el desarrollo embrionario, específicamente de una estructura llamada bolsa de Rathke. La bolsa de Rathke es una evaginación del techo de la cavidad bucal que crece dorsalmente hacia el hipotálamo. A medida que se desarrolla, la bolsa de Rathke pierde su conexión con la cavidad bucal y se diferencia en la adenohipófisis. Este origen embriológico explica por qué la adenohipófisis es una glándula endocrina verdadera que produce hormonas proteicas, en contraste con la neurohipófisis que se origina del neuroectodermo. Los remanentes de la bolsa de Rathke pueden persistir en algunos individuos, formando quistes de la bolsa de Rathke que pueden causar síntomas si crecen. La comprensión del origen embriológico es importante para entender la patología de los tumores hipofisarios y otras malformaciones congénitas."
+    },
+    {
+      "id": 28,
+      "question": "¿Cuál es el origen embriológico de la neurohipófisis?",
+      "options": [
+        "Ectodermo bucal",
+        "Neuroectodermo (divertículo del piso del tercer ventrículo)",
+        "Mesodermo",
+        "Endodermo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La neurohipófisis se origina del neuroectodermo, específicamente de un divertículo del piso del tercer ventrículo del encéfalo. Este divertículo crece ventralmente hacia la silla turca, formando el tallo hipofisario. A medida que se desarrolla, el divertículo se diferencia en la neurohipófisis, que mantiene su conexión con el hipotálamo a través del tallo hipofisario. Este origen embriológico explica por qué la neurohipófisis tiene una estructura histológica similar a la del sistema nervioso central, con pituicitos (similares a astrocitos) y fibras nerviosas. La neurohipófisis es técnicamente una extensión del sistema nervioso central, no una glándula endocrina verdadera. Esta diferencia en el origen embriológico entre la adenohipófisis y la neurohipófisis explica sus diferencias estructurales y funcionales. La comprensión del desarrollo embriológico es importante para entender las malformaciones congénitas de la hipófisis."
+    },
+    {
+      "id": 29,
+      "question": "¿Cuál es la composición celular aproximada de la adenohipófisis?",
+      "options": [
+        "Acidófilas 50%, basófilas 30%, cromófobas 20%",
+        "Acidófilas 40%, basófilas 10%, cromófobas 50%",
+        "Acidófilas 30%, basófilas 40%, cromófobas 30%",
+        "Acidófilas 20%, basófilas 50%, cromófobas 30%"
+      ],
+      "correctIndex": 1,
+      "explanation": "La composición celular aproximada de la adenohipófisis es: células acidófilas 40%, células basófilas 10% y células cromófobas 50%. Esta proporción puede variar ligeramente según el estado fisiológico del individuo. Las células acidófilas, que incluyen somatotropas y lactotropas, representan la población más pequeña pero funcionalmente muy importante. Las células basófilas, que incluyen gonadotropas, corticotropas y tirotropas, representan una proporción aún menor pero son cruciales para la regulación reproductiva, del estrés y metabólica. Las células cromófobas, que incluyen células foliculoesteladas y células de reserva, representan la población más grande. Durante el embarazo y la lactancia, la proporción de lactotropas aumenta significativamente, lo que puede cambiar la composición general de la glándula. La medición de estas proporciones mediante técnicas histológicas es importante en la evaluación de tumores hipofisarios."
+    },
+    {
+      "id": 30,
+      "question": "¿Cuál es la función de las células de reserva en la adenohipófisis?",
+      "options": [
+        "Producir hormonas directamente",
+        "Actuar como precursoras que pueden diferenciarse en otros tipos celulares según las demandas fisiológicas",
+        "Almacenar hormonas",
+        "Transportar hormonas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Las células de reserva son células cromófobas que actúan como precursoras capaces de diferenciarse en otros tipos celulares según las demandas fisiológicas de la glándula. Esta plasticidad celular permite que la adenohipófisis ajuste la proporción de diferentes tipos celulares en respuesta a cambios en las demandas hormonales. Por ejemplo, durante el embarazo y la lactancia, las células de reserva pueden diferenciarse en lactotropas para aumentar la producción de prolactina. De manera similar, en respuesta a estrés crónico, pueden diferenciarse en corticotropas para aumentar la producción de ACTH. Las células de reserva también pueden reemplazar células endócrinas que se han agotado por estimulación crónica. La capacidad de diferenciación de las células de reserva es regulada por factores de crecimiento y citocinas secretadas por las células foliculoesteladas. Esta característica de plasticidad celular es importante para la adaptación fisiológica a largo plazo."
+    },
+    {
+      "id": 31,
+      "question": "¿Cuál es la importancia del sistema porta hipofisario en la regulación endocrina?",
+      "options": [
+        "Transporta oxígeno a la hipófisis",
+        "Permite que las hormonas liberadoras del hipotálamo lleguen directamente a la adenohipófisis sin diluirse en la circulación sistémica",
+        "Transporta sangre desoxigenada desde la hipófisis",
+        "Proporciona soporte estructural a la hipófisis"
+      ],
+      "correctIndex": 1,
+      "explanation": "El sistema porta hipofisario es crucial para la regulación endocrina porque permite que las hormonas liberadoras del hipotálamo lleguen directamente a la adenohipófisis sin diluirse significativamente en la circulación sistémica. Este sistema de doble capilaridad es único en el cuerpo y proporciona una vía de comunicación directa entre el hipotálamo y la adenohipófisis. Las concentraciones de hormonas liberadoras en el sistema porta hipofisario son mucho más altas que las que se encontrarían si estas hormonas se diluyeran en la circulación sistémica. Esta alta concentración local es importante para asegurar una respuesta rápida y eficiente de las células endócrinas de la adenohipófisis. La interrupción del sistema porta hipofisario, como ocurre en la lesión del tallo hipofisario, resulta en la pérdida de control hipotalámico sobre la adenohipófisis, causando cambios significativos en los niveles hormonales. La comprensión de la importancia del sistema porta hipofisario es fundamental para entender la patofisiología de los trastornos hipofisarios."
+    },
+    {
+      "id": 32,
+      "question": "¿Cuál es la diferencia entre los mecanismos de regulación de la adenohipófisis y la neurohipófisis?",
+      "options": [
+        "Ambas son controladas por hormonas liberadoras",
+        "Ambas son controladas por impulsos nerviosos",
+        "La adenohipófisis es controlada por hormonas liberadoras, mientras que la neurohipófisis es controlada por impulsos nerviosos",
+        "No hay diferencia en los mecanismos de regulación"
+      ],
+      "correctIndex": 2,
+      "explanation": "La adenohipófisis y la neurohipófisis tienen mecanismos de regulación completamente diferentes que reflejan sus orígenes embriológicos y funciones distintas. La adenohipófisis es controlada por hormonas liberadoras del hipotálamo que se transportan a través del sistema porta hipofisario. Este mecanismo es más lento pero permite una regulación más sofisticada y sostenida. En contraste, la neurohipófisis es controlada por impulsos nerviosos que viajan a lo largo de los axones hipotalámicos hasta la neurohipófisis. Este mecanismo es mucho más rápido, permitiendo respuestas inmediatas a estímulos. Esta diferencia en los mecanismos de regulación explica por qué la liberación de ADH y oxitocina puede ser muy rápida en respuesta a estímulos como cambios en la osmolalidad o la succión durante la lactancia. La comprensión de estas diferencias es importante para entender cómo el cuerpo coordina respuestas fisiológicas rápidas (neurohipófisis) y respuestas más sostenidas (adenohipófisis)."
+    },
+    {
+      "id": 33,
+      "question": "¿Cuál es el efecto de la retroalimentación positiva de la oxitocina durante el parto?",
+      "options": [
+        "Disminuye la liberación de oxitocina",
+        "Amplifica las contracciones uterinas en un ciclo de retroalimentación positiva",
+        "No tiene efecto sobre las contracciones uterinas",
+        "Inhibe la contracción del útero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Durante el parto, la oxitocina exhibe un mecanismo de retroalimentación positiva único. La distensión del cuello uterino por la cabeza del feto estimula los nervios sensoriales que envían señales al hipotálamo. Esto resulta en la liberación de oxitocina, que causa la contracción del útero. Estas contracciones aumentan la distensión del cuello uterino, lo que estimula más liberación de oxitocina, amplificando las contracciones en un ciclo de retroalimentación positiva. Este mecanismo continúa hasta que el feto es expulsado, momento en el cual cesa la distensión del cuello uterino y se interrumpe el ciclo. Este es un ejemplo raro de retroalimentación positiva en el cuerpo, en contraste con los mecanismos más comunes de retroalimentación negativa. El mecanismo de retroalimentación positiva de la oxitocina es importante para asegurar que el parto progrese eficientemente. Los fármacos que imitan la oxitocina (como la pitocina) se utilizan clínicamente para inducir o aumentar las contracciones del parto."
+    },
+    {
+      "id": 34,
+      "question": "¿Cuál es el efecto de la retroalimentación positiva de la oxitocina durante la lactancia?",
+      "options": [
+        "Disminuye la eyección de leche",
+        "Amplifica la eyección de leche en respuesta a la succión",
+        "No tiene efecto sobre la lactancia",
+        "Inhibe la producción de leche"
+      ],
+      "correctIndex": 1,
+      "explanation": "Durante la lactancia, la oxitocina también exhibe un mecanismo de retroalimentación positiva. La succión del bebé estimula los nervios sensoriales del pezón, enviando señales al hipotálamo. Esto resulta en la liberación de oxitocina, que causa la contracción de las células mioepiteliales alrededor de los alvéolos mamarios, facilitando la eyección de leche. La eyección de leche permite que el bebé obtenga más leche, lo que estimula más succión y más liberación de oxitocina, amplificando la eyección de leche en un ciclo de retroalimentación positiva. Este mecanismo es importante para asegurar una lactancia eficiente. El reflejo de eyección de leche puede ser condicionado, de modo que ciertos estímulos (como el llanto del bebé) pueden desencadenar la liberación de oxitocina incluso antes de la succión. El estrés y la ansiedad pueden inhibir este reflejo, reduciendo la eyección de leche. La comprensión de este mecanismo es importante para el asesoramiento sobre lactancia."
+    },
+    {
+      "id": 35,
+      "question": "¿Cuál es el efecto de la prolactina en la glándula mamaria?",
+      "options": [
+        "Estimula la producción de leche",
+        "Inhibe la producción de leche",
+        "No tiene efecto sobre la glándula mamaria",
+        "Estimula la eyección de leche"
+      ],
+      "correctIndex": 0,
+      "explanation": "La prolactina estimula la producción de leche en la glándula mamaria. Esta hormona actúa sobre los alvéolos mamarios, estimulando las células epiteliales para sintetizar y secretar los componentes de la leche (proteínas, grasas y lactosa). La prolactina es sintetizada por las lactotropas de la adenohipófisis y su liberación es estimulada por la succión del bebé. Interesantemente, la regulación de la prolactina es diferente a la de otras hormonas hipofisarias: en lugar de ser estimulada por una hormona liberadora, es inhibida por la dopamina hipotalámica. Durante el embarazo, los niveles de prolactina aumentan en preparación para la lactancia. Después del parto, la succión continua estimula la liberación de prolactina, manteniendo la producción de leche. Si la lactancia cesa, los niveles de prolactina disminuyen rápidamente. Es importante notar que aunque la prolactina estimula la producción de leche, la oxitocina es responsable de la eyección de leche."
+    },
+    {
+      "id": 36,
+      "question": "¿Cuál es el efecto de la hormona de crecimiento (GH) en el crecimiento óseo?",
+      "options": [
+        "Inhibe el crecimiento óseo",
+        "Estimula el crecimiento de los huesos largos",
+        "No tiene efecto sobre el crecimiento óseo",
+        "Estimula la resorción ósea"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona de crecimiento (GH) estimula el crecimiento de los huesos largos, siendo uno de sus efectos más importantes. La GH actúa tanto directamente como indirectamente sobre los huesos. Directamente, estimula la proliferación de las células del cartílago de crecimiento (epífisis), promoviendo la elongación ósea. Indirectamente, estimula el hígado para producir factores de crecimiento similar a la insulina (IGF-1), que también promueven el crecimiento óseo. La deficiencia de GH durante la infancia resulta en enanismo hipofisario, caracterizado por baja estatura. El exceso de GH durante la infancia causa gigantismo, mientras que el exceso en adultos (después del cierre de las epífisis) causa acromegalia, caracterizada por el crecimiento de los huesos del cráneo, manos y pies. La GH también tiene efectos metabólicos importantes, incluyendo la movilización de lípidos y la regulación de la glucosa. La regulación de la GH depende de la hormona liberadora de GH (GHRH) del hipotálamo."
+    },
+    {
+      "id": 37,
+      "question": "¿Cuál es el efecto de la hormona estimulante de la tiroides (TSH) en la glándula tiroides?",
+      "options": [
+        "Inhibe la producción de hormonas tiroideas",
+        "Estimula la producción y secreción de hormonas tiroideas (T3 y T4)",
+        "No tiene efecto sobre la glándula tiroides",
+        "Estimula la resorción del tejido tiroideo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona estimulante de la tiroides (TSH o tirotropina) estimula la glándula tiroides para producir y secretar las hormonas tiroideas (T3 y T4). Estas hormonas son esenciales para el metabolismo, el crecimiento y el desarrollo. La TSH también estimula el crecimiento de la glándula tiroides. La regulación de la TSH depende de la hormona liberadora de tirotropina (TRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-tiroides que regula la producción de TSH mediante retroalimentación negativa: cuando los niveles de hormonas tiroideas aumentan, inhiben la liberación de TRH y TSH. La deficiencia de TSH resulta en hipotiroidismo secundario, caracterizado por baja producción de hormonas tiroideas. El exceso de TSH puede resultar en hipertiroidismo secundario. La medición de TSH es una prueba diagnóstica importante para evaluar la función tiroidea. Los niveles de TSH pueden estar elevados en el hipotiroidismo primario (cuando la tiroides no responde a la TSH) o bajos en el hipertiroidismo primario."
+    },
+    {
+      "id": 38,
+      "question": "¿Cuál es el efecto de la hormona adrenocorticotropa (ACTH) en la corteza suprarrenal?",
+      "options": [
+        "Inhibe la producción de glucocorticoides",
+        "Estimula la producción y secreción de glucocorticoides y andrógenos adrenales",
+        "No tiene efecto sobre la corteza suprarrenal",
+        "Estimula la médula suprarrenal"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona adrenocorticotropa (ACTH) estimula la corteza suprarrenal para producir y secretar glucocorticoides (principalmente cortisol) y andrógenos adrenales. La ACTH es fundamental para la respuesta del cuerpo al estrés, aumentando los niveles de cortisol que preparan el organismo para enfrentar situaciones de emergencia. La regulación de la ACTH depende de la hormona liberadora de corticotropina (CRH) del hipotálamo. Existe un eje hipotálamo-hipófisis-suprarrenal (HPA) que regula la producción de ACTH mediante retroalimentación negativa: cuando los niveles de cortisol aumentan, inhiben la liberación de CRH y ACTH. La deficiencia de ACTH resulta en insuficiencia suprarrenal secundaria, caracterizada por baja producción de glucocorticoides. El exceso de ACTH puede resultar en síndrome de Cushing. La medición de ACTH es importante en el diagnóstico diferencial de los trastornos del cortisol. El eje HPA es crucial para la respuesta fisiológica al estrés y la adaptación a largo plazo."
+    },
+    {
+      "id": 39,
+      "question": "¿Cuál es la diferencia entre la hormona folículo estimulante (FSH) en hombres y mujeres?",
+      "options": [
+        "La FSH tiene la misma función en hombres y mujeres",
+        "En mujeres estimula el desarrollo de folículos ováricos, en hombres estimula la espermatogénesis",
+        "La FSH solo funciona en mujeres",
+        "La FSH solo funciona en hombres"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona folículo estimulante (FSH) tiene funciones diferentes pero análogas en hombres y mujeres. En mujeres, la FSH estimula el desarrollo de los folículos ováricos y la producción de estrógenos. En hombres, la FSH estimula la espermatogénesis (producción de espermatozoides) en los túbulos seminíferos de los testículos. A pesar de estas diferencias funcionales, la FSH es la misma hormona en ambos sexos, producida por las gonadotropas de la adenohipófisis. La regulación de la FSH depende de la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. En mujeres, los niveles de FSH varían cíclicamente durante el ciclo menstrual, con un pico preovulatorio que desencadena la ovulación. En hombres, los niveles de FSH son relativamente constantes. La deficiencia de FSH resulta en infertilidad en ambos sexos. La comprensión de las funciones específicas de la FSH en hombres y mujeres es importante para entender los trastornos reproductivos."
+    },
+    {
+      "id": 40,
+      "question": "¿Cuál es la función de la hormona luteinizante (LH) en mujeres?",
+      "options": [
+        "Estimula la producción de estrógenos",
+        "Desencadena la ovulación y estimula la formación del cuerpo lúteo",
+        "Estimula la producción de leche",
+        "Estimula el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hormona luteinizante (LH) tiene una función crucial en el ciclo reproductivo femenino. La LH desencadena la ovulación (liberación del óvulo) cuando alcanza concentraciones elevadas en la mitad del ciclo menstrual. Después de la ovulación, la LH estimula la formación del cuerpo lúteo a partir de las células foliculares restantes. El cuerpo lúteo produce progesterona, que es esencial para mantener el embarazo. Si no ocurre la fertilización, los niveles de LH disminuyen, el cuerpo lúteo se degenera (luteólisis) y comienza la menstruación. La regulación de la LH depende de la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. El pico preovulatorio de LH es desencadenado por la retroalimentación positiva de los estrógenos. La deficiencia de LH resulta en anovulación (falta de ovulación) e infertilidad. La comprensión de la función de la LH es importante para entender el ciclo menstrual y los trastornos reproductivos."
+    },
+    {
+      "id": 41,
+      "question": "¿Cuál es la función de la hormona luteinizante (LH) en hombres?",
+      "options": [
+        "Estimula la producción de espermatozoides",
+        "Estimula las células de Leydig para producir testosterona",
+        "Estimula la producción de leche",
+        "Estimula el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "En hombres, la hormona luteinizante (LH) estimula las células de Leydig (células intersticiales) del testículo para producir testosterona. La testosterona es esencial para el desarrollo y mantenimiento de las características sexuales secundarias masculinas, la función sexual y la espermatogénesis. La LH es producida por las gonadotropas de la adenohipófisis y su liberación es estimulada por la hormona liberadora de gonadotropinas (GnRH) del hipotálamo. A diferencia de las mujeres, donde la LH varía cíclicamente, en hombres los niveles de LH son relativamente constantes. La deficiencia de LH en hombres resulta en hipogonadismo, caracterizado por baja producción de testosterona, disfunción sexual e infertilidad. El exceso de LH puede resultar en hipergonadismo. La comprensión de la función de la LH en hombres es importante para entender los trastornos reproductivos masculinos y la endocrinología sexual."
+    },
+    {
+      "id": 42,
+      "question": "¿Cuál es el efecto del cortisol en la respuesta al estrés?",
+      "options": [
+        "Inhibe la respuesta al estrés",
+        "Prepara el organismo para enfrentar situaciones de emergencia aumentando la glucosa disponible y la presión arterial",
+        "No tiene efecto sobre la respuesta al estrés",
+        "Reduce la presión arterial"
+      ],
+      "correctIndex": 1,
+      "explanation": "El cortisol es un glucocorticoide producido por la corteza suprarrenal en respuesta a la estimulación por ACTH. Durante la respuesta al estrés, el cortisol prepara el organismo para enfrentar situaciones de emergencia mediante varios mecanismos. Aumenta la gluconeogénesis en el hígado, elevando los niveles de glucosa en sangre para proporcionar energía. Aumenta la presión arterial mediante la vasoconstricción y el aumento de la resistencia vascular. Suprime el sistema inmunológico y la inflamación, permitiendo que el cuerpo se enfoque en la respuesta al estrés. Moviliza las reservas de energía (lípidos y proteínas). El cortisol también tiene efectos sobre el comportamiento, aumentando la vigilancia y la concentración. La respuesta al estrés es mediada por el eje hipotálamo-hipófisis-suprarrenal (HPA). El cortisol ejerce retroalimentación negativa sobre el hipotálamo e hipófisis, regulando su propia producción. El estrés crónico puede resultar en niveles elevados de cortisol, causando efectos adversos como inmunosupresión, osteoporosis y trastornos metabólicos."
+    },
+    {
+      "id": 43,
+      "question": "¿Cuál es la diferencia entre la hipófisis anterior y posterior en términos de control neural?",
+      "options": [
+        "Ambas son controladas por el mismo mecanismo neural",
+        "La hipófisis anterior es controlada por hormonas liberadoras, la posterior es controlada por impulsos nerviosos directos",
+        "La hipófisis anterior es controlada por impulsos nerviosos, la posterior por hormonas liberadoras",
+        "Ninguna de las dos es controlada por el sistema nervioso"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hipófisis anterior (adenohipófisis) y la hipófisis posterior (neurohipófisis) tienen mecanismos de control neural completamente diferentes. La adenohipófisis es controlada por hormonas liberadoras del hipotálamo que se transportan a través del sistema porta hipofisario. Este mecanismo es neuroendocrino, combinando elementos del sistema nervioso (síntesis de hormonas en neuronas hipotalámicas) con elementos endocrinos (transporte y acción de hormonas). En contraste, la neurohipófisis es controlada por impulsos nerviosos directos que viajan a lo largo de los axones hipotalámicos. Estos impulsos nerviosos causan la despolarización de las terminales nerviosas en la neurohipófisis, desencadenando la exocitosis de vesículas que contienen ADH y oxitocina. Esta diferencia en los mecanismos de control explica por qué la liberación de ADH y oxitocina puede ser muy rápida (segundos a minutos), mientras que la respuesta de la adenohipófisis es más lenta (minutos a horas). La comprensión de estas diferencias es fundamental para entender la fisiología del sistema endócrino."
+    },
+    {
+      "id": 44,
+      "question": "¿Cuál es el efecto de la dopamina hipotalámica en la prolactina?",
+      "options": [
+        "Estimula la liberación de prolactina",
+        "Inhibe la liberación de prolactina",
+        "No tiene efecto sobre la prolactina",
+        "Estimula la síntesis de prolactina"
+      ],
+      "correctIndex": 1,
+      "explanation": "La dopamina hipotalámica inhibe la liberación de prolactina. Este es un mecanismo de regulación único entre las hormonas hipofisarias, ya que la mayoría de las otras hormonas son estimuladas por hormonas liberadoras. La dopamina se transporta a través del sistema porta hipofisario hasta la adenohipófisis, donde actúa sobre los receptores de dopamina en las lactotropas, inhibiendo la liberación de prolactina. Este mecanismo de inhibición tónica explica por qué la prolactina se libera cuando se interrumpe el control hipotalámico (como en la lesión del tallo hipofisario), resultando en hiperprolactinemia. Durante la lactancia, la succión estimula la liberación de prolactina a través de un reflejo neuroendocrino que probablemente implica la inhibición de la dopamina hipotalámica. Los fármacos que bloquean la dopamina (como los antipsicóticos) pueden causar hiperprolactinemia como efecto secundario. Los agonistas de dopamina (como la bromocriptina) se utilizan clínicamente para reducir los niveles de prolactina en condiciones como el prolactinoma."
+    },
+    {
+      "id": 45,
+      "question": "¿Cuál es la importancia de la retroalimentación negativa en la regulación hormonal?",
+      "options": [
+        "Permite que los niveles hormonales aumenten sin límite",
+        "Mantiene los niveles hormonales dentro de rangos fisiológicos óptimos, evitando concentraciones peligrosas",
+        "No tiene importancia en la regulación hormonal",
+        "Causa fluctuaciones extremas en los niveles hormonales"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa es un mecanismo fundamental de regulación hormonal que mantiene los niveles hormonales dentro de rangos fisiológicos óptimos. Cuando los niveles de una hormona aumentan, esta hormona inhibe los estímulos que causaron su liberación, reduciendo así su propia producción. Este mecanismo evita que los niveles hormonales se eleven excesivamente, lo que podría causar desequilibrios metabólicos graves. Por ejemplo, en el eje hipotálamo-hipófisis-tiroides, cuando los niveles de hormonas tiroideas aumentan, inhiben la liberación de TRH y TSH, reduciendo la estimulación de la tiroides. Sin este mecanismo de retroalimentación negativa, los niveles hormonales podrían alcanzar concentraciones peligrosas. La retroalimentación negativa también permite que el cuerpo se adapte a cambios en las demandas fisiológicas, ajustando la producción hormonal según sea necesario. La comprensión de la retroalimentación negativa es crucial para entender la patofisiología de los trastornos endocrinos."
+    },
+    {
+      "id": 46,
+      "question": "¿Cuál es la diferencia entre la retroalimentación negativa y la retroalimentación positiva?",
+      "options": [
+        "No hay diferencia entre ambas",
+        "La retroalimentación negativa inhibe el estímulo original, la positiva lo amplifica",
+        "La retroalimentación positiva es más común que la negativa",
+        "La retroalimentación negativa amplifica el estímulo original"
+      ],
+      "correctIndex": 1,
+      "explanation": "La retroalimentación negativa y la retroalimentación positiva son mecanismos opuestos de regulación. En la retroalimentación negativa, la respuesta a un estímulo inhibe el estímulo original, reduciendo así la respuesta. Este mecanismo es el más común en el cuerpo y es importante para mantener la homeostasis. En contraste, en la retroalimentación positiva, la respuesta a un estímulo amplifica el estímulo original, aumentando así la respuesta. La retroalimentación positiva es menos común pero es importante en situaciones donde se necesita una respuesta rápida y amplificada. Ejemplos de retroalimentación positiva incluyen la liberación de oxitocina durante el parto y la eyección de leche durante la lactancia. La retroalimentación positiva puede llevar a ciclos de amplificación que eventualmente se detienen cuando se alcanza un punto final (como la expulsión del feto). La comprensión de la diferencia entre estos dos mecanismos es importante para entender cómo el cuerpo regula procesos fisiológicos complejos."
+    },
+    {
+      "id": 47,
+      "question": "¿Cuál es el efecto de la lesión del tallo hipofisario en la producción hormonal?",
+      "options": [
+        "Aumenta la producción de todas las hormonas hipofisarias",
+        "Disminuye la producción de hormonas de la adenohipófisis pero aumenta la de la neurohipófisis",
+        "Disminuye la producción de hormonas de la adenohipófisis, pero la neurohipófisis puede liberar hormonas almacenadas",
+        "No tiene efecto en la producción hormonal"
+      ],
+      "correctIndex": 2,
+      "explanation": "La lesión del tallo hipofisario tiene efectos diferentes en la adenohipófisis y la neurohipófisis. La lesión interrumpe el sistema porta hipofisario, impidiendo que las hormonas liberadoras del hipotálamo lleguen a la adenohipófisis. Esto resulta en una disminución significativa en la producción de hormonas de la adenohipófisis (GH, prolactina, FSH, LH, TSH, ACTH). Sin embargo, la neurohipófisis puede continuar liberando ADH y oxitocina que ya están almacenadas en los cuerpos de Herring. Con el tiempo, los depósitos de ADH y oxitocina se agotan, resultando también en deficiencia de estas hormonas. La lesión del tallo hipofisario puede ocurrir como resultado de traumatismo craneal, cirugía hipofisaria o tumores. Los pacientes con lesión del tallo hipofisario requieren reemplazo hormonal de múltiples hormonas hipofisarias. La comprensión de los efectos de la lesión del tallo hipofisario es importante para el manejo clínico de estos pacientes."
+    },
+    {
+      "id": 48,
+      "question": "¿Cuál es el efecto de la hiperprolactinemia (niveles elevados de prolactina)?",
+      "options": [
+        "Aumenta la producción de leche en hombres",
+        "Causa disfunción sexual, infertilidad y galactorrea (secreción de leche inapropiada)",
+        "No tiene efectos negativos",
+        "Estimula el crecimiento óseo"
+      ],
+      "correctIndex": 1,
+      "explanation": "La hiperprolactinemia (niveles elevados de prolactina) puede causar varios efectos adversos. En mujeres, puede resultar en galactorrea (secreción de leche inapropiada), amenorrea (falta de menstruación) e infertilidad. En hombres, puede causar disfunción eréctil, disminución de la libido e infertilidad. La hiperprolactinemia puede ser causada por un prolactinoma (tumor de lactotropas), medicamentos que bloquean la dopamina (como los antipsicóticos), o hipotiroidismo. El tratamiento de la hiperprolactinemia depende de la causa. Si es causada por un medicamento, puede ser necesario cambiar el medicamento. Si es causada por un prolactinoma, el tratamiento puede incluir agonistas de dopamina (como la bromocriptina) o cirugía. La medición de prolactina es importante en el diagnóstico de la hiperprolactinemia. La comprensión de los efectos de la hiperprolactinemia es importante para el diagnóstico y tratamiento de los trastornos reproductivos."
+    },
+    {
+      "id": 49,
+      "question": "¿Cuál es el efecto de la deficiencia de hormona de crecimiento (GH) en la infancia?",
+      "options": [
+        "Causa gigantismo",
+        "Causa enanismo hipofisario (baja estatura)",
+        "No tiene efecto en el crecimiento",
+        "Causa acromegalia"
+      ],
+      "correctIndex": 1,
+      "explanation": "La deficiencia de hormona de crecimiento (GH) en la infancia causa enanismo hipofisario, caracterizado por baja estatura. Los niños con deficiencia de GH tienen una velocidad de crecimiento reducida y no alcanzan la altura normal para su edad. Además de la baja estatura, pueden tener otras características como cara redonda, depósitos de grasa central y retraso en la maduración ósea. La deficiencia de GH puede ser causada por tumores hipofisarios, daño hipofisario o deficiencia de GHRH. El tratamiento de la deficiencia de GH en la infancia es la terapia de reemplazo con GH recombinante, que puede mejorar significativamente el crecimiento si se inicia temprano. En contraste, el exceso de GH en la infancia causa gigantismo, caracterizado por crecimiento excesivo. La comprensión de los efectos de la deficiencia de GH es importante para el diagnóstico y tratamiento de los trastornos del crecimiento."
+    },
+    {
+      "id": 50,
+      "question": "¿Cuál es el efecto del exceso de hormona de crecimiento (GH) en adultos?",
+      "options": [
+        "Causa gigantismo",
+        "Causa acromegalia, caracterizada por el crecimiento de los huesos del cráneo, manos y pies",
+        "No tiene efecto en los adultos",
+        "Causa enanismo"
+      ],
+      "correctIndex": 1,
+      "explanation": "El exceso de hormona de crecimiento (GH) en adultos causa acromegalia, una condición caracterizada por el crecimiento excesivo de los huesos del cráneo, manos y pies. Esto ocurre porque después del cierre de las epífisis (placas de crecimiento) durante la pubertad, la GH no puede causar el alargamiento de los huesos largos, pero puede estimular el crecimiento óseo en otras áreas. Los pacientes con acromegalia tienen rasgos faciales característicos incluyendo mandíbula prominente, nariz grande y separación de los dientes. También pueden tener agrandamiento de las manos y los pies, y cambios en la voz. La acromegalia es generalmente causada por un tumor productor de GH (somatotropinoma) en la adenohipófisis. El tratamiento de la acromegalia puede incluir cirugía, radioterapia o medicamentos que suprimen la GH. La acromegalia también se asocia con complicaciones como diabetes, hipertensión y enfermedad cardíaca. La comprensión de los efectos del exceso de GH es importante para el diagnóstico y tratamiento de la acromegalia."
+    }
+  ]
+}

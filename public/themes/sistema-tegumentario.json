@@ -1,0 +1,607 @@
+{
+  "id": "sistema-tegumentario",
+  "nombre": "Sistema Tegumentario - Piel",
+  "descripcion": "Preguntas de nivel superior sobre la piel, estructura histológica, funciones y patología",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el porcentaje del peso corporal total que representa la piel?",
+      "opciones": [
+        "5-10%",
+        "15-20%",
+        "25-30%",
+        "35-40%"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La piel representa entre el 15-20% de la masa corporal total, lo que la convierte en el órgano más grande del cuerpo humano. Esta proporción varía ligeramente dependiendo de la edad, sexo y composición corporal del individuo. En los recién nacidos, la piel representa una proporción ligeramente mayor del peso corporal, mientras que en los ancianos puede ser ligeramente menor debido a la pérdida de elasticidad y espesor. El área de superficie de la piel en un adulto promedio es de aproximadamente 1.5-2 metros cuadrados. La importancia de la piel como órgano se refleja en su amplia variedad de funciones, incluyendo protección, regulación térmica, síntesis de vitamina D y percepción sensorial. El conocimiento del porcentaje de peso corporal que representa la piel es importante en medicina forense y en la evaluación de quemaduras."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuáles son los principales anexos cutáneos?",
+      "opciones": [
+        "Solo folículos pilosos",
+        "Folículos pilosos, glándulas sudoríparas, glándulas sebáceas, glándulas mamarias y uñas",
+        "Solo glándulas sudoríparas",
+        "Solo uñas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los anexos cutáneos son estructuras derivadas de la piel que incluyen folículos pilosos, glándulas sudoríparas, glándulas sebáceas, glándulas mamarias y uñas. Los folículos pilosos son invaginaciones de la epidermis que contienen la raíz del pelo y están asociados con glándulas sebáceas. Las glándulas sudoríparas producen sudor que es importante para la regulación térmica y la excreción de sustancias. Las glándulas sebáceas producen sebo que lubrica la piel y el pelo. Las glándulas mamarias son glándulas sudoríparas modificadas especializadas en la producción de leche. Las uñas son estructuras queratinizadas que protegen las puntas de los dedos. Todos estos anexos cutáneos tienen funciones específicas importantes para la homeostasis y protección del cuerpo. El estudio histológico de los anexos cutáneos es importante para el diagnóstico de enfermedades de la piel."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es la estructura histológica fundamental de la piel?",
+      "opciones": [
+        "Solo epidermis",
+        "Epidermis, dermis e hipodermis",
+        "Solo dermis",
+        "Solo hipodermis"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La piel tiene una estructura histológica fundamental compuesta por tres capas bien definidas: la epidermis, la dermis y la hipodermis. La epidermis es la capa más externa, derivada del ectodermo, que proporciona la barrera protectora principal. La dermis es la capa intermedia, derivada del mesodermo, que contiene vasos sanguíneos, nervios y glándulas. La hipodermis es la capa más profunda, también derivada del mesodermo, que contiene tejido adiposo y proporciona aislamiento térmico. Cada capa tiene características histológicas y funciones específicas. La interfaz entre la epidermis y la dermis es ondulada, formando papilas dérmicas que aumentan la superficie de contacto. Esta estructura en capas es importante para la función normal de la piel y para la cicatrización de heridas. El conocimiento de la estructura histológica de la piel es fundamental para entender las enfermedades de la piel y su tratamiento."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuáles son los estratos de la epidermis en la piel gruesa?",
+      "opciones": [
+        "Solo estrato basal",
+        "Estrato corneum, lucidum, granulosum, spinosum y basale",
+        "Solo estrato spinosum",
+        "Estrato corneum y basale"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La epidermis en la piel gruesa (como en las palmas de las manos y plantas de los pies) tiene cinco estratos bien definidos. El estrato corneum es la capa más externa, compuesta por células queratinizadas muertas que se descaman continuamente. El estrato lucidum es una capa clara y delgada que contiene células queratinizadas pero sin núcleo. El estrato granulosum contiene células que están comenzando a queratinizarse y contienen gránulos de queratohialina. El estrato spinosum es la capa más gruesa, llamada así por las espinas que se ven entre las células debido a los desmosomas. El estrato basale es la capa más profunda, compuesta por células cilíndricas que se dividen continuamente para reemplazar las células que se descaman. Cada estrato tiene características histológicas y funciones específicas en el proceso de queratinización. La presencia de cinco estratos es una característica distintiva de la piel gruesa."
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es la diferencia histológica entre la piel gruesa y la piel fina?",
+      "opciones": [
+        "No hay diferencias",
+        "La piel gruesa tiene más estratos epidérmicos, carece de folículos pilosos y tiene epidermis más gruesa; la piel fina tiene menos estratos, contiene folículos pilosos y epidermis más delgada",
+        "La piel gruesa tiene menos estratos",
+        "La piel fina tiene más estratos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La piel gruesa y la piel fina tienen diferencias histológicas importantes. La piel gruesa, encontrada en palmas de manos y plantas de pies, tiene cinco estratos epidérmicos bien definidos, carece de folículos pilosos y tiene una epidermis muy gruesa (hasta 1.5 mm). La piel fina, encontrada en el resto del cuerpo, tiene solo tres o cuatro estratos epidérmicos, contiene folículos pilosos y tiene una epidermis más delgada (0.1-0.3 mm). La piel gruesa también tiene un estrato lucidum bien definido, que generalmente está ausente en la piel fina. La piel gruesa tiene una mayor densidad de glándulas sudoríparas ecrinas. Estas diferencias histológicas reflejan las funciones específicas de cada tipo de piel. La piel gruesa está adaptada para soportar presión y fricción, mientras que la piel fina está adaptada para la sensibilidad y la regulación térmica."
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuál es la función principal del estrato corneum?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Protección contra la pérdida de agua y entrada de patógenos",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El estrato corneum es la capa más externa de la epidermis, compuesta por células queratinizadas muertas que forman la barrera protectora principal de la piel. La función principal del estrato corneum es proteger contra la pérdida de agua transepidérmica y prevenir la entrada de patógenos y sustancias químicas. El estrato corneum actúa como una barrera física impermeable que mantiene la hidratación de las capas más profundas de la piel. Las células del estrato corneum se descaman continuamente y son reemplazadas por células de las capas más profundas. El grosor del estrato corneum varía dependiendo de la localización en el cuerpo, siendo más grueso en la piel gruesa. La alteración del estrato corneum puede resultar en dermatitis y pérdida de agua. El conocimiento de la función del estrato corneum es importante para entender los efectos de los humectantes y otros productos de cuidado de la piel."
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es la composición principal de la matriz extracelular de la dermis?",
+      "opciones": [
+        "Solo elastina",
+        "Colágeno y elastina",
+        "Solo proteoglicanos",
+        "Solo agua"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La matriz extracelular de la dermis está compuesta principalmente por colágeno (aproximadamente 70% del peso seco de la dermis) y elastina (aproximadamente 2-3% del peso seco). El colágeno proporciona resistencia a la tensión y estructura a la piel, mientras que la elastina proporciona elasticidad y permite que la piel vuelva a su forma original después de estirarse. El colágeno en la dermis es principalmente colágeno tipo I y III, siendo el colágeno tipo I el más abundante. La elastina está organizada en fibras elásticas que se ramifican a través de la dermis. Además del colágeno y la elastina, la matriz extracelular contiene proteoglicanos, glucosaminoglicanos y otras proteínas. La proporción de colágeno y elastina cambia con la edad, resultando en la pérdida de elasticidad de la piel en los ancianos. El conocimiento de la composición de la matriz extracelular es importante para entender el envejecimiento de la piel y el desarrollo de arrugas."
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Cuáles son los tipos de células principales en la epidermis?",
+      "opciones": [
+        "Solo queratinocitos",
+        "Queratinocitos, melanocitos, células de Langerhans y células de Merkel",
+        "Solo melanocitos",
+        "Solo células de Langerhans"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La epidermis contiene varios tipos de células principales con funciones específicas. Los queratinocitos son las células más abundantes (aproximadamente 95% de las células epidérmicas) y producen queratina, la proteína estructural principal de la piel. Los melanocitos son células que producen melanina, el pigmento responsable del color de la piel. Las células de Langerhans son células dendríticas que juegan un papel importante en la inmunidad de la piel. Las células de Merkel son células sensoriales que están asociadas con terminaciones nerviosas y son importantes para la percepción del tacto. Cada tipo de célula tiene características histológicas y funciones específicas. Los melanocitos están principalmente en el estrato basale, mientras que las células de Langerhans están distribuidas en toda la epidermis. El conocimiento de los tipos de células epidérmicas es importante para entender las enfermedades de la piel como el melanoma y la psoriasis."
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuál es la función principal de los melanocitos?",
+      "opciones": [
+        "Síntesis de queratina",
+        "Producción de melanina para protección contra la radiación UV",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los melanocitos son células especializadas que producen melanina, el pigmento responsable del color de la piel, cabello y ojos. La función principal de los melanocitos es producir melanina para proteger la piel contra la radiación ultravioleta (UV). La melanina absorbe la radiación UV y la convierte en calor, protegiendo el ADN de las células epidérmicas de daño. Los melanocitos están principalmente localizados en el estrato basale de la epidermis, donde tienen contacto con los queratinocitos. Los melanocitos tienen prolongaciones citoplásmicas que transfieren melanina a los queratinocitos circundantes. La cantidad de melanina producida es controlada por la hormona estimulante de melanocitos (MSH) y está influenciada por la exposición al sol. La melanina existe en dos formas: eumelanina (marrón/negra) y feomelanina (roja/amarilla). El conocimiento de la función de los melanocitos es importante para entender el color de la piel, el bronceado y el melanoma."
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cuál es la estructura histológica de un folículo piloso?",
+      "opciones": [
+        "Solo la raíz del pelo",
+        "Invaginación de la epidermis que contiene la raíz del pelo, vaina radicular interna y externa, y glándula sebácea asociada",
+        "Solo la glándula sebácea",
+        "Solo el tallo del pelo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un folículo piloso es una invaginación de la epidermis que contiene la raíz del pelo y estructuras asociadas. El folículo piloso tiene varias capas histológicas: la vaina radicular externa, que es una continuación de la epidermis; la vaina radicular interna, que está en contacto directo con la raíz del pelo; y la vaina fibrosa, que es una capa de tejido conectivo. La raíz del pelo está compuesta por la matriz pilosa, que contiene células que se dividen continuamente para producir el tallo del pelo. El folículo piloso está asociado con una glándula sebácea que produce sebo. El folículo piloso también contiene el músculo erector del pelo, una fibra muscular lisa que causa la contracción del pelo en respuesta al frío o miedo. La papila dérmica es una estructura vascular que proporciona nutrientes a la matriz pilosa. El conocimiento de la estructura histológica del folículo piloso es importante para entender el crecimiento del pelo y las enfermedades del folículo piloso como la alopecia."
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Cuál es la función de las glándulas sebáceas?",
+      "opciones": [
+        "Producción de sudor",
+        "Producción de sebo para lubricar la piel y el pelo",
+        "Síntesis de melanina",
+        "Producción de queratina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las glándulas sebáceas son glándulas holócrinas que producen sebo, una mezcla de lípidos que lubrica la piel y el pelo. El sebo está compuesto principalmente de triglicéridos, ácidos grasos libres, colesterol y ésteres de colesterol. Las glándulas sebáceas están asociadas con los folículos pilosos y desembocan en el conducto folicular. La producción de sebo es controlada por hormonas andrógenas, particularmente la testosterona y la dihidrotestosterona. Durante la pubertad, la producción de sebo aumenta significativamente, lo que puede resultar en acné. Las glándulas sebáceas están presentes en toda la piel excepto en las palmas de las manos y plantas de los pies. La función del sebo es importante para mantener la hidratación de la piel, proporcionar propiedades antimicrobianas y proteger la piel. El conocimiento de la función de las glándulas sebáceas es importante para entender el acné y otras enfermedades de la piel relacionadas con la producción de sebo."
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Cuáles son los tipos de glándulas sudoríparas?",
+      "opciones": [
+        "Solo glándulas ecrinas",
+        "Glándulas ecrinas y apocrinas",
+        "Solo glándulas apocrinas",
+        "Glándulas mesocrinas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Existen dos tipos principales de glándulas sudoríparas: las glándulas ecrinas y las glándulas apocrinas. Las glándulas ecrinas son glándulas sudoríparas simples que producen sudor acuoso y están distribuidas en toda la piel, siendo más abundantes en las palmas de las manos, plantas de los pies y frente. El sudor ecrino está compuesto principalmente de agua, electrolitos y pequeñas cantidades de proteínas y metabolitos. Las glándulas ecrinas son importantes para la regulación térmica del cuerpo. Las glándulas apocrinas son glándulas sudoríparas modificadas que están localizadas principalmente en las axilas, región inguinal y alrededor del ano. El sudor apocrino es más viscoso que el sudor ecrino y contiene proteínas, lípidos y esteroides. Las glándulas apocrinas se activan durante la pubertad y son responsables del olor corporal. El conocimiento de los tipos de glándulas sudoríparas es importante para entender la regulación térmica y el olor corporal."
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Cuál es la estructura histológica de una uña?",
+      "opciones": [
+        "Solo la placa ungueal",
+        "Matriz ungueal, lecho ungueal, placa ungueal, borde libre y pliegues ungueales",
+        "Solo el lecho ungueal",
+        "Solo los pliegues ungueales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una uña tiene una estructura histológica compleja compuesta por varias partes. La matriz ungueal es la región germinal donde se produce la queratina de la uña. El lecho ungueal es el tejido vascular debajo de la placa ungueal que proporciona nutrientes. La placa ungueal es la estructura visible de la uña, compuesta de células queratinizadas. El borde libre es la parte de la uña que se extiende más allá del dedo. Los pliegues ungueales son las estructuras de piel que rodean la uña. La matriz ungueal es responsable de la producción continua de células que forman la placa ungueal. El crecimiento de la uña es aproximadamente 0.1 mm por día. La salud de la uña depende de la salud de la matriz ungueal y el lecho ungueal. El conocimiento de la estructura histológica de la uña es importante para entender las enfermedades de las uñas como la onicomicosis y la psoriasis ungueal."
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cuál es la función principal de la hipodermis?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Aislamiento térmico, almacenamiento de energía y amortiguación de traumatismos",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hipodermis, también llamada tejido subcutáneo, es la capa más profunda de la piel que tiene varias funciones importantes. La función principal de la hipodermis es proporcionar aislamiento térmico mediante el tejido adiposo que contiene. La hipodermis también almacena energía en forma de grasa, que puede ser movilizada durante períodos de ayuno o aumento de demanda energética. La hipodermis proporciona amortiguación de traumatismos, protegiendo las estructuras más profundas del cuerpo. La hipodermis contiene vasos sanguíneos y nervios que irrigan e inervan la piel. La hipodermis también contiene glándulas sudoríparas y folículos pilosos. El grosor de la hipodermis varía dependiendo de la localización en el cuerpo y del estado nutricional del individuo. El conocimiento de la función de la hipodermis es importante para entender la regulación térmica del cuerpo y la obesidad."
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Cuáles son las principales funciones de la piel?",
+      "opciones": [
+        "Solo protección",
+        "Barrera de protección, papel inmunológico, homeostasis, información sensitiva, función endocrina y excreción",
+        "Solo regulación térmica",
+        "Solo síntesis de vitamina D"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La piel tiene múltiples funciones importantes para la supervivencia del cuerpo. La barrera de protección es la función más importante, protegiéndose contra patógenos, radiación UV y sustancias químicas. El papel inmunológico de la piel incluye la presencia de células de Langerhans y otras células inmunológicas. La homeostasis es mantenida por la regulación térmica mediante la sudoración y la vasodilatación. La información sensitiva es proporcionada por los receptores sensoriales en la piel que detectan temperatura, presión, dolor y tacto. La función endocrina de la piel incluye la síntesis de vitamina D3 en respuesta a la radiación UV. La excreción ocurre a través del sudor, que elimina agua, electrolitos y otros metabolitos. El conocimiento de las múltiples funciones de la piel es importante para entender cómo la piel contribuye a la homeostasis del cuerpo."
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Cuál es la composición del sudor ecrino?",
+      "opciones": [
+        "Solo agua",
+        "Agua, electrolitos (sodio, potasio, cloro), proteínas y metabolitos",
+        "Solo electrolitos",
+        "Solo proteínas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El sudor ecrino está compuesto principalmente de agua (aproximadamente 99%), pero también contiene electrolitos, proteínas y metabolitos. Los electrolitos principales en el sudor son sodio, potasio y cloro. La concentración de sodio en el sudor es aproximadamente 10-50 mEq/L, que es menor que la concentración en el plasma. Las proteínas en el sudor incluyen inmunoglobulinas, lisozima y otras proteínas antimicrobianas. Los metabolitos en el sudor incluyen urea, ácido láctico y otros productos del metabolismo. La composición del sudor varía dependiendo de la tasa de sudoración, la aclimatación al calor y otros factores. El sudor es hipotónico en relación al plasma, lo que significa que contiene una menor concentración de solutos. El conocimiento de la composición del sudor es importante para entender la regulación térmica y la pérdida de electrolitos durante el ejercicio intenso."
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuál es la estructura histológica de los corpúsculos de Meissner?",
+      "opciones": [
+        "Receptores de presión profunda",
+        "Receptores de tacto fino localizados en las papilas dérmicas",
+        "Receptores de temperatura",
+        "Receptores de dolor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los corpúsculos de Meissner son receptores sensoriales especializados que detectan el tacto fino y la presión ligera. Los corpúsculos de Meissner están localizados en las papilas dérmicas, especialmente en áreas de piel sensible como los dedos, labios y genitales. Histológicamente, los corpúsculos de Meissner están compuestos por células de Schwann que rodean terminaciones nerviosas. Los corpúsculos de Meissner son mecanorreceptores rápidamente adaptables, lo que significa que responden rápidamente a cambios en la estimulación pero se adaptan rápidamente si la estimulación persiste. Los corpúsculos de Meissner son importantes para la discriminación táctil y la manipulación de objetos. El conocimiento de la estructura histológica de los corpúsculos de Meissner es importante para entender la sensación táctil y las enfermedades que afectan la sensación táctil."
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Cuál es la estructura histológica de los corpúsculos de Pacini?",
+      "opciones": [
+        "Receptores de tacto fino",
+        "Receptores de presión profunda y vibración localizados en la hipodermis",
+        "Receptores de temperatura",
+        "Receptores de dolor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los corpúsculos de Pacini, también llamados corpúsculos lamelares, son receptores sensoriales especializados que detectan la presión profunda y las vibraciones. Los corpúsculos de Pacini están localizados en la hipodermis y en estructuras más profundas como los tendones y ligamentos. Histológicamente, los corpúsculos de Pacini están compuestos por una terminación nerviosa central rodeada por capas concéntricas de células de Schwann y tejido conectivo, dándoles una apariencia similar a una cebolla. Los corpúsculos de Pacini son mecanorreceptores rápidamente adaptables, lo que significa que responden rápidamente a cambios en la estimulación pero se adaptan rápidamente si la estimulación persiste. Los corpúsculos de Pacini son importantes para la detección de vibraciones y la percepción de la presión profunda. El conocimiento de la estructura histológica de los corpúsculos de Pacini es importante para entender la sensación de presión profunda y vibración."
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es el papel de la barrera hematoencefálica de la piel?",
+      "opciones": [
+        "Permitir el paso de todas las sustancias",
+        "Controlar selectivamente el paso de sustancias entre la sangre y la piel",
+        "Bloquear completamente todas las sustancias",
+        "Solo permitir el paso de agua"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La piel actúa como una barrera que controla selectivamente el paso de sustancias entre la sangre y el ambiente externo. Esta barrera es principalmente proporcionada por el estrato corneum, que es impermeable a la mayoría de las sustancias hidrofílicas pero permeable a las sustancias lipofílicas. La barrera de la piel es importante para prevenir la pérdida excesiva de agua y la entrada de patógenos y sustancias químicas. La integridad de la barrera de la piel es crucial para la salud, y su alteración puede resultar en dermatitis, infecciones y absorción excesiva de sustancias químicas. La barrera de la piel puede ser alterada por factores como el detergente, la humedad excesiva, la sequedad excesiva y el daño mecánico. El conocimiento de la barrera de la piel es importante para entender cómo los medicamentos tópicos penetran la piel y cómo proteger la piel de daños."
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Cuál es la función de los desmosomas en la epidermis?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Adhesión celular entre queratinocitos",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los desmosomas son estructuras de adhesión celular que conectan los queratinocitos entre sí en la epidermis. Los desmosomas están compuestos por proteínas de adhesión llamadas desmogleínas y desmocolinas, que están conectadas a filamentos de queratina en el citoplasma. Los desmosomas son particularmente abundantes en el estrato spinosum, donde se ven como espinas entre las células debido a los desmosomas. La función de los desmosomas es proporcionar una unión fuerte entre los queratinocitos, permitiendo que la epidermis resista el estrés mecánico. Los desmosomas son importantes para mantener la integridad de la epidermis y prevenir la separación de las células. La alteración de los desmosomas puede resultar en enfermedades como el pénfigo, donde los anticuerpos contra las desmogleínas resultan en la separación de los queratinocitos. El conocimiento de la función de los desmosomas es importante para entender la adhesión celular y las enfermedades autoinmunes de la piel."
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Cuál es la estructura histológica de la unión dermoepidérmica?",
+      "opciones": [
+        "Una línea recta",
+        "Una interfaz ondulada con papilas dérmicas que se proyectan hacia la epidermis",
+        "Una línea lisa",
+        "Una estructura sin contacto"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La unión dermoepidérmica es la interfaz entre la epidermis y la dermis que tiene una estructura ondulada característica. Las papilas dérmicas son proyecciones de la dermis que se extienden hacia la epidermis, mientras que las crestas epidérmicas son invaginaciones de la epidermis que se extienden hacia la dermis. Esta estructura ondulada aumenta la superficie de contacto entre la epidermis y la dermis, mejorando la adhesión y el intercambio de nutrientes. La unión dermoepidérmica también contiene la membrana basal, que es una estructura importante para la adhesión entre la epidermis y la dermis. La membrana basal está compuesta por colágeno tipo IV, laminina y otras proteínas. La integridad de la unión dermoepidérmica es importante para mantener la adhesión entre la epidermis y la dermis. La alteración de la unión dermoepidérmica puede resultar en la separación de la epidermis y la dermis, como en las ampollas. El conocimiento de la estructura de la unión dermoepidérmica es importante para entender la cicatrización de heridas y las enfermedades ampollosas."
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cuál es el proceso de queratinización?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Proceso de transformación de queratinocitos vivos en células muertas queratinizadas",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La queratinización es el proceso de transformación de queratinocitos vivos en células muertas queratinizadas que forman la barrera protectora de la piel. El proceso de queratinización comienza en el estrato basale, donde los queratinocitos se dividen continuamente. A medida que los queratinocitos se mueven hacia las capas más superficiales, comienzan a sintetizar queratina y a perder agua. En el estrato granulosum, los queratinocitos acumulan gránulos de queratohialina y comienzan a perder el núcleo. En el estrato corneum, los queratinocitos están completamente queratinizados y muertos, sin núcleo ni organelas. El proceso de queratinización es importante para la formación de la barrera protectora de la piel. El tiempo de tránsito de un queratinocito desde el estrato basale hasta el estrato corneum es aproximadamente 2-4 semanas. La alteración del proceso de queratinización puede resultar en enfermedades de la piel como la psoriasis y la ictiosis. El conocimiento del proceso de queratinización es importante para entender la renovación de la piel y las enfermedades de la piel."
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Cuál es la función de la membrana basal en la piel?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Adhesión entre la epidermis y la dermis, filtración y soporte estructural",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La membrana basal es una estructura importante en la unión dermoepidérmica que tiene varias funciones. La función principal de la membrana basal es proporcionar adhesión entre la epidermis y la dermis, anclando los queratinocitos basales a la dermis. La membrana basal también actúa como una barrera de filtración que controla el paso de moléculas entre la epidermis y la dermis. La membrana basal proporciona soporte estructural a la epidermis. La membrana basal está compuesta por colágeno tipo IV, laminina, nidógeno y perlecan. La membrana basal también contiene integrinas, que son proteínas de adhesión que conectan los queratinocitos basales a la membrana basal. La integridad de la membrana basal es importante para mantener la adhesión entre la epidermis y la dermis. La alteración de la membrana basal puede resultar en ampollas y otras enfermedades ampollosas. El conocimiento de la función de la membrana basal es importante para entender la adhesión entre la epidermis y la dermis."
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Cuál es la estructura histológica de una glándula sudorípara ecrina?",
+      "opciones": [
+        "Solo el conducto",
+        "Porción secretora enrollada en la hipodermis, conducto que atraviesa la dermis y epidermis, y poro sudoríparo",
+        "Solo la porción secretora",
+        "Solo el poro sudoríparo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una glándula sudorípara ecrina tiene una estructura histológica compleja compuesta por varias partes. La porción secretora es una estructura enrollada en la hipodermis que está compuesta por células secretoras cúbicas que rodean un lumen central. El conducto es un tubo que se extiende desde la porción secretora a través de la dermis y la epidermis. El conducto está revestido por células cúbicas simples en la dermis y se estrecha a medida que atraviesa la epidermis. El poro sudoríparo es la abertura del conducto en la superficie de la piel. La porción secretora está rodeada por células mioepiteliales que ayudan a expulsar el sudor. La glándula sudorípara ecrina está inervada por nervios simpáticos colinérgicos. El conocimiento de la estructura histológica de la glándula sudorípara ecrina es importante para entender la producción de sudor y la regulación térmica."
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Cuál es la diferencia entre cicatrización normal y cicatrización queloidea?",
+      "opciones": [
+        "No hay diferencias",
+        "La cicatrización normal resulta en una cicatriz plana; la cicatrización queloidea resulta en una cicatriz elevada y proliferativa que se extiende más allá del sitio de la lesión original",
+        "La cicatrización queloidea es más rápida",
+        "La cicatrización normal es más lenta"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La cicatrización normal y la cicatrización queloidea son procesos diferentes que resultan en resultados histológicos diferentes. En la cicatrización normal, la herida se cura con una cicatriz plana que es similar en color a la piel circundante. En la cicatrización queloidea, hay una proliferación excesiva de tejido conectivo que resulta en una cicatriz elevada, gruesa y a menudo pigmentada que se extiende más allá del sitio de la lesión original. La cicatrización queloidea es más común en individuos de piel oscura y en ciertas localizaciones del cuerpo como el pecho y los hombros. Histológicamente, los queloides contienen una cantidad excesiva de colágeno desorganizado. La cicatrización queloidea es causada por una respuesta de cicatrización anormal que resulta en la deposición excesiva de colágeno. El conocimiento de la diferencia entre cicatrización normal y cicatrización queloidea es importante para entender la cicatrización de heridas y el tratamiento de queloides."
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Cuál es la función de las células de Langerhans en la piel?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Presentación de antígenos y respuesta inmunológica",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células de Langerhans son células dendríticas que juegan un papel importante en la inmunidad de la piel. La función principal de las células de Langerhans es capturar antígenos en la piel y presentarlos a los linfocitos T en los ganglios linfáticos. Las células de Langerhans están distribuidas en toda la epidermis, siendo más abundantes en el estrato spinosum. Las células de Langerhans tienen prolongaciones citoplásmicas que se extienden entre los queratinocitos. Las células de Langerhans contienen organelas especializadas llamadas gránulos de Birbeck, que tienen una apariencia característica de raqueta de tenis. Las células de Langerhans son importantes para la respuesta inmunológica de contacto, que es importante para la hipersensibilidad de contacto. La alteración de las células de Langerhans puede resultar en una disminución de la respuesta inmunológica de la piel. El conocimiento de la función de las células de Langerhans es importante para entender la inmunidad de la piel y las enfermedades inmunológicas de la piel."
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Cuál es la estructura histológica del estrato lucidum?",
+      "opciones": [
+        "Células vivas con núcleo",
+        "Capa clara de células queratinizadas sin núcleo, presente solo en piel gruesa",
+        "Células con gránulos de queratohialina",
+        "Células vivas que se dividen"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El estrato lucidum es una capa clara y delgada de la epidermis que está presente solo en la piel gruesa, como en las palmas de las manos y plantas de los pies. El estrato lucidum está compuesto por células queratinizadas que han perdido el núcleo pero aún contienen filamentos de queratina. El estrato lucidum aparece claro bajo el microscopio porque las células no contienen gránulos de queratohialina como el estrato granulosum. El estrato lucidum es una transición entre el estrato granulosum y el estrato corneum. El estrato lucidum está ausente en la piel fina, donde el estrato granulosum está en contacto directo con el estrato corneum. El grosor del estrato lucidum varía dependiendo de la localización en el cuerpo y del grado de queratinización. El conocimiento de la estructura histológica del estrato lucidum es importante para entender la diferencia entre la piel gruesa y la piel fina."
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Cuál es la función de la vitamina D sintetizada en la piel?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Regulación del metabolismo del calcio y fosfato, función inmunológica y regulación del crecimiento celular",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La piel sintetiza vitamina D3 (colecalciferol) en respuesta a la radiación ultravioleta B (UVB). La vitamina D3 sintetizada en la piel es transportada al hígado, donde es convertida a 25-hidroxivitamina D, que es la forma de almacenamiento de la vitamina D. La 25-hidroxivitamina D es luego convertida en los riñones a 1,25-dihidroxivitamina D, que es la forma activa de la vitamina D. La función principal de la vitamina D es regular el metabolismo del calcio y fosfato, manteniendo la homeostasis mineral. La vitamina D también tiene funciones inmunológicas importantes, incluyendo la regulación de la respuesta inmunológica innata y adaptativa. La vitamina D también regula el crecimiento celular y la diferenciación. La deficiencia de vitamina D puede resultar en raquitismo en los niños y osteomalacia en los adultos. El conocimiento de la función de la vitamina D sintetizada en la piel es importante para entender la importancia de la exposición al sol y la deficiencia de vitamina D."
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Cuál es la estructura histológica del estrato granulosum?",
+      "opciones": [
+        "Células vivas con núcleo",
+        "Capa de células que contienen gránulos de queratohialina y comienzan a perder el núcleo",
+        "Células queratinizadas sin núcleo",
+        "Células que se dividen continuamente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El estrato granulosum es una capa de la epidermis que contiene células que están comenzando a queratinizarse. Las células del estrato granulosum contienen gránulos de queratohialina, que son precursores de la queratina. El estrato granulosum también contiene gránulos de laminina, que son precursores de la barrera lipídica. Las células del estrato granulosum comienzan a perder el núcleo, aunque algunas células aún pueden tener un núcleo picnótico. El estrato granulosum es la última capa de la epidermis que contiene células vivas. El grosor del estrato granulosum varía dependiendo de la localización en el cuerpo, siendo más grueso en la piel gruesa. El estrato granulosum es importante para la transición entre las células vivas de la epidermis viable y las células muertas del estrato corneum. El conocimiento de la estructura histológica del estrato granulosum es importante para entender el proceso de queratinización."
+    },
+    {
+      "id": 30,
+      "pregunta": "¿Cuál es la función del músculo erector del pelo?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Contracción en respuesta al frío o miedo, causando que el pelo se erice",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El músculo erector del pelo es una fibra muscular lisa que está unida al folículo piloso y a la dermis. La función del músculo erector del pelo es contraerse en respuesta al frío o miedo, causando que el pelo se erice. La contracción del músculo erector del pelo es controlada por el sistema nervioso simpático. En los humanos, la erección del pelo es principalmente una respuesta vestigial que no tiene una función importante, pero en otros mamíferos, la erección del pelo es importante para aumentar el aislamiento térmico o para parecer más grande ante los depredadores. La contracción del músculo erector del pelo también puede resultar en la expulsión de sebo de la glándula sebácea asociada. El conocimiento de la función del músculo erector del pelo es importante para entender la respuesta al frío y al miedo."
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Cuál es la estructura histológica de una glándula mamaria?",
+      "opciones": [
+        "Solo los conductos",
+        "Glándula sudorípara modificada compuesta por acinos secretores, conductos y pezón",
+        "Solo los acinos",
+        "Solo el pezón"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una glándula mamaria es una glándula sudorípara modificada que está especializada en la producción de leche. La glándula mamaria está compuesta por acinos secretores que están rodeados por células mioepiteliales. Los acinos secretores están conectados a conductos que se ramifican y convergen en conductos más grandes. Los conductos se abren en el pezón, que es la estructura a través de la cual se expulsa la leche. La glándula mamaria está inervada por nervios simpáticos y parasimpáticos. La producción de leche es controlada por la hormona prolactina, que es secretada por la hipófisis anterior. La eyección de la leche es controlada por la hormona oxitocina, que es secretada por la hipófisis posterior. La glándula mamaria está activa principalmente durante la lactancia, pero puede producir pequeñas cantidades de secreción en otros momentos. El conocimiento de la estructura histológica de la glándula mamaria es importante para entender la lactancia y las enfermedades de la mama."
+    },
+    {
+      "id": 32,
+      "pregunta": "¿Cuál es la función de los proteoglicanos en la dermis?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Retención de agua y propiedades mecánicas de la dermis",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los proteoglicanos son moléculas grandes compuestas por una proteína central con cadenas de glucosaminoglicanos unidos. Los proteoglicanos en la dermis, como el agrecano y el versicano, juegan un papel importante en la retención de agua y las propiedades mecánicas de la dermis. Los proteoglicanos pueden retener grandes cantidades de agua, lo que proporciona turgencia a la piel. Los proteoglicanos también interactúan con las fibras de colágeno y elastina, influyendo en las propiedades mecánicas de la dermis. Los proteoglicanos también juegan un papel en la regulación de la adhesión celular y la migración celular. La alteración de los proteoglicanos puede resultar en cambios en las propiedades mecánicas de la piel, como en el envejecimiento. El conocimiento de la función de los proteoglicanos en la dermis es importante para entender las propiedades mecánicas de la piel y el envejecimiento de la piel."
+    },
+    {
+      "id": 33,
+      "pregunta": "¿Cuál es la estructura histológica del estrato spinosum?",
+      "opciones": [
+        "Células vivas que se dividen continuamente",
+        "Capa de células con desmosomas prominentes que crean una apariencia espinosa",
+        "Células queratinizadas sin núcleo",
+        "Células que contienen gránulos de queratohialina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El estrato spinosum es la capa más gruesa de la epidermis, llamada así por las espinas que se ven entre las células bajo el microscopio. Las espinas son en realidad desmosomas, que son estructuras de adhesión celular que conectan los queratinocitos entre sí. El estrato spinosum está compuesto por células vivas que aún pueden dividirse, aunque la tasa de división es menor que en el estrato basale. Las células del estrato spinosum contienen filamentos de queratina que están organizados en haces. El estrato spinosum es importante para proporcionar resistencia mecánica a la epidermis. El estrato spinosum también contiene células de Langerhans y células de Merkel. El grosor del estrato spinosum varía dependiendo de la localización en el cuerpo, siendo más grueso en la piel gruesa. El conocimiento de la estructura histológica del estrato spinosum es importante para entender la adhesión celular y la resistencia mecánica de la epidermis."
+    },
+    {
+      "id": 34,
+      "pregunta": "¿Cuál es la función de las células de Merkel en la piel?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Percepción del tacto fino y presión, funcionando como mecanorreceptores",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células de Merkel son células sensoriales especializadas que están localizadas principalmente en el estrato basale de la epidermis. Las células de Merkel funcionan como mecanorreceptores que detectan el tacto fino y la presión. Las células de Merkel están asociadas con terminaciones nerviosas que forman los discos de Merkel. Los discos de Merkel son estructuras sensoriales que son importantes para la discriminación táctil. Las células de Merkel contienen gránulos de neurosecreción que pueden liberar neurotransmisores. Las células de Merkel están distribuidas de manera no uniforme en la piel, siendo más abundantes en áreas de alta sensibilidad como los dedos y los labios. El conocimiento de la función de las células de Merkel es importante para entender la sensación táctil y las enfermedades que afectan la sensación táctil."
+    },
+    {
+      "id": 35,
+      "pregunta": "¿Cuál es la estructura histológica del estrato basale?",
+      "opciones": [
+        "Células queratinizadas sin núcleo",
+        "Capa de células cilíndricas que se dividen continuamente, con melanocitos y células de Merkel",
+        "Células que contienen gránulos de queratohialina",
+        "Células muertas queratinizadas"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El estrato basale es la capa más profunda de la epidermis, compuesta por células cilíndricas que se dividen continuamente. El estrato basale está en contacto directo con la membrana basal, que lo une a la dermis. Las células del estrato basale contienen filamentos de queratina que están anclados a la membrana basal mediante hemidesmosomas. El estrato basale contiene melanocitos que producen melanina y células de Merkel que son mecanorreceptores. El estrato basale es la capa germinal de la epidermis, donde se originan todas las células que forman las capas más superficiales. Las células del estrato basale se dividen mediante mitosis, con una célula hija que permanece en el estrato basale y la otra que se mueve hacia las capas más superficiales. El tiempo de renovación de la epidermis es aproximadamente 2-4 semanas. El conocimiento de la estructura histológica del estrato basale es importante para entender la renovación de la epidermis."
+    },
+    {
+      "id": 36,
+      "pregunta": "¿Cuál es la función de la radiación UV en la síntesis de vitamina D?",
+      "opciones": [
+        "Destruir la vitamina D",
+        "Convertir el 7-dehidrocolesterol en vitamina D3",
+        "Sintetizar melanina",
+        "Destruir los melanocitos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La radiación ultravioleta B (UVB) es necesaria para la síntesis de vitamina D en la piel. La radiación UVB convierte el 7-dehidrocolesterol, un precursor de la vitamina D que está presente en la piel, en vitamina D3 (colecalciferol). La cantidad de vitamina D sintetizada depende de la intensidad de la radiación UVB, la duración de la exposición y la pigmentación de la piel. La melanina absorbe la radiación UVB, por lo que las personas con piel más oscura sintetizan menos vitamina D que las personas con piel más clara. La síntesis de vitamina D es máxima cuando el sol está alto en el cielo, entre las 10 de la mañana y las 3 de la tarde. La exposición al sol de 10-30 minutos varias veces a la semana es generalmente suficiente para mantener los niveles adecuados de vitamina D. El conocimiento de la función de la radiación UV en la síntesis de vitamina D es importante para entender la importancia de la exposición al sol y el riesgo de cáncer de piel."
+    },
+    {
+      "id": 37,
+      "pregunta": "¿Cuál es la estructura histológica de las papilas dérmicas?",
+      "opciones": [
+        "Proyecciones de la epidermis",
+        "Proyecciones de la dermis que se extienden hacia la epidermis, contienen capilares y terminaciones nerviosas",
+        "Estructuras sin función",
+        "Proyecciones de la hipodermis"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las papilas dérmicas son proyecciones de la dermis que se extienden hacia la epidermis, formando la interfaz ondulada característica entre la epidermis y la dermis. Las papilas dérmicas contienen capilares que proporcionan nutrientes a la epidermis. Las papilas dérmicas también contienen terminaciones nerviosas, incluyendo corpúsculos de Meissner que detectan el tacto fino. Las papilas dérmicas están alineadas con las crestas epidérmicas, que son invaginaciones de la epidermis que se extienden hacia la dermis. La estructura ondulada de las papilas dérmicas y las crestas epidérmicas aumenta la superficie de contacto entre la epidermis y la dermis, mejorando la adhesión y el intercambio de nutrientes. El patrón de las papilas dérmicas es único para cada individuo y es la base de las huellas dactilares. El conocimiento de la estructura histológica de las papilas dérmicas es importante para entender la adhesión entre la epidermis y la dermis."
+    },
+    {
+      "id": 38,
+      "pregunta": "¿Cuál es la función de la barrera lipídica en el estrato corneum?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Prevención de la pérdida de agua y entrada de patógenos",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La barrera lipídica del estrato corneum está compuesta por lípidos como ceramidas, colesterol y ácidos grasos libres que están organizados en una estructura de bicapa. La barrera lipídica es importante para prevenir la pérdida de agua transepidérmica y la entrada de patógenos y sustancias químicas. La barrera lipídica es la razón por la que el estrato corneum es impermeable a las sustancias hidrofílicas pero permeable a las sustancias lipofílicas. La alteración de la barrera lipídica puede resultar en dermatitis y pérdida excesiva de agua. La barrera lipídica puede ser alterada por factores como los detergentes, la humedad excesiva, la sequedad excesiva y el daño mecánico. El conocimiento de la función de la barrera lipídica es importante para entender cómo los medicamentos tópicos penetran la piel y cómo proteger la piel de daños."
+    },
+    {
+      "id": 39,
+      "pregunta": "¿Cuál es la estructura histológica de los hemidesmosomas?",
+      "opciones": [
+        "Estructuras de adhesión entre queratinocitos",
+        "Estructuras de adhesión entre los queratinocitos basales y la membrana basal",
+        "Estructuras de adhesión entre la dermis y la hipodermis",
+        "Estructuras sin función"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los hemidesmosomas son estructuras de adhesión que conectan los queratinocitos basales a la membrana basal. Los hemidesmosomas están compuestos por proteínas de adhesión como la integrina α6β4 y la proteína BP180. Los hemidesmosomas están conectados a filamentos de queratina en el citoplasma de los queratinocitos basales. Los hemidesmosomas son importantes para mantener la adhesión entre la epidermis y la dermis. La alteración de los hemidesmosomas puede resultar en ampollas, como en el pénfigo bulloso. El conocimiento de la estructura histológica de los hemidesmosomas es importante para entender la adhesión entre la epidermis y la dermis y las enfermedades ampollosas."
+    },
+    {
+      "id": 40,
+      "pregunta": "¿Cuál es la función de los vasos sanguíneos en la dermis?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Suministro de nutrientes y oxígeno a la piel, regulación térmica y respuesta inmunológica",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los vasos sanguíneos en la dermis tienen varias funciones importantes. La función principal es suministrar nutrientes y oxígeno a la piel, incluyendo la epidermis que no tiene vasos sanguíneos propios. Los vasos sanguíneos también están involucrados en la regulación térmica, dilatándose para aumentar el flujo de sangre a la piel cuando el cuerpo necesita perder calor. Los vasos sanguíneos también están involucrados en la respuesta inmunológica, permitiendo que los leucocitos accedan a la piel. Los vasos sanguíneos en la dermis están organizados en dos plexos: un plexo superficial en la dermis papilar y un plexo profundo en la dermis reticular. Los capilares en las papilas dérmicas están en estrecho contacto con la epidermis, permitiendo el intercambio de nutrientes. El conocimiento de la función de los vasos sanguíneos en la dermis es importante para entender la nutrición de la piel y la regulación térmica."
+    },
+    {
+      "id": 41,
+      "pregunta": "¿Cuál es la estructura histológica de los nervios en la piel?",
+      "opciones": [
+        "Solo fibras sensoriales",
+        "Fibras sensoriales y motoras, incluyendo terminaciones libres, corpúsculos sensoriales y fibras motoras para glándulas y músculos",
+        "Solo fibras motoras",
+        "Estructuras sin función"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los nervios en la piel están compuestos por fibras sensoriales y motoras. Las fibras sensoriales incluyen terminaciones libres que detectan dolor y temperatura, y corpúsculos sensoriales como los corpúsculos de Meissner y Pacini que detectan tacto y presión. Las fibras motoras incluyen fibras simpáticas que inervan las glándulas sudoríparas y el músculo erector del pelo. Los nervios en la piel están distribuidos principalmente en la dermis, con algunas fibras que se extienden hacia la epidermis. Los nervios están organizados en plexos que se ramifican para inervar diferentes estructuras de la piel. El conocimiento de la estructura histológica de los nervios en la piel es importante para entender la sensación y las funciones motoras de la piel."
+    },
+    {
+      "id": 42,
+      "pregunta": "¿Cuál es la función del colágeno tipo I en la dermis?",
+      "opciones": [
+        "Elasticidad",
+        "Resistencia a la tensión y estructura de la dermis",
+        "Síntesis de melanina",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El colágeno tipo I es el colágeno más abundante en la dermis, representando aproximadamente el 70-80% del colágeno total. La función principal del colágeno tipo I es proporcionar resistencia a la tensión y estructura a la dermis. El colágeno tipo I está organizado en fibras que se entrelazan para formar una red tridimensional. El colágeno tipo I proporciona la mayoría de la resistencia a la tensión de la piel. La alteración del colágeno tipo I, como en el envejecimiento o la exposición al sol, puede resultar en la pérdida de resistencia de la piel y la formación de arrugas. El conocimiento de la función del colágeno tipo I en la dermis es importante para entender las propiedades mecánicas de la piel y el envejecimiento de la piel."
+    },
+    {
+      "id": 43,
+      "pregunta": "¿Cuál es la función de la elastina en la dermis?",
+      "opciones": [
+        "Resistencia a la tensión",
+        "Elasticidad y capacidad de la piel para volver a su forma original después de estirarse",
+        "Síntesis de melanina",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La elastina es una proteína en la dermis que proporciona elasticidad y permite que la piel vuelva a su forma original después de estirarse. La elastina está organizada en fibras elásticas que se ramifican a través de la dermis. La elastina representa aproximadamente el 2-3% del peso seco de la dermis, pero es crucial para la elasticidad de la piel. La elastina está asociada con proteoglicanos y otras proteínas que la rodean. La alteración de la elastina, como en el envejecimiento o la exposición al sol, puede resultar en la pérdida de elasticidad de la piel y la formación de arrugas. La elastosis solar es una condición donde la elastina se degrada por la exposición crónica al sol. El conocimiento de la función de la elastina en la dermis es importante para entender la elasticidad de la piel y el envejecimiento de la piel."
+    },
+    {
+      "id": 44,
+      "pregunta": "¿Cuál es la estructura histológica de las crestas epidérmicas?",
+      "opciones": [
+        "Proyecciones de la dermis",
+        "Invaginaciones de la epidermis que se extienden hacia la dermis, formando patrones únicos de huellas dactilares",
+        "Estructuras sin función",
+        "Proyecciones de la hipodermis"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las crestas epidérmicas son invaginaciones de la epidermis que se extienden hacia la dermis, formando patrones únicos que son la base de las huellas dactilares. Las crestas epidérmicas están alineadas con las papilas dérmicas, formando la interfaz ondulada característica entre la epidermis y la dermis. El patrón de las crestas epidérmicas es único para cada individuo y no cambia durante la vida. El patrón de las crestas epidérmicas es determinado genéticamente y también influenciado por factores ambientales durante el desarrollo fetal. El conocimiento de la estructura histológica de las crestas epidérmicas es importante para entender las huellas dactilares y su uso en identificación forense."
+    },
+    {
+      "id": 45,
+      "pregunta": "¿Cuál es la función de los linfáticos en la piel?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Drenaje de fluido intersticial y transporte de antígenos a los ganglios linfáticos",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los vasos linfáticos en la piel tienen varias funciones importantes. La función principal es drenar el fluido intersticial de la piel y transportarlo a los ganglios linfáticos. Los vasos linfáticos también transportan antígenos y células inmunológicas a los ganglios linfáticos, donde se inicia la respuesta inmunológica. Los vasos linfáticos en la piel están organizados en plexos que se ramifican para drenar diferentes áreas de la piel. Los vasos linfáticos están presentes principalmente en la dermis, con algunos vasos en la hipodermis. El conocimiento de la función de los linfáticos en la piel es importante para entender el drenaje de fluido y la respuesta inmunológica de la piel."
+    },
+    {
+      "id": 46,
+      "pregunta": "¿Cuál es la estructura histológica de los fibroblastos en la dermis?",
+      "opciones": [
+        "Células que producen melanina",
+        "Células que sintetizan colágeno, elastina y matriz extracelular",
+        "Células que producen sudor",
+        "Células que producen queratina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los fibroblastos son las células principales de la dermis que sintetizan colágeno, elastina y otros componentes de la matriz extracelular. Los fibroblastos son células fusiformes que tienen un núcleo ovalado y un citoplasma basófilo. Los fibroblastos tienen un retículo endoplásmico rugoso bien desarrollado y un aparato de Golgi prominente, reflejando su actividad secretora. Los fibroblastos también sintetizan proteoglicanos y glucosaminoglicanos. Los fibroblastos están distribuidos en toda la dermis, siendo más abundantes en la dermis reticular. Los fibroblastos también juegan un papel importante en la cicatrización de heridas y la reparación de tejidos. El conocimiento de la estructura histológica de los fibroblastos en la dermis es importante para entender la síntesis de la matriz extracelular y la cicatrización de heridas."
+    },
+    {
+      "id": 47,
+      "pregunta": "¿Cuál es la función de los mastocitos en la dermis?",
+      "opciones": [
+        "Síntesis de colágeno",
+        "Liberación de mediadores inflamatorios como la histamina en respuesta a estímulos",
+        "Síntesis de melanina",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los mastocitos son células inmunológicas en la dermis que contienen gránulos llenos de mediadores inflamatorios como la histamina, la triptasa y la heparina. La función principal de los mastocitos es liberar estos mediadores inflamatorios en respuesta a estímulos como alérgenos, traumatismo mecánico o estrés. La liberación de histamina causa vasodilatación, aumento de la permeabilidad vascular y prurito. Los mastocitos también pueden liberar citoquinas que regulan la respuesta inmunológica. Los mastocitos están distribuidos en toda la dermis, siendo más abundantes alrededor de los vasos sanguíneos y los nervios. El conocimiento de la función de los mastocitos en la dermis es importante para entender las reacciones alérgicas y la inflamación de la piel."
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Cuál es la estructura histológica de los macrófagos en la dermis?",
+      "opciones": [
+        "Células que producen melanina",
+        "Células que fagocitan patógenos y debris, presentan antígenos",
+        "Células que producen sudor",
+        "Células que producen queratina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los macrófagos son células inmunológicas en la dermis que tienen varias funciones importantes. Los macrófagos fagocitan patógenos, células muertas y otros debris. Los macrófagos también presentan antígenos a los linfocitos T, iniciando la respuesta inmunológica adaptativa. Los macrófagos en la piel se llaman células de Langerhans cuando están en la epidermis y células dendríticas cuando están en la dermis. Los macrófagos también producen citoquinas que regulan la respuesta inmunológica y la inflamación. Los macrófagos están distribuidos en toda la dermis, siendo más abundantes alrededor de los vasos sanguíneos. El conocimiento de la estructura histológica de los macrófagos en la dermis es importante para entender la respuesta inmunológica de la piel."
+    },
+    {
+      "id": 49,
+      "pregunta": "¿Cuál es la función de la dermis reticular?",
+      "opciones": [
+        "Síntesis de melanina",
+        "Proporciona resistencia mecánica y contiene vasos sanguíneos, nervios y glándulas",
+        "Síntesis de colágeno",
+        "Producción de sudor"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La dermis reticular es la capa más profunda de la dermis, compuesta principalmente de fibras de colágeno gruesas que están organizadas en una red tridimensional. La función principal de la dermis reticular es proporcionar resistencia mecánica a la piel. La dermis reticular también contiene vasos sanguíneos, nervios y glándulas sudoríparas. La dermis reticular contiene más colágeno que la dermis papilar y tiene menos células. La dermis reticular está en contacto directo con la hipodermis. El conocimiento de la función de la dermis reticular es importante para entender las propiedades mecánicas de la piel."
+    },
+    {
+      "id": 50,
+      "pregunta": "¿Cuál es la diferencia entre la dermis papilar y la dermis reticular?",
+      "opciones": [
+        "No hay diferencias",
+        "La dermis papilar es superficial, contiene papilas dérmicas y más células; la dermis reticular es profunda, contiene fibras de colágeno gruesas y menos células",
+        "La dermis papilar es más profunda",
+        "La dermis reticular contiene más células"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La dermis está dividida en dos capas: la dermis papilar y la dermis reticular, que tienen características histológicas y funciones diferentes. La dermis papilar es la capa más superficial de la dermis que contiene las papilas dérmicas que se proyectan hacia la epidermis. La dermis papilar contiene fibras de colágeno finas y más células, incluyendo fibroblastos, células inmunológicas y vasos sanguíneos. La dermis papilar es importante para proporcionar nutrientes a la epidermis. La dermis reticular es la capa más profunda de la dermis que contiene fibras de colágeno gruesas que están organizadas en una red tridimensional. La dermis reticular contiene menos células que la dermis papilar. La dermis reticular proporciona la mayoría de la resistencia mecánica de la piel. El conocimiento de la diferencia entre la dermis papilar y la dermis reticular es importante para entender la estructura y las propiedades mecánicas de la piel."
+    }
+  ]
+}
