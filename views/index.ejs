@@ -8,6 +8,13 @@
 </head>
 <body>
     <div id="app"></div>
+    <script>
+        // Check if user is authenticated
+        const sessionId = localStorage.getItem('sessionId');
+        if (!sessionId) {
+            window.location.href = '/';
+        }
+    </script>
     <script src="/app.js"></script>
 </body>
 </html>
