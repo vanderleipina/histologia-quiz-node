@@ -159,8 +159,13 @@
 
             <form id="signupForm">
                 <div class="form-group">
-                    <label for="name">Nombre de Usuario</label>
-                    <input type="text" id="name" name="name" required placeholder="Tu nombre completo">
+                    <label for="fullName">Nombre Completo</label>
+                    <input type="text" id="fullName" name="fullName" required placeholder="Tu nombre completo">
+                </div>
+
+                <div class="form-group">
+                    <label for="username">Nombre de Usuario</label>
+                    <input type="text" id="username" name="username" required placeholder="Nombre de usuario único">
                 </div>
 
                 <div class="form-group">
@@ -194,7 +199,8 @@
         document.getElementById('signupForm').addEventListener('submit', async (e) => {
             e.preventDefault();
             
-            const name = document.getElementById('name').value;
+            const fullName = document.getElementById('fullName').value;
+            const username = document.getElementById('username').value;
             const password = document.getElementById('password').value;
             const confirmPassword = document.getElementById('confirmPassword').value;
             const submitBtn = document.getElementById('submitBtn');
@@ -205,8 +211,14 @@
             successMsg.style.display = 'none';
 
             // Validation
-            if (name.trim().length < 3) {
+            if (fullName.trim().length < 3) {
                 errorMsg.textContent = 'El nombre debe tener al menos 3 caracteres';
+                errorMsg.style.display = 'block';
+                return;
+            }
+
+            if (username.trim().length < 3) {
+                errorMsg.textContent = 'El nombre de usuario debe tener al menos 3 caracteres';
                 errorMsg.style.display = 'block';
                 return;
             }
@@ -232,7 +244,7 @@
                     headers: {
                         'Content-Type': 'application/json'
                     },
-                    body: JSON.stringify({ name, password })
+                    body: JSON.stringify({ fullName, username, password })
                 });
 
                 const data = await response.json();

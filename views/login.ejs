@@ -149,8 +149,8 @@
 
             <form id="loginForm">
                 <div class="form-group">
-                    <label for="name">Nombre de Usuario</label>
-                    <input type="text" id="name" name="name" required>
+                    <label for="username">Nombre de Usuario</label>
+                    <input type="text" id="username" name="username" required>
                 </div>
 
                 <div class="form-group">
@@ -171,7 +171,7 @@
         document.getElementById('loginForm').addEventListener('submit', async (e) => {
             e.preventDefault();
             
-            const name = document.getElementById('name').value;
+            const username = document.getElementById('username').value;
             const password = document.getElementById('password').value;
             const submitBtn = document.getElementById('submitBtn');
             const errorMsg = document.getElementById('errorMessage');
@@ -188,7 +188,7 @@
                     headers: {
                         'Content-Type': 'application/json'
                     },
-                    body: JSON.stringify({ name, password })
+                    body: JSON.stringify({ username, password })
                 });
 
                 const data = await response.json();

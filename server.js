@@ -4,15 +4,15 @@ const fs = require('fs');
 const bcrypt = require('bcryptjs');
 const app = express();
 
-// Middleware
+// Middleware - MUST be before routes
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static('public'));
+
+// View engine setup
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
 // Database file paths
-// Use in-memory database for Vercel compatibility
 let usersDB = [];
 let studentsDB = [];
 
@@ -28,12 +28,10 @@ if (process.env.NODE_ENV !== 'production') {
 
 // Load users database
 function loadUsers() {
-    // In production (Vercel), use in-memory database
     if (process.env.NODE_ENV === 'production') {
         return usersDB;
     }
     
-    // In development, use file system
     if (fs.existsSync(USERS_DB_PATH)) {
         usersDB = JSON.parse(fs.readFileSync(USERS_DB_PATH, 'utf8'));
     }
@@ -44,7 +42,6 @@ function loadUsers() {
 function saveUsers(users) {
     usersDB = users;
     
-    // In development, also save to file
     if (process.env.NODE_ENV !== 'production') {
         try {
             fs.writeFileSync(USERS_DB_PATH, JSON.stringify(users, null, 2));
@@ -56,12 +53,10 @@ function saveUsers(users) {
 
 // Load students database
 function loadStudents() {
-    // In production (Vercel), use in-memory database
     if (process.env.NODE_ENV === 'production') {
         return studentsDB;
     }
     
-    // In development, use file system
     if (fs.existsSync(STUDENTS_DB_PATH)) {
         studentsDB = JSON.parse(fs.readFileSync(STUDENTS_DB_PATH, 'utf8'));
     }
@@ -72,7 +67,6 @@ function loadStudents() {
 function saveStudents(students) {
     studentsDB = students;
     
-    // In development, also save to file
     if (process.env.NODE_ENV !== 'production') {
         try {
             fs.writeFileSync(STUDENTS_DB_PATH, JSON.stringify(students, null, 2));
@@ -114,7 +108,9 @@ function getSession(sessionId) {
     return sessions[sessionId];
 }
 
-// Routes
+// ===== ROUTES =====
+
+// GET Routes
 app.get('/', (req, res) => {
     res.render('home');
 });
@@ -135,12 +131,13 @@ app.get('/signup', (req, res) => {
     res.render('signup');
 });
 
+// POST Routes
 app.post('/api/auth/signup', async (req, res) => {
     try {
-        const { name, password } = req.body;
+        const { fullName, username, password } = req.body;
         
-        if (!name || !password) {
-            return res.status(400).json({ error: 'Nombre y contraseña requeridos' });
+        if (!fullName || !username || !password) {
+            return res.status(400).json({ error: 'Todos los campos son requeridos' });
         }
         
         if (password.length < 3) {
@@ -149,9 +146,9 @@ app.post('/api/auth/signup', async (req, res) => {
         
         let users = loadUsers();
         
-        // Check if user already exists
-        if (users.find(u => u.name === name)) {
-            return res.status(400).json({ error: 'El usuario ya existe' });
+        // Check if username already exists
+        if (users.find(u => u.username === username)) {
+            return res.status(400).json({ error: 'El nombre de usuario ya existe' });
         }
         
         // Hash password
@@ -159,7 +156,8 @@ app.post('/api/auth/signup', async (req, res) => {
         
         const newUser = {
             id: users.length + 1,
-            name: name,
+            fullName: fullName,
+            username: username,
             password: hashedPassword,
             createdAt: new Date().toISOString().split('T')[0]
         };
@@ -174,19 +172,20 @@ app.post('/api/auth/signup', async (req, res) => {
             success: true,
             sessionId: sessionId,
             userId: newUser.id,
-            name: newUser.name
+            name: newUser.fullName
         });
     } catch (error) {
+        console.error('Signup error:', error);
         res.status(500).json({ error: 'Error en el servidor' });
     }
 });
 
 app.post('/api/auth/login', async (req, res) => {
     try {
-        const { name, password } = req.body;
+        const { username, password } = req.body;
         
-        if (!name || !password) {
-            return res.status(400).json({ error: 'Nombre y contraseña requeridos' });
+        if (!username || !password) {
+            return res.status(400).json({ error: 'Nombre de usuario y contraseña requeridos' });
         }
         
         if (password.length < 3) {
@@ -194,7 +193,7 @@ app.post('/api/auth/login', async (req, res) => {
         }
         
         let users = loadUsers();
-        const user = users.find(u => u.name === name);
+        const user = users.find(u => u.username === username);
         
         if (!user) {
             return res.status(401).json({ error: 'Usuario o contraseña incorrectos' });
@@ -214,9 +213,10 @@ app.post('/api/auth/login', async (req, res) => {
             success: true,
             sessionId: sessionId,
             userId: user.id,
-            name: user.name
+            name: user.fullName
         });
     } catch (error) {
+        console.error('Login error:', error);
         res.status(500).json({ error: 'Error en el servidor' });
     }
 });
@@ -239,7 +239,7 @@ app.get('/api/auth/check', (req, res) => {
     res.json({
         authenticated: true,
         userId: user.id,
-        name: user.name
+        name: user.fullName
     });
 });
 
@@ -325,6 +325,9 @@ app.post('/api/students/:id/score', (req, res) => {
     saveStudents(students);
     res.json(student);
 });
+
+// Static files - MUST be after all routes
+app.use(express.static('public'));
 
 // Start server
 const PORT = process.env.PORT || 3000;
