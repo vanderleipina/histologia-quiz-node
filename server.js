@@ -119,6 +119,14 @@ app.get('/', (req, res) => {
     res.render('home');
 });
 
+app.get('/index', (req, res) => {
+    res.render('index', { title: 'Histología Quiz' });
+});
+
+app.get('/index.html', (req, res) => {
+    res.render('index', { title: 'Histología Quiz' });
+});
+
 app.get('/login', (req, res) => {
     res.render('login');
 });
@@ -133,6 +141,10 @@ app.post('/api/auth/signup', async (req, res) => {
         
         if (!name || !password) {
             return res.status(400).json({ error: 'Nombre y contraseña requeridos' });
+        }
+        
+        if (password.length < 3) {
+            return res.status(400).json({ error: 'La contraseña debe tener al menos 3 caracteres' });
         }
         
         let users = loadUsers();
@@ -175,6 +187,10 @@ app.post('/api/auth/login', async (req, res) => {
         
         if (!name || !password) {
             return res.status(400).json({ error: 'Nombre y contraseña requeridos' });
+        }
+        
+        if (password.length < 3) {
+            return res.status(400).json({ error: 'La contraseña debe tener al menos 3 caracteres' });
         }
         
         let users = loadUsers();
